@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="29" height="16" tilewidth="100" tileheight="100">
+ <tileset firstgid="1" name="swamp_tiles" tilewidth="100" tileheight="100">
+  <image source="../../../Documents/Hardcore Dinosaur/Campfire-Journeys-Game/Assets/Sprites/Tiles/swamp_tiles.png" width="301" height="101"/>
+ </tileset>
+ <layer name="Collisions" width="29" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYKIAIwNy9dEajNqJHTAi6WGmk53UANS2k5gwQLYTOdyQMblhSIydtNQ/lPMnLr2MeOQotZNcQIydhNxNyGxiy2RaAnLtpMR9lNRh2PIurjyOjgEqDQDy
+  </data>
+ </layer>
+</map>
