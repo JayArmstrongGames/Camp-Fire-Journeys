@@ -20,19 +20,29 @@ public class Bullet : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D col)
 	{
-		if (col.transform.parent == null)return;
 
-		UnitInfo unitinfo = col.transform.parent.gameObject.GetComponent<UnitInfo>();
-	
-		if (unitinfo != null)
+
+		if (col.rigidbody2D != null)
 		{
-			if (unitinfo.Team != Team)
+			col.rigidbody2D.AddForceAtPosition(rigidbody2D.velocity * 25, transform.position);
+		}                              
+
+		if (col.transform.parent != null)
+		{
+			UnitInfo unitinfo = col.transform.parent.gameObject.GetComponent<UnitInfo>();
+		
+			if (unitinfo != null)
 			{
-				unitinfo.Damage(0.5f);
+				if (unitinfo.Team != Team)
+				{
+					unitinfo.Damage(0.5f);
+					Destroy(gameObject);
+				}
+			} else {
 				Destroy(gameObject);
 			}
-		} else {
-			Destroy(gameObject);
+			} else {
+				Destroy(gameObject);
 		}
 	}
 }
