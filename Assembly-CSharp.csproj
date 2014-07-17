@@ -301,6 +301,7 @@
      <Compile Include="Assets\AddOns\TK2DROOT\tk2d_demo\tk2dDemoReloadController.cs" />
      <Compile Include="Assets\AddOns\TK2DROOT\tk2d_demo\tk2dDemoRuntimeSpriteController.cs" />
      <Compile Include="Assets\CanBop.cs" />
+     <Compile Include="Assets\Rotater.cs" />
      <Compile Include="Assets\Scripts\AllWeapons.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\Enemy1.cs" />
@@ -324,6 +325,7 @@
      <Compile Include="Assets\Scripts\Weapon.cs" />
      <Compile Include="Assets\Scripts\WeaponManager.cs" />
      <Compile Include="Assets\SpriteParticleManager.cs" />
+     <Compile Include="Assets\fade.cs" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\AddOns\NGUI\ReadMe - 3.5.5.txt" />
      <None Include="Assets\AddOns\NGUI\Examples\Models\Orc\Orc Skin.shader" />

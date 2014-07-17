@@ -13,10 +13,11 @@ public class ScreenShake : MonoBehaviour
 
 	public void Shake( float duration, float magnitude )
 	{
-		this.magnitude = magnitude;
-		decay = magnitude / duration;
+	//	this.magnitude = magnitude;
+	//	decay = magnitude / duration;
 	}
 
+	/*
 	public bool IsShaking
 	{
 		get { return isShaking; }
@@ -24,6 +25,7 @@ public class ScreenShake : MonoBehaviour
 
 	void Update()
 	{
+
 		if ( magnitude > 0 )
 		{
 			if (isShaking != true){OriginalPosition = transform.position;};
@@ -44,5 +46,7 @@ public class ScreenShake : MonoBehaviour
 			//return Mathf.Lerp( minForce, maxForce, throwPower );
 			isShaking = false;
 		}
+
 	}
+	*/
 }
