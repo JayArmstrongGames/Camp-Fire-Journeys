@@ -301,6 +301,8 @@
      <Compile Include="Assets\AddOns\TK2DROOT\tk2d_demo\tk2dDemoReloadController.cs" />
      <Compile Include="Assets\AddOns\TK2DROOT\tk2d_demo\tk2dDemoRuntimeSpriteController.cs" />
      <Compile Include="Assets\CanBop.cs" />
+     <Compile Include="Assets\MaintainDistance.cs" />
+     <Compile Include="Assets\Orbit.cs" />
      <Compile Include="Assets\Rotater.cs" />
      <Compile Include="Assets\Scripts\AllWeapons.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />

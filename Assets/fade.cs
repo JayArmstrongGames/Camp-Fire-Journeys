@@ -3,13 +3,25 @@ using System.Collections;
 
 public class fade : MonoBehaviour {
 
-	// Update is called once per frame
+	public float modifier = 0.001f;
+	public float starting = 0;
+
+	SpriteRenderer sprite;
+
+
+	void Start()
+	{
+		sprite = GetComponent<SpriteRenderer>();
+		Color color = sprite.color;
+		color.a += starting;
+		sprite.color = color;
+	}
 	void Update () {
-		SpriteRenderer sprite = GetComponent<SpriteRenderer>();
-		if (sprite.color.a > 0)
+
+		if ((modifier > 0 && sprite.color.a < 1) || (modifier < 0 && sprite.color.a > 0))
 		{
 			Color color = sprite.color;
-			color.a -= 0.001f;
+			color.a += modifier;
 			sprite.color = color;
 		}
 	}
