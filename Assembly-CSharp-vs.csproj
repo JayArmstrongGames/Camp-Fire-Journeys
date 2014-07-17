@@ -370,6 +370,7 @@
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\CutoutVertexColor.shader" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\demobmfont\test.fnt" />
+     <None Include="Assets\Spine\goblins-ffd.atlas.txt" />
      <None Include="Assets\AddOns\HUD Text\Atlases\Arimo20.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2dUI_demo\Assets\Font\OldSansBlack\OldSansBlack.fnt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\LitBlendVertexColor.shader" />
