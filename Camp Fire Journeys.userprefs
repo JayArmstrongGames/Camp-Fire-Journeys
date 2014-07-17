@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CanBop.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameScript.cs">
     <Files>
-      <File FileName="../Documents/Hardcore Dinosaur/DropSlam/Assets/Scripts/Player/DashAbility.cs" Line="8" Column="36" />
-      <File FileName="../Documents/Hardcore Dinosaur/DropSlam/Assets/Scripts/Player/SlamAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameScript.cs" Line="26" Column="43" />
       <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Movement.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/IsBoppable.cs" Line="21" Column="12" />
