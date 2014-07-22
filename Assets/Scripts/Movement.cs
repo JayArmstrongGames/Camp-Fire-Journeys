@@ -22,6 +22,12 @@ public class Movement : MonoBehaviour {
 			{
 				spriterenderers[i].transform.localScale = facing;
 			}
+
+			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
+			for (int i = 0; i < skeletons.Length; i++)
+			{
+				skeletons[i].transform.localScale = facing;
+			}
 		}
 
 	}
@@ -51,6 +57,14 @@ public class Movement : MonoBehaviour {
 			for (int i = 0; i < spriterenderers.Length; i++)
 			{
 				spriterenderers[i].transform.localScale = facing;
+			}
+			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
+			for (int i = 0; i < skeletons.Length; i++)
+			{
+				skeletons[i].transform.localScale = facing;
+				Debug.Log ("skele"+ skeletons[i]);
+				skeletons[i].state.SetAnimation(0, "walk", true);
+
 			}
 		}
 

@@ -32,15 +32,15 @@ public class IsWrappable : MonoBehaviour {
 			transform.position = position;
 			return;
 		}
-		if (transform.position.x < 0.5 -level.tileMap.width/2)
+		if (transform.position.x < 0.5f )
 		{
-			position.x = 1.5f + level.tileMap.width/2;
+			position.x = level.tileMap.width - 0.5f;
 			transform.position = position;
 			return;
 		}
-		if (transform.position.x > 1.5 + level.tileMap.width/2)
+		if (transform.position.x >  level.tileMap.width - 0.5f)
 		{
-			position.x =  0.5f -level.tileMap.width/2;
+			position.x =  0.5f;
 			transform.position = position;
 			return;
 		}
