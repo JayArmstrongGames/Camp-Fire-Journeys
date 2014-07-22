@@ -13,7 +13,12 @@ public class LevelInfo : MonoBehaviour {
 	public SpriteRenderer[] fadein;
 	public SpriteRenderer[] fadeout;
 
+	private Light[] lights;
+	public GameObject lightParent;
+
 	void Start () {
+
+		lights = lightParent.GetComponentsInChildren<Light>(true);
 
 	//	tileMap = GetComponentInChildren<tk2dTileMap>();
 	//	tileMap.SpriteCollectionInst = thingYouWantToChangeItTo;
@@ -45,7 +50,7 @@ public class LevelInfo : MonoBehaviour {
 		{
 			Color tempColor = fadein[i].color;
 			if ((float) currentColor / (colors.Length - 1f) < 0.8f)
-			{œ
+			{
 				tempColor = Color.Lerp(fadein[i].color, colors[currentColor], changeTime*Time.deltaTime);
 			}
 			tempColor.a = (float) currentColor / (colors.Length - 1f);
@@ -56,14 +61,20 @@ public class LevelInfo : MonoBehaviour {
 		{
 			Color tempColor = Color.Lerp(fadeout[i].color, colors[currentColor], changeTime*Time.deltaTime);
 			tempColor.a = 1f - ((float) currentColor / (colors.Length - 1f));
-			Debug.Log(tempColor.a);
 			fadeout[i].color = tempColor;
+		}
+
+		foreach (Light light in lights)
+		{
+			light.intensity =  ((float) currentColor / (colors.Length - 1f)) * 2.0f;
 		}
 
 		//this is just to test
 		if(Input.GetKeyDown("space")){
 			NextColor();
 		}
+
+
 		
 	}
 	
