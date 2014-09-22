@@ -1,0 +1,76 @@
+
+Sorceror.png
+size: 423,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sorceror/Sorcerer_weaponarm_btm
+  rotate: true
+  xy: 320, 40
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_arm_top
+  rotate: true
+  xy: 362, 40
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_body
+  rotate: true
+  xy: 164, 16
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_hand
+  rotate: false
+  xy: 2, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_head
+  rotate: true
+  xy: 274, 24
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_necklace
+  rotate: true
+  xy: 224, 23
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_skirt
+  rotate: false
+  xy: 97, 13
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+sorceror/Sorceror_weaponarm_top
+  rotate: true
+  xy: 397, 45
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+sorceror/sorceror_weapon
+  rotate: true
+  xy: 2, 20
+  size: 42, 93
+  orig: 42, 93
+  offset: 0, 0
+  index: -1
+sorceror/sorceror_weaponhand
+  rotate: true
+  xy: 164, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
