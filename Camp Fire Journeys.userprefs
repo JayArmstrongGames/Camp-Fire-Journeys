@@ -1,11 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Movement.cs">
     <Files>
-      <File FileName="Assets/Scripts/LevelInfo.cs" Line="63" Column="69" />
+      <File FileName="Assets/Spine/spine-unity/Assets/spine-unity/SkeletonRenderer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IsWrappable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelInfo.cs" Line="1" Column="1" />
       <File FileName="Assets/fade.cs" Line="1" Column="1" />
-      <File FileName="Assets/Spine/spine-unity/Assets/spine-unity/SkeletonRenderer.cs" Line="81" Column="1" />
+      <File FileName="Assets/Spine/spine-unity/Assets/spine-unity/SkeletonRenderer.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GameScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SimpleTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Movement.cs" Line="9" Column="30" />
+      <File FileName="Assets/Spine/spine-unity/Assets/spine-unity/AtlasAsset.cs" Line="95" Column="1" />
+      <File FileName="Assets/Spine/OldMan.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

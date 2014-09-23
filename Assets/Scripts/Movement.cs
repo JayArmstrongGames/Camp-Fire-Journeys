@@ -10,10 +10,11 @@ public class Movement : MonoBehaviour {
 
 	public float direction = 1;
 	bool onGround;
+	public Vector3 facing;
 
 	void Start()
 	{
-		Vector3 facing = gameObject.transform.localScale;
+		facing = gameObject.transform.localScale;
 		if (direction != facing.x)
 		{
 			facing.x = direction;
@@ -28,6 +29,7 @@ public class Movement : MonoBehaviour {
 			{
 				skeletons[i].transform.localScale = facing;
 			}
+
 		}
 
 	}
@@ -41,7 +43,7 @@ public class Movement : MonoBehaviour {
 		gameObject.rigidbody2D.velocity = velocity;
 
 		if (speed == 0)return;
-		Vector3 facing = gameObject.transform.localScale;
+		facing = gameObject.transform.localScale;
 		if (speed < 0 )
 		{
 			facing.x = -1;
@@ -57,14 +59,6 @@ public class Movement : MonoBehaviour {
 			for (int i = 0; i < spriterenderers.Length; i++)
 			{
 				spriterenderers[i].transform.localScale = facing;
-			}
-			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
-			for (int i = 0; i < skeletons.Length; i++)
-			{
-				skeletons[i].transform.localScale = facing;
-				Debug.Log ("skele"+ skeletons[i]);
-				skeletons[i].state.SetAnimation(0, "walk", true);
-
 			}
 		}
 

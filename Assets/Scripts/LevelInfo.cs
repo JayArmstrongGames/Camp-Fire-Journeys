@@ -54,7 +54,7 @@ public class LevelInfo : MonoBehaviour {
 				tempColor = Color.Lerp(fadein[i].color, colors[currentColor], changeTime*Time.deltaTime);
 			}
 			tempColor.a = (float) currentColor / (colors.Length - 1f);
-			Debug.Log(tempColor.a);
+
 			fadein[i].color = tempColor;
 		}
 		for (int i = 0; i < fadeout.Length; i++)
