@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{515682FE-904C-42CB-93EE-F85481CAFFBC}</ProjectGuid>
+	<ProjectGuid>{C081AC4D-A31A-E265-BBD2-708485B1B265}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_4_5_0;UNITY_4_5;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_2;UNITY_4_5;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -377,9 +377,9 @@
      <None Include="Assets\AddOns\InControl\README\README.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\LitPremulVertexColor.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\PremulVertexColor.shader" />
+     <None Include="Assets\Spine\imp.atlas.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\Credits.txt" />
      <None Include="Assets\AddOns\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
-     <None Include="Assets\Spine\oldman.atlas.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\goodies\PackedTextMesh.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\Blend2TexVertexColor.shader" />
@@ -404,7 +404,6 @@
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Editor\EditorUtility.shader" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Text.shader" />
-     <None Include="Assets\Spine\imp.atlas.txt" />
      <None Include="Assets\Spine\spine-unity\Assets\examples\dragon\data\dragon.json.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\CutoutVertexColor.shader" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
@@ -423,6 +422,7 @@
      <None Include="Assets\AddOns\HUD Text\Atlases\Large.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Depth.shader" />
      <None Include="Assets\AddOns\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Spine\oldman.atlas.txt" />
      <None Include="Assets\Spine\spine-unity\Assets\examples\dragon\data\dragon.atlas.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
      <None Include="Assets\AddOns\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
@@ -431,10 +431,10 @@
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\AdditiveVertexColor.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\democameradata\source\democamerafont.fnt" />
  <Reference Include="XInputDotNetPure">
- <HintPath>/Users/JayArmstrong/Camp Fire Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
+ <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
  </Reference>
  <Reference Include="zlib.net">
- <HintPath>/Users/JayArmstrong/Camp Fire Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
+ <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
