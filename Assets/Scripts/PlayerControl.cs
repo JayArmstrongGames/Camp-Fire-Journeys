@@ -77,26 +77,24 @@ public class PlayerControl : MonoBehaviour {
 		}
 
 		//FIRE
-		if (device.GetAction2Down())
+		if (device.GetAction2UpOnce())
 		{
 			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
 			for (int i = 0; i < skeletons.Length; i++)
 			{
 				skeletons[i].state.AddAnimation(1, "shoot", false, 0);
-				//skeletons[i].state.SetAnimation(0, "shoot", false);
 			}
 			weaponmanager.Fire();
 		}
 
 		//ATTACK
-		if (device.GetAction3Down())
+		if (device.GetAction3UpOnce())
 		{
 			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
 			for (int i = 0; i < skeletons.Length; i++)
 			{
 				skeletons[i].state.SetAnimation(0, "attack1", false);
 			}
-			weaponmanager.Fire();
 		}
 
 
