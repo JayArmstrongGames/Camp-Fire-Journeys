@@ -40,6 +40,7 @@ public class Goblins : MonoBehaviour {
 	public void Start () {
 		skeletonAnimation = GetComponent<SkeletonAnimation>();
 		headBone = skeletonAnimation.skeleton.FindBone("head");
+
 		skeletonAnimation.UpdateBones += UpdateBones;
 	}
 
@@ -51,7 +52,7 @@ public class Goblins : MonoBehaviour {
 	public void OnMouseDown () {
 		skeletonAnimation.skeleton.SetSkin(girlSkin ? "goblin" : "goblingirl");
 		skeletonAnimation.skeleton.SetSlotsToSetupPose();
-		
+
 		girlSkin = !girlSkin;
 		
 		if (girlSkin) {
