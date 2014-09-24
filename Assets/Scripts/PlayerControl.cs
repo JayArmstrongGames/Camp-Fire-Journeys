@@ -82,7 +82,8 @@ public class PlayerControl : MonoBehaviour {
 			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
 			for (int i = 0; i < skeletons.Length; i++)
 			{
-				skeletons[i].state.SetAnimation(0, "shoot", false);
+				skeletons[i].state.AddAnimation(1, "shoot", false, 0);
+				//skeletons[i].state.SetAnimation(0, "shoot", false);
 			}
 			weaponmanager.Fire();
 		}
