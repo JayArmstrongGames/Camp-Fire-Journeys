@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using InControl;
+using Spine;
 
 public class PlayerControl : MonoBehaviour {
 
@@ -11,18 +12,22 @@ public class PlayerControl : MonoBehaviour {
 	//[HideInInspector]
 	public WeaponManager weaponmanager;
 
-
+		Bone head;
 
 	public void SetDevice( PlayerDevice device )
 	{
 		this.device = device;
 		unitinfo = gameObject.GetComponent<UnitInfo>();
 		movement = gameObject.GetComponent<Movement>();
+
 	}
 
 	void Update ()
 	{
+		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("oldman_head");
+		head.rotation += 0.5f;
 		UpdateInput();
+
 	}
 
 
@@ -40,10 +45,8 @@ public class PlayerControl : MonoBehaviour {
 				SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
 				for (int i = 0; i < skeletons.Length; i++)
 				{
-
-
 					skeletons[i].transform.localScale = movement.facing;
-					skeletons[i].state.Data.SetMix("Idle", "Run", 0.3f);
+					//skeletons[i].state.Data.SetMix("Idle", "Run", 0.3f);
 					skeletons[i].state.SetAnimation(0, "Run", true);
 
 
@@ -57,9 +60,9 @@ public class PlayerControl : MonoBehaviour {
 				SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
 				for (int i = 0; i < skeletons.Length; i++)
 				{
-					Debug.Log("animation " + skeletons[i].state.Data.SkeletonData.Animations[0].name);
+				//	Debug.Log("animation " + skeletons[i].state.Data.SkeletonData.Animations[0].name);
 					skeletons[i].transform.localScale = movement.facing;
-					skeletons[i].state.Data.SetMix("Run", "Idle", 0.2f);
+					//skeletons[i].state.Data.SetMix("Run", "Idle", 0.2f);
 					skeletons[i].state.SetAnimation(0, "Idle", true);
 				}
 			}
@@ -97,14 +100,7 @@ public class PlayerControl : MonoBehaviour {
 
 
 
-		//if ( inputMoveVector.x != 0.0f)
-		//{
-			//moveAbility.moveDirection.x = inputMoveVector.x;
-			//moveAbility.moveDirection = game.trueNorth.TransformPoint( moveAbility.moveDirection );
-			//Normalize movement vector to get full speed at all times
-			//moveAbility.moveDirection.Normalize();
-			//isMoving = true;
-		//}
+
 	}
 
 	void render (float delta) {
