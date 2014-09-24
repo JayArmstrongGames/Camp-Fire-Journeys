@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{1B59AAC9-9459-6239-0333-D428983AE54B}</ProjectGuid>
+	<ProjectGuid>{661A261B-8D47-9FB9-ADBF-F91D2FCCA7AC}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -292,16 +292,16 @@
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\AdditiveVertexColor.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\democameradata\source\democamerafont.fnt" />
  <Reference Include="XInputDotNetPure">
- <HintPath>/Users/JayArmstrong/Camp Fire Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
  </Reference>
  <Reference Include="tk2dExternal">
- <HintPath>/Users/JayArmstrong/Camp Fire Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
  </Reference>
  <Reference Include="tk2dSkin">
- <HintPath>/Users/JayArmstrong/Camp Fire Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
  </Reference>
  <Reference Include="zlib.net">
- <HintPath>/Users/JayArmstrong/Camp Fire Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -309,7 +309,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{515682FE-904C-42CB-93EE-F85481CAFFBC}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{C081AC4D-A31A-E265-BBD2-708485B1B265}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

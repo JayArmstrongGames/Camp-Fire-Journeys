@@ -22,15 +22,14 @@ public class PlayerControl : MonoBehaviour {
 		unitinfo = gameObject.GetComponent<UnitInfo>();
 		movement = gameObject.GetComponent<Movement>();
 		skeletonAnimation = gameObject.GetComponentInChildren<SkeletonAnimation>();
-		skeletonAnimation.state.Event += ATTACK_HIT;
+		skeletonAnimation.state.Event += Event;
+		skeletonAnimation.UpdateBones += UpdateBones;
+		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("head");
 	}
 
 	void Update ()
 	{
-		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("head");
-		head.rotation += 0.5f;
 		UpdateInput();
-
 	}
 
 
@@ -73,7 +72,10 @@ public class PlayerControl : MonoBehaviour {
 		//FIRE
 		if (device.GetAction2DownOnce())
 		{
-			skeletonAnimation.state.SetAnimation(1, "shoot", false);
+			if (Time.time > weaponmanager.CurrentWeapon.wait)
+			{
+				skeletonAnimation.state.SetAnimation(1, "shoot", false);
+			}
 		}
 
 		//ATTACK
@@ -85,17 +87,41 @@ public class PlayerControl : MonoBehaviour {
 
 	}
 
-	void FIRE_GUN(Spine.AnimationState state, int trackIndex, Spine.Event e)
+	void Event(Spine.AnimationState state, int trackIndex, Spine.Event e)
 	{
-		weaponmanager.Fire();
+		switch (e.ToString())
+		{
+			case "ATTACK_HIT":
+				Debug.Log ("SWING!");
+			break;
+			case "FIRE_GUN":
+			Debug.Log(head.WorldX + "    " + head.WorldY);
+			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("gun");
+
+			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY);
+			weaponmanager.Fire();
+			break;
+		}
 	}
 
-	void ATTACK_HIT(Spine.AnimationState state, int trackIndex, Spine.Event e)
-	{
-		Debug.Log("HEY");
-	}
 
-	void render (float delta) {
-		Debug.Log("BO");
+
+	void UpdateBones(SkeletonAnimation skeletonAnimation) {
+		//HEAD FOLLOW MOUSE
+		// could be public
+		const float LowerRotationBound = -60.0f;   
+		const float UpperRotationBound = 60.0f;
+		
+		// temp variables
+		float tempRot;
+		Vector3 tempVec;
+
+		// head bone rotation
+		tempVec = Camera.main.WorldToScreenPoint(new Vector3(head.WorldX+transform.position.x, head.WorldY+transform.position.y, 0));
+		tempVec = Input.mousePosition - tempVec;
+		tempRot = Mathf.Atan2(tempVec.y, tempVec.x* skeletonAnimation.transform.localScale.x) * Mathf.Rad2Deg;
+		head.Rotation = Mathf.Clamp(tempRot, LowerRotationBound, UpperRotationBound);
+
+
 	}
 }
