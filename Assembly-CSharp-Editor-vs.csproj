@@ -238,6 +238,7 @@
      <None Include="Assets\AddOns\InControl\README\README.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\LitPremulVertexColor.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\PremulVertexColor.shader" />
+     <None Include="Assets\Spine\imp.atlas.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\Credits.txt" />
      <None Include="Assets\AddOns\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
@@ -282,6 +283,7 @@
      <None Include="Assets\AddOns\HUD Text\Atlases\Large.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Depth.shader" />
      <None Include="Assets\AddOns\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Spine\oldman.atlas.txt" />
      <None Include="Assets\Spine\spine-unity\Assets\examples\dragon\data\dragon.atlas.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
      <None Include="Assets\AddOns\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
