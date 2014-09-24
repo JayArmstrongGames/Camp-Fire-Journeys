@@ -9,17 +9,20 @@ public class PlayerControl : MonoBehaviour {
 	Movement movement;
 	UnitInfo unitinfo;
 	bool isMoving = false;
+	int combo = 0;
 	//[HideInInspector]
 	public WeaponManager weaponmanager;
 
-		Bone head;
+	Bone head;
+	SkeletonAnimation skeletonAnimation;
 
 	public void SetDevice( PlayerDevice device )
 	{
 		this.device = device;
 		unitinfo = gameObject.GetComponent<UnitInfo>();
 		movement = gameObject.GetComponent<Movement>();
-
+		skeletonAnimation = gameObject.GetComponentInChildren<SkeletonAnimation>();
+		skeletonAnimation.state.Event += ATTACK_HIT;
 	}
 
 	void Update ()
@@ -42,29 +45,19 @@ public class PlayerControl : MonoBehaviour {
 		{
 			if (!isMoving)
 			{
-				SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
-				for (int i = 0; i < skeletons.Length; i++)
-				{
-					skeletons[i].transform.localScale = movement.facing;
+				skeletonAnimation.transform.localScale = movement.facing;
 					//skeletons[i].state.Data.SetMix("Idle", "Run", 0.3f);
-					skeletons[i].state.SetAnimation(0, "Run", true);
-
-
-				}
+				skeletonAnimation.state.SetAnimation(0, "Run", true);
 			}
 			isMoving = true;
 
 		} else {
 			if (isMoving == true)
 			{
-				SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
-				for (int i = 0; i < skeletons.Length; i++)
-				{
 				//	Debug.Log("animation " + skeletons[i].state.Data.SkeletonData.Animations[0].name);
-					skeletons[i].transform.localScale = movement.facing;
+				skeletonAnimation.transform.localScale = movement.facing;
 					//skeletons[i].state.Data.SetMix("Run", "Idle", 0.2f);
-					skeletons[i].state.SetAnimation(0, "Idle", true);
-				}
+				skeletonAnimation.state.SetAnimation(0, "Idle", true);
 			}
 			isMoving = false;
 			
@@ -74,32 +67,32 @@ public class PlayerControl : MonoBehaviour {
 		if (device.GetAction1DownOnce())
 		{
 			movement.Jump(unitinfo.JumpHeight);
+			skeletonAnimation.state.SetAnimation(0, "JumpMOCKUP", false);
 		}
 
 		//FIRE
-		if (device.GetAction2UpOnce())
+		if (device.GetAction2DownOnce())
 		{
-			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
-			for (int i = 0; i < skeletons.Length; i++)
-			{
-				skeletons[i].state.SetAnimation(1, "shoot", false);
-			}
-			weaponmanager.Fire();
+			skeletonAnimation.state.SetAnimation(1, "shoot", false);
 		}
 
 		//ATTACK
-		if (device.GetAction3UpOnce())
+		if (device.GetAction3DownOnce())
 		{
-			SkeletonAnimation[] skeletons = gameObject.GetComponentsInChildren<SkeletonAnimation>();
-			for (int i = 0; i < skeletons.Length; i++)
-			{
-				skeletons[i].state.SetAnimation(0, "attack1", false);
-			}
+			combo++; if (combo > 3)combo = 1;
+			skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
 		}
 
+	}
 
+	void FIRE_GUN(Spine.AnimationState state, int trackIndex, Spine.Event e)
+	{
+		weaponmanager.Fire();
+	}
 
-
+	void ATTACK_HIT(Spine.AnimationState state, int trackIndex, Spine.Event e)
+	{
+		Debug.Log("HEY");
 	}
 
 	void render (float delta) {
