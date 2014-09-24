@@ -24,7 +24,7 @@ public class PlayerControl : MonoBehaviour {
 
 	void Update ()
 	{
-		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("oldman_head");
+		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("head");
 		head.rotation += 0.5f;
 		UpdateInput();
 
