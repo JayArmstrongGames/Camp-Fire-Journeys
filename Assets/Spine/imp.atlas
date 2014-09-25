@@ -1,0 +1,34 @@
+
+imp.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imp/imp_arm
+  rotate: true
+  xy: 2, 3
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+imp/imp_body
+  rotate: false
+  xy: 2, 38
+  size: 130, 86
+  orig: 130, 86
+  offset: 0, 0
+  index: -1
+imp/imp_tail
+  rotate: false
+  xy: 134, 69
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+imp/imp_wing
+  rotate: false
+  xy: 134, 2
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
