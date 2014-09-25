@@ -1,6 +1,6 @@
 
 imp.png
-size: 177,45
+size: 256,64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none

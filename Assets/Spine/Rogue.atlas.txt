@@ -1,6 +1,6 @@
 
 Rogue.png
-size: 504,126
+size: 512,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none

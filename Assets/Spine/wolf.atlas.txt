@@ -1,6 +1,6 @@
 
 wolf.png
-size: 186,62
+size: 256,64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none

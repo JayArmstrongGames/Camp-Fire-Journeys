@@ -1,6 +1,6 @@
 
 Sorceror.png
-size: 423,62
+size: 512,64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
