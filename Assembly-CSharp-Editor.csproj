@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_4_5_2;UNITY_4_5;UNITY_64;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_5_0;UNITY_4_5;UNITY_64;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -263,6 +263,7 @@
      <None Include="Assets\AddOns\HUD Text\ReadMe - 1.11.txt" />
      <None Include="Assets\Spine\spine-unity\Assets\examples\goblins\data\goblins-ffd.json.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Spine\oldman.atlas.txt" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Editor\EditorUtility.shader" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Text.shader" />
      <None Include="Assets\Spine\spine-unity\Assets\examples\dragon\data\dragon.json.txt" />
@@ -283,7 +284,6 @@
      <None Include="Assets\AddOns\HUD Text\Atlases\Large.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Depth.shader" />
      <None Include="Assets\AddOns\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
-     <None Include="Assets\Spine\oldman.atlas.txt" />
      <None Include="Assets\Spine\spine-unity\Assets\examples\dragon\data\dragon.atlas.txt" />
      <None Include="Assets\AddOns\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
      <None Include="Assets\AddOns\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
@@ -292,16 +292,16 @@
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\AdditiveVertexColor.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\democameradata\source\democamerafont.fnt" />
  <Reference Include="XInputDotNetPure">
- <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
  </Reference>
  <Reference Include="tk2dExternal">
- <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
  </Reference>
  <Reference Include="tk2dSkin">
- <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
  </Reference>
  <Reference Include="zlib.net">
- <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
