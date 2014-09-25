@@ -13,7 +13,8 @@ public class PlayerControl : MonoBehaviour {
 	int gunKickBack = 0;
 	string state = "idle";
 	//[HideInInspector]
-	public WeaponManager weaponmanager;
+	WeaponManager weaponmanager;
+	MeleeManager meleemanager;
 
 	Bone head;
 	Bone hip;
@@ -30,6 +31,8 @@ public class PlayerControl : MonoBehaviour {
 		skeletonAnimation.state.End += End;
 		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("head");
 		hip = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("body");
+		weaponmanager = gameObject.GetComponentInChildren<WeaponManager>();
+		meleemanager = gameObject.GetComponentInChildren<MeleeManager>();
 	}
 
 	
@@ -158,6 +161,7 @@ public class PlayerControl : MonoBehaviour {
 		{
 			case "ATTACK_HIT":
 				Debug.Log ("SWING!");
+				meleemanager.Attack();
 			break;
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("gun");
@@ -168,7 +172,6 @@ public class PlayerControl : MonoBehaviour {
 	}
 
 	void End(Spine.AnimationState animState, int trackIndex) {
-		Debug.Log("end " + animState.ToString());
 		switch (animState.ToString())
 		{
 			case "Land":

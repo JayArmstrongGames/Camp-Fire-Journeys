@@ -20,8 +20,6 @@ public class Bullet : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D col)
 	{
-
-
 		if (col.rigidbody2D != null)
 		{
 			col.rigidbody2D.AddForceAtPosition(rigidbody2D.velocity * 25, transform.position);
