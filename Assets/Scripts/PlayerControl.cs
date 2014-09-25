@@ -13,7 +13,8 @@ public class PlayerControl : MonoBehaviour {
 	int gunKickBack = 0;
 	string state = "idle";
 	//[HideInInspector]
-	public WeaponManager weaponmanager;
+	WeaponManager weaponmanager;
+	MeleeManager meleemanager;
 
 	Bone head;
 	Bone hip;
@@ -30,6 +31,8 @@ public class PlayerControl : MonoBehaviour {
 		skeletonAnimation.state.End += End;
 		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("head");
 		hip = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("body");
+		weaponmanager = gameObject.GetComponentInChildren<WeaponManager>();
+		meleemanager = gameObject.GetComponentInChildren<MeleeManager>();
 	}
 
 	
@@ -41,31 +44,42 @@ public class PlayerControl : MonoBehaviour {
 		{
 			case "idle":
 				if (skeletonAnimation.state.ToString() != "Idle"){skeletonAnimation.state.SetAnimation(0, "Idle", true);}
-				canMove();
-				canShoot();
-				canJump();
-				canAttack();
-			break;
+					canMove();
+					canShoot();
+					canJump();
+					canAttack();
+				break;
 			case "run":
 				if (skeletonAnimation.state.ToString() != "Run"){skeletonAnimation.state.SetAnimation(0, "Run", true);}
-				canMove();
-				canShoot();
-				canJump();
-				canAttack();	
-			break;
+					canMove();
+					canShoot();
+					canJump();
+					canAttack();	
+				break;
 			case "jump":
 				canMove();
 				canShoot();
 				if (gameObject.rigidbody2D.velocity.y > 0)
 				{
-					if (skeletonAnimation.state.ToString() != "JumpMOCKUP")skeletonAnimation.state.SetAnimation(0, "JumpMOCKUP", true);
+				if (skeletonAnimation.state.ToString() != "Jump" && skeletonAnimation.state.ToString() != "<none>")skeletonAnimation.state.SetAnimation(0, "Jump", false);
 				} else { 
-					if (skeletonAnimation.state.ToString() != "Fall")skeletonAnimation.state.SetAnimation(0, "Fall", true);
+				if (skeletonAnimation.state.ToString() != "Fall" && skeletonAnimation.state.ToString() != "<none>")skeletonAnimation.state.SetAnimation(0, "Fall", false);
 				}
-				if (movement.onGround == true) state = "land";
+				if (movement.onGround == true) 
+				{
+					if (device.GetInputMoveVector().x != 0f)
+					{
+						state = "run";
+					} else { 
+						state = "land";
+						skeletonAnimation.state.SetAnimation(0, "Land", false);
+						skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
+					}
+				}
 			break;
 			case "land":
-			if (skeletonAnimation.state.ToString() != "Land")skeletonAnimation.state.SetAnimation(0, "Land", false);
+				
+			//	if (skeletonAnimation.state.ToString() != "Land")skeletonAnimation.state.SetAnimation(0, "Land", false);
 				//wait until animation has played
 			break;
 			case "attack":
@@ -80,7 +94,6 @@ public class PlayerControl : MonoBehaviour {
 		{
 			state = "jump";
 		}
-
 	}
 
 
@@ -91,7 +104,6 @@ public class PlayerControl : MonoBehaviour {
 		{
 			if (!isMoving)
 			{
-				skeletonAnimation.transform.localScale = movement.facing;
 				if (movement.onGround == true)state = "run";
 			}
 			isMoving = true;
@@ -99,12 +111,11 @@ public class PlayerControl : MonoBehaviour {
 		} else {
 			if (isMoving == true)
 			{
-				skeletonAnimation.transform.localScale = movement.facing;
 				if (movement.onGround == true)state = "idle";
 			}
 			isMoving = false;
-			
 		}
+		skeletonAnimation.transform.localScale = movement.facing;
 	}
 
 
@@ -150,6 +161,7 @@ public class PlayerControl : MonoBehaviour {
 		{
 			case "ATTACK_HIT":
 				Debug.Log ("SWING!");
+				meleemanager.Attack();
 			break;
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("gun");
@@ -160,18 +172,12 @@ public class PlayerControl : MonoBehaviour {
 	}
 
 	void End(Spine.AnimationState animState, int trackIndex) {
-
 		switch (animState.ToString())
 		{
 			case "Land":
 				if (state == "land")
 				{
-					if (device.GetInputMoveVector().x != 0f)
-					{
-						state = "run";
-					} else {
-						state = "idle";
-					}
+					state = "idle";
 				}
 			break;
 
@@ -192,6 +198,7 @@ public class PlayerControl : MonoBehaviour {
 	}
 
 	void UpdateBones(SkeletonAnimation skeletonAnimation) {
+		/*
 		//HEAD FOLLOW MOUSE
 		// could be public
 		const float LowerRotationBound = -60.0f;   
@@ -207,7 +214,7 @@ public class PlayerControl : MonoBehaviour {
 		tempRot = Mathf.Atan2(tempVec.y, tempVec.x* skeletonAnimation.transform.localScale.x) * Mathf.Rad2Deg;
 		tempRot = Mathf.Clamp(tempRot, LowerRotationBound, UpperRotationBound);
 		if (tempRot < UpperRotationBound && tempRot > LowerRotationBound) head.Rotation = tempRot;
-
+		*/
 		hip.Rotation += gunKickBack; if (gunKickBack > 0) gunKickBack--;
 	}
 }
