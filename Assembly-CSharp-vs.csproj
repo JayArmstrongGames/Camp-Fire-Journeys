@@ -301,6 +301,7 @@
      <Compile Include="Assets\AddOns\TK2DROOT\tk2d_demo\tk2dDemoReloadController.cs" />
      <Compile Include="Assets\AddOns\TK2DROOT\tk2d_demo\tk2dDemoRuntimeSpriteController.cs" />
      <Compile Include="Assets\CanBop.cs" />
+     <Compile Include="Assets\DamageBox.cs" />
      <Compile Include="Assets\MaintainDistance.cs" />
      <Compile Include="Assets\MeleeManager.cs" />
      <Compile Include="Assets\Orbit.cs" />
@@ -325,6 +326,7 @@
      <Compile Include="Assets\Scripts\SimpleTrigger.cs" />
      <Compile Include="Assets\Scripts\SpriteParticle.cs" />
      <Compile Include="Assets\Scripts\UnitInfo.cs" />
+     <Compile Include="Assets\Scripts\UnitStats.cs" />
      <Compile Include="Assets\Scripts\Weapon.cs" />
      <Compile Include="Assets\Scripts\WeaponManager.cs" />
      <Compile Include="Assets\Spine\spine-csharp\Animation.cs" />

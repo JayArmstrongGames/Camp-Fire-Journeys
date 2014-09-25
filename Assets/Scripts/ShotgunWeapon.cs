@@ -14,7 +14,7 @@ public class ShotgunWeapon : Weapon {
 			Vector3 position = Vector3.up * i * 0.2f;
 			Bullet newbullet = Instantiate(bullet, transform.position + position, transform.rotation) as Bullet;
 			newbullet.transform.localScale = transform.localScale;
-			UnitInfo unitinfo = transform.parent.parent.GetComponent<UnitInfo>();
+				DamageBox unitinfo = transform.parent.parent.GetComponent<DamageBox>();
 			newbullet.Team = unitinfo.Team;
 		}
 

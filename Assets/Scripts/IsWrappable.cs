@@ -8,7 +8,7 @@ public class IsWrappable : MonoBehaviour {
 	void Start()
 	{
 		GameObject gameGameObject = GameObject.FindGameObjectWithTag( "Level" );
-		level = gameGameObject.GetComponent<LevelInfo>();
+		level = gameGameObject.GetComponent<LevelInfo>(); 
 	}
 
 	void Update () {
@@ -40,7 +40,6 @@ public class IsWrappable : MonoBehaviour {
 		}
 		if (transform.position.x >  35.0f - 0.5f)
 		{
-			Debug.Log(level.tileMap.width + "     " + transform.position.x);
 			position.x =  0;
 			transform.position = position;
 			return;

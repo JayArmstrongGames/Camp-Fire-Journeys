@@ -6,17 +6,17 @@ public class Enemy1 : MonoBehaviour {
 	// Use this for initialization
 	int dir;
 	Movement movement;
-	UnitInfo unitinfo;
+//	DamageBox unitinfo;
 
 	void Start () {
 		dir = -1;
-		unitinfo = gameObject.GetComponent<UnitInfo>();
+		//unitinfo = gameObject.GetComponent<DamageBox>();
 		movement = gameObject.GetComponent<Movement>();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		movement.Move(unitinfo.MoveSpeed * dir);
+//		movement.Move(unitinfo.MoveSpeed * dir);
 
 		if (movement.lWall.IsColliding)
 		{
