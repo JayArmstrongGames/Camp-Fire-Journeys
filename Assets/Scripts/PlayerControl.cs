@@ -69,7 +69,9 @@ public class PlayerControl : MonoBehaviour {
 				//wait until animation has played
 			break;
 			case "attack":
-				//
+				Vector2 velocity = gameObject.rigidbody2D.velocity;
+				velocity.x += (0f - velocity.x)/8;
+				gameObject.rigidbody2D.velocity = velocity;
 			break;
 		}
 
@@ -123,6 +125,9 @@ public class PlayerControl : MonoBehaviour {
 		if (device.GetAction3DownOnce())
 		{
 			combo++; if (combo > 3)combo = 1;
+			Vector2 velocity = gameObject.rigidbody2D.velocity;
+			velocity.x = 10.0f * skeletonAnimation.transform.localScale.x;
+			gameObject.rigidbody2D.velocity = velocity;
 			skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
 			skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
 			state = "attack";
@@ -141,7 +146,6 @@ public class PlayerControl : MonoBehaviour {
 
 	void Event(Spine.AnimationState state, int trackIndex, Spine.Event e)
 	{
-		Debug.Log("event");
 		switch (e.ToString())
 		{
 			case "ATTACK_HIT":
@@ -157,7 +161,6 @@ public class PlayerControl : MonoBehaviour {
 
 	void End(Spine.AnimationState animState, int trackIndex) {
 
-		Debug.Log("end    " + animState.ToString());
 		switch (animState.ToString())
 		{
 			case "Land":
@@ -185,7 +188,6 @@ public class PlayerControl : MonoBehaviour {
 					}
 				}
 			break;
-		
 		}
 	}
 
