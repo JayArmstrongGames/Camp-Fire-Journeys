@@ -1,0 +1,202 @@
+
+Rogue.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rogue/rogue_arm1
+  rotate: false
+  xy: 975, 165
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+Rogue/rogue_body_1
+  rotate: true
+  xy: 290, 95
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+Rogue/rogue_body_2
+  rotate: true
+  xy: 700, 183
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+Rogue/rogue_body_3
+  rotate: true
+  xy: 500, 182
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+Rogue/rogue_body_4
+  rotate: true
+  xy: 600, 184
+  size: 69, 98
+  orig: 69, 98
+  offset: 0, 0
+  index: -1
+Rogue/rogue_body_5
+  rotate: true
+  xy: 402, 179
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+Rogue/rogue_head1
+  rotate: true
+  xy: 886, 185
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+Rogue/rogue_head2
+  rotate: true
+  xy: 798, 184
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+Rogue/rogue_head3
+  rotate: false
+  xy: 444, 105
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+Rogue/rogue_head4
+  rotate: false
+  xy: 385, 93
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Rogue/rogue_head5
+  rotate: false
+  xy: 514, 114
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+Rogue/rogue_leg_back
+  rotate: true
+  xy: 290, 44
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+Rogue/rogue_leg_front
+  rotate: true
+  xy: 190, 24
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shorts_back
+  rotate: true
+  xy: 726, 137
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shorts_back2
+  rotate: true
+  xy: 603, 74
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shorts_back3
+  rotate: true
+  xy: 666, 78
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shorts_front
+  rotate: false
+  xy: 603, 124
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shorts_front2
+  rotate: true
+  xy: 378, 37
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shorts_front3
+  rotate: false
+  xy: 665, 124
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shoulder
+  rotate: true
+  xy: 726, 92
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+Rogue/rogue_shoulder3
+  rotate: true
+  xy: 138, 2
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Rogue/rogue_swordarm
+  rotate: false
+  xy: 572, 100
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+Rogue/rogue_swordhand
+  rotate: false
+  xy: 283, 24
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Rogue/rogue_template
+  rotate: false
+  xy: 2, 36
+  size: 186, 217
+  orig: 186, 217
+  offset: 0, 0
+  index: -1
+Rogue/rogue_weapon
+  rotate: false
+  xy: 304, 175
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+Rogue/rogue_weapon2
+  rotate: false
+  xy: 190, 84
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+Rogue/simple_sword
+  rotate: false
+  xy: 190, 175
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+Rogue/simple_sword2
+  rotate: false
+  xy: 2, 6
+  size: 134, 28
+  orig: 134, 28
+  offset: 0, 0
+  index: -1
