@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour {
 	public SimpleTrigger floorTrigger;
 
 	public float direction = 1;
-	bool onGround;
+	public bool onGround;
 	public Vector3 facing;
 
 	void Start()
