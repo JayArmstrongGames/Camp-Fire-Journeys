@@ -17,7 +17,7 @@ public class IsWrappable : MonoBehaviour {
 
 		if (transform.position.y < -1)
 		{
-			position.y = level.tileMap.height - 1;
+			position.y = 20.0f - 1;
 			transform.position = position;
 			if (rigidbody2D.velocity.y < -15)
 			{
@@ -26,7 +26,7 @@ public class IsWrappable : MonoBehaviour {
 			}
 			return;
 		}
-		if (transform.position.y > level.tileMap.height - 1)
+		if (transform.position.y > 20.0f - 1)
 		{
 			position.y = -1;
 			transform.position = position;

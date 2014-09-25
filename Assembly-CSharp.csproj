@@ -431,10 +431,17 @@
      <None Include="Assets\AddOns\TK2DROOT\tk2d\Shaders\AdditiveVertexColor.shader" />
      <None Include="Assets\AddOns\TK2DROOT\tk2d_demo\democameradata\source\democamerafont.fnt" />
  <Reference Include="XInputDotNetPure">
+<<<<<<< HEAD
  <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
  </Reference>
  <Reference Include="zlib.net">
  <HintPath>/Users/Jimp/Flash/Campfire Journeys/Camp-Fire-Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
+=======
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/AddOns/InControl/Scripts/XInput/XInputDotNetPure.dll</HintPath>
+ </Reference>
+ <Reference Include="zlib.net">
+ <HintPath>/Users/JayArmstrong/Documents/Github/Camp-Fire-Journeys/Assets/Tiles/Data/zlib.net.dll</HintPath>
+>>>>>>> FETCH_HEAD
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
