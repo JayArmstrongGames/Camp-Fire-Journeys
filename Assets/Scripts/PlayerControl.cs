@@ -7,11 +7,19 @@ public class PlayerControl : MonoBehaviour {
 
 	PlayerDevice device;
 	Movement movement;
-	UnitInfo unitinfo;
+	UnitStats unitstats;
+	LevelInfo level;
 	bool isMoving = false;
 	int combo = 0;
 	int gunKickBack = 0;
 	string state = "idle";
+	bool sliding = true;
+	bool moving = true;
+	public 	SimpleTrigger rwallslide;
+	public 	SimpleTrigger lwallslide;
+	public 	SimpleTrigger rwallcling;
+	public 	SimpleTrigger lwallcling;
+
 	//[HideInInspector]
 	WeaponManager weaponmanager;
 	MeleeManager meleemanager;
@@ -23,7 +31,7 @@ public class PlayerControl : MonoBehaviour {
 	public void SetDevice( PlayerDevice device )
 	{
 		this.device = device;
-		unitinfo = gameObject.GetComponent<UnitInfo>();
+		unitstats = gameObject.GetComponent<UnitStats>();
 		movement = gameObject.GetComponent<Movement>();
 		skeletonAnimation = gameObject.GetComponentInChildren<SkeletonAnimation>();
 		skeletonAnimation.state.Event += Event;
@@ -33,6 +41,8 @@ public class PlayerControl : MonoBehaviour {
 		hip = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("body");
 		weaponmanager = gameObject.GetComponentInChildren<WeaponManager>();
 		meleemanager = gameObject.GetComponentInChildren<MeleeManager>();
+		GameObject gameGameObject = GameObject.FindGameObjectWithTag( "Level" );
+		level = gameGameObject.GetComponent<LevelInfo>(); 
 	}
 
 	
@@ -59,6 +69,7 @@ public class PlayerControl : MonoBehaviour {
 			case "jump":
 				canMove();
 				canShoot();
+				if (canSlide()){return;}
 				if (gameObject.rigidbody2D.velocity.y > 0)
 				{
 				if (skeletonAnimation.state.ToString() != "Jump" && skeletonAnimation.state.ToString() != "<none>")skeletonAnimation.state.SetAnimation(0, "Jump", false);
@@ -87,19 +98,89 @@ public class PlayerControl : MonoBehaviour {
 				velocity.x += (0f - velocity.x)/8;
 				gameObject.rigidbody2D.velocity = velocity;
 			break;
+			case "wallslide":
+				Vector2 slide = gameObject.rigidbody2D.velocity;
+				slide.y += (0.5f - slide.y) / 4;
+				gameObject.rigidbody2D.velocity = slide;
+				if (skeletonAnimation.state.ToString() != "Wallslide" || skeletonAnimation.state.ToString() != "<none>")skeletonAnimation.state.SetAnimation(0, "Wallslide", true);
+
+
+				if ((rwallslide.IsColliding && device.GetInputMoveVector().x <= 0) || (lwallslide.IsColliding && device.GetInputMoveVector().x >= 0))
+				{
+				state = "jump"; 
+				}
+				if (!rwallslide.IsColliding && !lwallslide.IsColliding)
+				{
+				state = "jump";
+				}
+				
+				if (canJump())
+				{
+					slide = gameObject.rigidbody2D.velocity;
+					slide.x = 5f * movement.facing.x;
+					slide.y = unitstats.JumpHeight;
+					gameObject.rigidbody2D.velocity = slide;
+					state = "jump";
+					moveDelay();
+				}
+
+			break;
+			case "cling":
+				
+				gameObject.rigidbody2D.Sleep();
+				if (skeletonAnimation.state.ToString() != "Cling")skeletonAnimation.state.SetAnimation(0, "Cling", true);
+				
+				if (canJump())
+				{
+					gameObject.rigidbody2D.IsAwake();
+					slide = gameObject.rigidbody2D.velocity;
+					slide.y = unitstats.JumpHeight;
+					gameObject.rigidbody2D.velocity = slide;
+					movement.Jump(unitstats.JumpHeight);
+					state = "jump";
+					clingDelay();
+				}
+				if ((rwallslide.IsColliding && device.GetInputMoveVector().x <= 0) || (lwallslide.IsColliding && device.GetInputMoveVector().x >= 0))
+				{
+					gameObject.rigidbody2D.IsAwake();
+					slide = gameObject.rigidbody2D.velocity;
+					slide.x = 5f * movement.facing.x;
+					gameObject.rigidbody2D.velocity = slide;
+					state = "jump";
+					clingDelay();
+				}
+			break;
 		}
 
-		//Off ground animation
-		if (!movement.onGround)
+		if (canRegainMove && !moving)
+		{
+			if (device.GetInputMoveVector().x != 0f || movement.onGround)
+			{
+				moving = true;
+			}
+		}
+		if (!movement.onGround && state != "wallslide" && state != "cling")
 		{
 			state = "jump";
 		}
 	}
 
+	void moveDelay(float delay = 0.4f)
+	{
+		canRegainMove = false;
+		moving = false;
+		Invoke("enableMove", delay);
+	}
+	bool canRegainMove;
+	void enableMove()
+	{
+		canRegainMove = true;
+	}
 
 	void canMove(){
+		if (!moving)return;
 		Vector2 inputMoveVector = device.GetInputMoveVector();
-		movement.Move(unitinfo.MoveSpeed * inputMoveVector.x);
+		movement.Move(unitstats.MoveSpeed * inputMoveVector.x);
 		if (inputMoveVector.x != 0.0f)
 		{
 			if (!isMoving)
@@ -145,15 +226,106 @@ public class PlayerControl : MonoBehaviour {
 		}
 	}
 
-	void canJump()
+	bool canJump()
 	{
 		if (device.GetAction1DownOnce())
 		{
-			movement.Jump(unitinfo.JumpHeight);
+			movement.Jump(unitstats.JumpHeight);
+			return true;
 		}
+		return false;
 	}
 
 
+
+	void clingDelay(float delay = 0.3f)
+	{
+		sliding = false;
+		Invoke("enableCling", delay);
+	}
+	void enableCling()
+	{
+		sliding = true;
+	}
+	
+	bool canSlide()
+	{
+		if (!sliding)return false;
+		if ((rwallslide.IsColliding && device.GetInputMoveVector().x > 0) || (lwallslide.IsColliding && device.GetInputMoveVector().x < 0))
+		{
+			int xpos; int ypos;
+			if ( (rwallslide.IsColliding && rwallcling.IsColliding) || (lwallslide.IsColliding && lwallcling.IsColliding))
+			{
+
+				//Dont wall slide if nothing on bottom;
+
+				if ( rwallslide.IsColliding && device.GetInputMoveVector().x > 0)
+				{
+					level.tileMap.GetTileAtPosition( transform.position, out  xpos, out  ypos);
+					if (level.tileMap.GetTile(xpos + 1, ypos, 1) != -1 && level.tileMap.GetTile(xpos + 1, ypos + 1, 1) != -1)
+					{
+						Vector3 turnAround = movement.facing; 
+						turnAround.x = -1; 
+						movement.facing = turnAround;
+						skeletonAnimation.transform.localScale = movement.facing;
+						state = "wallslide";
+						return true;
+					}
+				}
+
+				if (lwallslide.IsColliding && device.GetInputMoveVector().x < 0)
+				{
+					level.tileMap.GetTileAtPosition( transform.position, out  xpos, out  ypos);
+					if (level.tileMap.GetTile(xpos - 1, ypos, 1) != -1 && level.tileMap.GetTile(xpos - 1, ypos + 1, 1) != -1)
+					{
+						Vector3 turnAround = movement.facing; 
+						turnAround.x = 1; 
+						movement.facing = turnAround;
+						skeletonAnimation.transform.localScale = movement.facing;
+						state = "wallslide";
+						return true;
+					}
+				}
+			
+
+			}
+
+			//CLINGING
+			if ( (rwallslide.IsColliding && !rwallcling.IsColliding) || (lwallslide.IsColliding && !lwallcling.IsColliding))
+			{
+				Vector3 turnAround = movement.facing; 
+				if (rwallslide.IsColliding) turnAround.x = 1; 
+				if (lwallslide.IsColliding) turnAround.x = -1; 
+				movement.facing = turnAround;
+				skeletonAnimation.transform.localScale = movement.facing;
+
+				//Lock to edge
+
+				Vector3 lockToEdge = gameObject.transform.position;
+				level.tileMap.GetTileAtPosition( transform.position, out  xpos, out  ypos);
+				if (level.tileMap.GetTile(xpos, ypos - 1, 1) != -1)return false;
+				if ((lwallslide.IsColliding && !lwallcling.IsColliding))
+				{
+					level.tileMap.GetTileAtPosition( lwallslide.transform.position, out  xpos, out  ypos);
+					lockToEdge.x = level.tileMap.GetTilePosition(xpos , ypos).x + 0.3f;
+					lockToEdge.y = level.tileMap.GetTilePosition(xpos , ypos).y + 0.5f;
+				}
+				if ((rwallslide.IsColliding && !rwallcling.IsColliding))
+				{
+					level.tileMap.GetTileAtPosition( rwallslide.transform.position, out  xpos, out  ypos);
+					lockToEdge.x = level.tileMap.GetTilePosition(xpos + 1, ypos).x - 0.3f;
+					lockToEdge.y = level.tileMap.GetTilePosition(xpos + 1, ypos).y + 0.5f;
+				}
+					
+				gameObject.transform.position = lockToEdge;
+
+				state = "cling";
+				return true;
+			}
+
+		}
+		return false;
+	}
 
 	void Event(Spine.AnimationState state, int trackIndex, Spine.Event e)
 	{

@@ -36,8 +36,9 @@ public class Movement : MonoBehaviour {
 
 	public void Move(float speed)
 	{
+	
 		if ( (rWall.IsColliding && !onGround && speed > 0) || (lWall.IsColliding && !onGround && speed < 0)) return;
-
+		
 		Vector2 velocity = gameObject.rigidbody2D.velocity;
 		velocity.x = speed;
 		gameObject.rigidbody2D.velocity = velocity;

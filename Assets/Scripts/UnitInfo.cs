@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class UnitInfo : MonoBehaviour {
+public class TakeDamage : MonoBehaviour {
 
 	public int Team;
 	public float MoveSpeed;

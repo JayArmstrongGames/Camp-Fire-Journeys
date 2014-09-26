@@ -27,7 +27,7 @@ public class Bullet : MonoBehaviour {
 
 		if (col.transform.parent != null)
 		{
-			UnitInfo unitinfo = col.transform.parent.gameObject.GetComponent<UnitInfo>();
+			DamageBox unitinfo = col.transform.parent.gameObject.GetComponent<DamageBox>();
 		
 			if (unitinfo != null)
 			{

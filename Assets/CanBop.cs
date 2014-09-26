@@ -8,7 +8,7 @@ public class CanBop : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		UnitInfo info = gameObject.GetComponent<UnitInfo>();
+		DamageBox info = gameObject.GetComponent<DamageBox>();
 		if (info != null)
 		{
 			Team = info.Team;

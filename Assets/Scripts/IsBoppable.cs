@@ -4,12 +4,12 @@ using System.Collections.Generic;
 
 public class IsBoppable : MonoBehaviour {
 
-	UnitInfo unitinfo;
+	DamageBox unitinfo;
 	public int Team;
 	public LayerMask ignoreLayerMask;
 
 	void Start () {
-		unitinfo = transform.parent.GetComponent<UnitInfo>();
+		unitinfo = transform.parent.GetComponent<DamageBox>();
 		if (unitinfo != null)
 		{
 			Team = unitinfo.Team;

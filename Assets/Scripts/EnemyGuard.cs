@@ -5,14 +5,14 @@ public class EnemyGuard : MonoBehaviour {
 
 	PlayerDevice device;
 	Movement movement;
-	UnitInfo unitinfo;
+	DamageBox unitinfo;
 	public WeaponManager weaponmanager;
 	public int LineOfSight;
 
 
 	// Use this for initialization
 	void Start () {
-		unitinfo = gameObject.GetComponent<UnitInfo>();
+		unitinfo = gameObject.GetComponent<DamageBox>();
 		movement = gameObject.GetComponent<Movement>();
 	}
 	
@@ -24,7 +24,7 @@ public class EnemyGuard : MonoBehaviour {
 		for (int i = 0; i < hit.Length; i++)
 		{
 			if (hit[i].collider.transform.parent == null)return;
-			UnitInfo colliderunitinfo = hit[i].collider.transform.parent.gameObject.GetComponent<UnitInfo>();
+			DamageBox colliderunitinfo = hit[i].collider.transform.parent.gameObject.GetComponent<DamageBox>();
 			if (colliderunitinfo != null)
 			{
 				if (colliderunitinfo.Team != unitinfo.Team)
