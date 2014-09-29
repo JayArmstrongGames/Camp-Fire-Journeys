@@ -251,14 +251,12 @@ public class PlayerControl : MonoBehaviour {
 	bool canSlide()
 	{
 		if (!sliding)return false;
+	
 		if ((rwallslide.IsColliding && device.GetInputMoveVector().x > 0) || (lwallslide.IsColliding && device.GetInputMoveVector().x < 0))
 		{
 			int xpos; int ypos;
-			if ( (rwallslide.IsColliding && rwallcling.IsColliding) || (lwallslide.IsColliding && lwallcling.IsColliding))
-			{
 
 				//Dont wall slide if nothing on bottom;
-
 				if ( rwallslide.IsColliding && device.GetInputMoveVector().x > 0)
 				{
 					level.tileMap.GetTileAtPosition( transform.position, out  xpos, out  ypos);
@@ -288,7 +286,6 @@ public class PlayerControl : MonoBehaviour {
 				}
 			
 
-			}
 
 			//CLINGING
 			if ( (rwallslide.IsColliding && !rwallcling.IsColliding) || (lwallslide.IsColliding && !lwallcling.IsColliding))
