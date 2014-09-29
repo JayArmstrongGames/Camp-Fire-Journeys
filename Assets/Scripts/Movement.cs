@@ -7,11 +7,12 @@ public class Movement : MonoBehaviour {
 	public SimpleTrigger lWall;
 	public SimpleTrigger rWall;
 	public SimpleTrigger floorTrigger;
-
+	public int MoveSpeed;
+	public int JumpHeight;
 	public float direction = 1;
 	public bool onGround;
 	public Vector3 facing;
-
+	
 	void Start()
 	{
 		facing = gameObject.transform.localScale;

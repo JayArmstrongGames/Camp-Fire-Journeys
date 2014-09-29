@@ -23,7 +23,7 @@ public class GameScript : MonoBehaviour {
 		for ( int i = 0; i < main.playerDevices.Count; i++ )
 		{
 			GameObject player = Instantiate( playerPrefab, transform.position + Vector3.up * 3, transform.rotation ) as GameObject;
-			DamageBox damagebox = player.GetComponentInChildren<DamageBox>();
+			UnitStats damagebox = player.GetComponentInChildren<UnitStats>();
 			damagebox.Team = i + 1;
 			player.transform.parent = transform;
 			PlayerControl playercontrol = player.GetComponent<PlayerControl>();

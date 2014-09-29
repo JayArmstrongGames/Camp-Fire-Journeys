@@ -25,22 +25,13 @@ public class Bullet : MonoBehaviour {
 			col.rigidbody2D.AddForceAtPosition(rigidbody2D.velocity * 25, transform.position);
 		}                              
 
-		if (col.transform.parent != null)
+		DamageBox damagebox = col.gameObject.GetComponent<DamageBox>();
+		if (damagebox != null)
 		{
-			DamageBox unitinfo = col.transform.parent.gameObject.GetComponent<DamageBox>();
-		
-			if (unitinfo != null)
-			{
-				if (unitinfo.Team != Team)
-				{
-					unitinfo.Damage(0.5f);
-					Destroy(gameObject);
-				}
-			} else {
-				Destroy(gameObject);
-			}
-			} else {
-				Destroy(gameObject);
+			damagebox.Damage(0.5f);
+			Destroy(gameObject);
+		} else {
+			Destroy(gameObject);
 		}
 	}
 }

@@ -25,7 +25,7 @@ public class Weapon : MonoBehaviour {
 		wait = Time.time + RateOfFire;
 		Bullet newbullet = Instantiate(bullet, transform.position, transform.rotation) as Bullet;
 		newbullet.transform.localScale = transform.localScale;
-		DamageBox unitinfo = transform.parent.parent.GetComponent<DamageBox>();
+		UnitStats unitinfo = gameObject.transform.parent.GetComponentInParent<UnitStats>();
 		newbullet.Team = unitinfo.Team;
 		if (spriteparticlemanager == null)return;
 		spriteparticlemanager.Add(transform.position, new Vector2(-3 * transform.localScale.x, 7), 3f);

@@ -3,13 +3,16 @@ using System.Collections;
 
 public class DamageBox : MonoBehaviour {
 	
-	public int Team;
+	public int Team = -999;
 	public float TotalLife;
+	UnitStats unitstats;
 	float Life;
 	
 	
 	void Start()
 	{
+		unitstats = GetComponentInParent<UnitStats>();
+		if (Team == -999)Team = unitstats.Team;
 		Reset();
 	}
 	
@@ -21,7 +24,7 @@ public class DamageBox : MonoBehaviour {
 	
 	public void Damage(float damage)
 	{
-		
+		Debug.Log("BEING DAMAGED");
 		Life -= damage;
 		
 		CancelInvoke("ResetColor");
@@ -31,10 +34,19 @@ public class DamageBox : MonoBehaviour {
 			spriterenderers[i].material.color = Color.red;
 		}
 
+		SkeletonAnimation[] skeletons = gameObject.transform.parent.GetComponentsInChildren<SkeletonAnimation>();
+		Debug.Log(skeletons.Length);
+		for (int i = 0; i < skeletons.Length; i++)
+		{
+			skeletons[i].skeleton.r = 1;
+			skeletons[i].skeleton.g = 0;
+			skeletons[i].skeleton.b = 0;
+		}
 
 
 		Invoke("ResetColor", 0.2f);
-		
+
+		Debug.Log("life  " + Life);
 		if (Life < 1f)
 		{
 			Invoke("kill", 0.1f);
@@ -50,6 +62,15 @@ public class DamageBox : MonoBehaviour {
 		{
 			spriterenderers[i].material.color = Color.white;
 		}
+
+		SkeletonAnimation[] skeletons = gameObject.transform.parent.GetComponentsInChildren<SkeletonAnimation>();
+		for (int i = 0; i < skeletons.Length; i++)
+		{
+			skeletons[i].skeleton.r = 1;
+			skeletons[i].skeleton.g = 1;
+			skeletons[i].skeleton.b = 1;
+		}
+
 	}
 	
 	void kill()
@@ -62,10 +83,10 @@ public class DamageBox : MonoBehaviour {
 	
 	void respawn()
 	{
-		gameObject.SetActive(true);
+		transform.parent.gameObject.SetActive(true);
 		Reset();
 		GameScript gamescript = GameObject.FindGameObjectWithTag("Game").GetComponent<GameScript>();
-		transform.position = gamescript.GetNextSpawnPoint();
+		transform.parent.gameObject.transform.position = gamescript.GetNextSpawnPoint();
 	}
 	
 }

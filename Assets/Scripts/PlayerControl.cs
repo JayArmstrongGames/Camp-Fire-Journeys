@@ -118,7 +118,7 @@ public class PlayerControl : MonoBehaviour {
 				{
 					slide = gameObject.rigidbody2D.velocity;
 					slide.x = 5f * movement.facing.x;
-					slide.y = unitstats.JumpHeight;
+					slide.y = movement.JumpHeight;
 					gameObject.rigidbody2D.velocity = slide;
 					state = "jump";
 					moveDelay();
@@ -134,9 +134,9 @@ public class PlayerControl : MonoBehaviour {
 				{
 					gameObject.rigidbody2D.IsAwake();
 					slide = gameObject.rigidbody2D.velocity;
-					slide.y = unitstats.JumpHeight;
+					slide.y = movement.JumpHeight;
 					gameObject.rigidbody2D.velocity = slide;
-					movement.Jump(unitstats.JumpHeight);
+					movement.Jump(movement.JumpHeight);
 					state = "jump";
 					clingDelay();
 				}
@@ -180,7 +180,7 @@ public class PlayerControl : MonoBehaviour {
 	void canMove(){
 		if (!moving)return;
 		Vector2 inputMoveVector = device.GetInputMoveVector();
-		movement.Move(unitstats.MoveSpeed * inputMoveVector.x);
+		movement.Move(movement.MoveSpeed * inputMoveVector.x);
 		if (inputMoveVector.x != 0.0f)
 		{
 			if (!isMoving)
@@ -230,7 +230,7 @@ public class PlayerControl : MonoBehaviour {
 	{
 		if (device.GetAction1DownOnce())
 		{
-			movement.Jump(unitstats.JumpHeight);
+			movement.Jump(movement.JumpHeight);
 			return true;
 		}
 		return false;
@@ -341,14 +341,18 @@ public class PlayerControl : MonoBehaviour {
 	}
 
 	void End(Spine.AnimationState animState, int trackIndex) {
+
+		if (animState.ToString().Contains("Land") == true)
+		{
+			if (state == "land")
+			{
+				state = "idle";
+			}
+		}
+
 		switch (animState.ToString())
 		{
-			case "Land":
-				if (state == "land")
-				{
-					state = "idle";
-				}
-			break;
+
 
 		case "attack1":
 		case "attack2": 

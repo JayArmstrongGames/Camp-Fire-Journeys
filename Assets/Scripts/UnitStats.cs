@@ -4,8 +4,6 @@ using System.Collections;
 public class UnitStats : MonoBehaviour {
 
 	public int Team;
-	public float MoveSpeed;
-	public float JumpHeight;
 	public float TotalLife;
 	float Life;
 
