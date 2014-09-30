@@ -1,0 +1,1080 @@
+<modify-entry
+   name="CFXM2_Blood.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_Blood.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood.prefab"
+   name=".svn/tmp/text-base/CFXM2_Blood.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood.prefab"
+   checksum="e2ed7ed36895365a31ad8ae2db3ea692"/>
+<modify-entry
+   name="CFXM2_Blood.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Blood.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_Blood.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Blood.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood.prefab.meta"
+   checksum="eade5a7d512a5e2143617cb88366ad77"/>
+<modify-entry
+   name="CFXM2_Blood.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountain.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountain.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountain.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountain.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountain.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountain.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountain.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab"
+   checksum="4f0c9f448017667c301c729163a015bb"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountain.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountain.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountain.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountain.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountain.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountain.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountain.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab.meta"
+   checksum="eca38b517b8a7ce8fdf6a029d887b812"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountainHeavy.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountainHeavy.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountainHeavy.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountainHeavy.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountainHeavy.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountainHeavy.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountainHeavy.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab"
+   checksum="6473e16f64114fea1bc3440fccc363b3"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountainHeavy.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountainHeavy.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountainHeavy.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountainHeavy.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   checksum="36a67389e9d88c19f2c12990315aada0"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountainHeavy_Add.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountainHeavy_Add.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy_Add.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountainHeavy_Add.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy_Add.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountainHeavy_Add.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   checksum="d4d645f2eef2aa44235cd78163904ff6"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountainHeavy_Add.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy_Add.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountainHeavy_Add.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountainHeavy_Add.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountainHeavy_Add.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   checksum="b7d1e71f520e2ad5e167ad59b7888dec"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountainHeavy_Add.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountain_Add.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountain_Add.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountain_Add.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountain_Add.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountain_Add.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain_Add.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountain_Add.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain_Add.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountain_Add.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab"
+   checksum="a7fe2a01f03fe8eb28d25e71e1dbfbab"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodFountain_Add.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodFountain_Add.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain_Add.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodFountain_Add.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodFountain_Add.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodFountain_Add.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   checksum="8c182825b05e20cb463961afb5adee57"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodFountain_Add.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodHeavy.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodHeavy.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodHeavy.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodHeavy.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodHeavy.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodHeavy.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodHeavy.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab"
+   checksum="5acad04ed091d1c9894492c4177f4533"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodHeavy.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodHeavy.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodHeavy.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodHeavy.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodHeavy.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodHeavy.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodHeavy.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab.meta"
+   checksum="17cac90d52c0a76473678c98a54492f8"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodHeavy_Add.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodHeavy_Add.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodHeavy_Add.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodHeavy_Add.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodHeavy_Add.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy_Add.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodHeavy_Add.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy_Add.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodHeavy_Add.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab"
+   checksum="386b2538d51b2ebe7ce176cf9e07a9d9"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodHeavy_Add.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodHeavy_Add.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy_Add.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodHeavy_Add.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodHeavy_Add.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodHeavy_Add.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   checksum="226b06e3b9f4800421eb76e58552a1af"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodHeavy_Add.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodPuddle.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab"
+   checksum="1789591af2a6d65b867278aa8c5d261b"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodPuddle.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab.meta"
+   checksum="4db3f63e753076ab4d99d08a3ee67e0d"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle_Add.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle_Add.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodPuddle_Add.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle_Add.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle_Add.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Add.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle_Add.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Add.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle_Add.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab"
+   checksum="cc1b727e4d9b7f541768e8eea38d3c36"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodPuddle_Add.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle_Add.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Add.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle_Add.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Add.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle_Add.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   checksum="86e1aecc1cf684cab9e0eb729174632a"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Add.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodPuddle_Multiply.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle_Multiply.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Multiply.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle_Multiply.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Multiply.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle_Multiply.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   checksum="5172a63301eff494b62eddbcc333c434"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodPuddle_Multiply.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Multiply.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle_Multiply.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle_Multiply.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle_Multiply.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   checksum="086ca41be7bf725d339f85b97a4a49d7"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle_Multiply.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodSimple.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodSimple.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodSimple.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodSimple.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodSimple.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodSimple.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodSimple.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab"
+   checksum="42d6630deedaf081e631be2ca2846b1e"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodSimple.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodSimple.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodSimple.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodSimple.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodSimple.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodSimple.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodSimple.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab.meta"
+   checksum="e320f9d2d1dd8781162d287739389bc7"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodSimple_Add.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodSimple_Add.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodSimple_Add.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodSimple_Add.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodSimple_Add.prefab"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple_Add.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodSimple_Add.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple_Add.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodSimple_Add.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab"
+   checksum="015dcdeb221d4a9f858f8e45f2acb032"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_BloodSimple_Add.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodSimple_Add.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple_Add.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodSimple_Add.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodSimple_Add.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodSimple_Add.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   checksum="ff417d5d729984887923c7b7b45b5685"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodSimple_Add.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood_Add.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood_Add.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_Blood_Add.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood_Add.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood_Add.prefab"
+   name=".svn/tmp/text-base/CFXM2_Blood_Add.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood_Add.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood_Add.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood_Add.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab"
+   checksum="eed75e919ca6103c7320392f08abe9d0"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood_Add.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood_Add.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/CFXM2_Blood_Add.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood_Add.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood_Add.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Blood_Add.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood_Add.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood_Add.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood_Add.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab.meta"
+   checksum="0855257f2e1b7cba04e1f0611db5628b"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood_Add.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Variants.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Variants.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Variants.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood/Variants.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Variants.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Variants.meta"
+   name=".svn/tmp/text-base/Variants.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Variants.meta.svn-base"
+   name=".svn/tmp/text-base/Variants.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Variants.meta.svn-base"/>
+<modify-entry
+   name="Variants.meta"
+   checksum="2acaed63b063222ce69b13726ebf8920"/>
+<modify-entry
+   name="Variants.meta"
+   text-time="working"/>
+<modify-entry
+   name="Variants.meta"
+   working-size="working"/>

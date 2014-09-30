@@ -1,0 +1,123 @@
+<add-tree-conflict
+   name=""
+   data="((conflict Explosions dir update added added (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Explosions dir) (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Explosions dir)))"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/CFXM2_WWExplosion.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion.prefab"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab"
+   checksum="f998a59a0112922c4e86ee6db04b93f0"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/CFXM2_WWExplosion.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab.meta"
+   checksum="d9dc2d4340b0890a241055d9cdbb4478"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Variants.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Variants.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Variants.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Variants.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Variants.meta"
+   name=".svn/tmp/text-base/Variants.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Variants.meta.svn-base"
+   name=".svn/tmp/text-base/Variants.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Variants.meta.svn-base"/>
+<modify-entry
+   name="Variants.meta"
+   checksum="77d15dccf1c93168a487b42e2f20e35f"/>
+<modify-entry
+   name="Variants.meta"
+   text-time="working"/>
+<modify-entry
+   name="Variants.meta"
+   working-size="working"/>

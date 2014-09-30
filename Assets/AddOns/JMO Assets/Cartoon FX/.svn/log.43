@@ -1,0 +1,1480 @@
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab"
+   checksum="32a5834e7ef21aa2749f5ef59efb67d4"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   checksum="166629fb91c89bc5d3895a3c36cfd2c4"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab"
+   checksum="84bb43e86b1c2a647a30e7d5c1007f2e"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   checksum="aebaeaaa14318e3a8dc8584b66880897"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(PurpleBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (PurpleBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   checksum="268b664890d66cd30655c25b33d5b37e"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(PurpleBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (PurpleBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   checksum="c41a3267152c711cc6b2825e8a904831"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (PurpleBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   checksum="e50be36d898f127ec4f5fb6375cb9164"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Fireball_A%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Fireball_A (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Fireball_A (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Fireball_A (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Fireball_A (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   checksum="a18a925d4e45a6241a8d126eae8cb24b"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Fireball_A (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Flying_Ember%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Flying_Ember (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Flying_Ember (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Flying_Ember (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   checksum="aadca6c1f8e99067c119fc91ea60a4c2"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Flying_Ember%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Flying_Ember (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Flying_Ember (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Flying_Ember (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   checksum="f58f832153e58341a2f894805aef390b"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Flying_Ember_Upward%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   checksum="121d07e9f39a03742a7d7ca288ffded3"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Flying_Ember_Upward%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Flying_Ember_Upward (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   checksum="64e82445c4de1afa1ddec57545409fb2"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Flying_Ember_Upward (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Air%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   checksum="99206b86d0f9dd4dc9d0c4e2afee5add"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Air%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Air (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   checksum="bf5a2ca7dd68c014eae90088a01530e0"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Air%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   checksum="5aefde20ea750ce73dcbf30a4b10405c"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Air%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Air (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   checksum="dca13d46c95d88add21b52fcd7a19ebc"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Air%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   checksum="dfb03d1c15474a787a9ca54691a6f2f3"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Air%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   checksum="8cbc78e505a0ffb465b99c546e938462"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Air (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Ground%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   checksum="5cf143238a275fd149f63b2aa75e5964"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Ground%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   checksum="99bca0675ad5b4bd9c85354568f15467"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Ground%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   checksum="78574a38b389a839906efa77d5015e4b"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Ground%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   checksum="055e6bbf6f9421aa891bba12efcf5037"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Ground%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   checksum="376c84dcd4f1690af2a04667762d3863"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_A_Ground%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   checksum="0c0cbd69e67b7324bb750925101329db"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_A_Ground (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Air%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   checksum="8c583522c31adb428ff96ba5794d856f"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Air%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Air (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   checksum="2855e7bacbb8ba01478c1f6f420e02f8"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Air%20(PurpleBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   checksum="5ed9b72ac25316e1f12817c1403d6ddf"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Air%20(PurpleBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   checksum="5b8353e1012f0397df6300284a560583"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (PurpleBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Air%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   checksum="1d9df492386ab6b0d1be138840c020b9"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Air%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   checksum="45bb07a9e62a7c9660c32e3514a8212a"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Air (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Ground%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   checksum="60e7788d530f48c003323227b28bf5a5"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Ground%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   checksum="446927144e0e536bd73ede97d548211b"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Ground%20(PurpleBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   checksum="90d9c5a7d048caa70674f3fb6f0b0348"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Ground%20(PurpleBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   checksum="ce94bbad12e77a50529d2d13d15d3c17"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (PurpleBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Ground%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   checksum="30aa1eaa47eb1c8b88d485545216181c"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM3_Hit_Fire_B_Ground%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   checksum="7d7a7dee96b1faca1be7ed622212392d"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Fire_B_Ground (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Ice.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Ice.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Ice.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Ice.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Ice.meta"
+   name=".svn/tmp/text-base/Ice.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Ice.meta.svn-base"
+   name=".svn/tmp/text-base/Ice.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Ice.meta.svn-base"/>
+<modify-entry
+   name="Ice.meta"
+   checksum="988065d6feef454551769679ac8dccee"/>
+<modify-entry
+   name="Ice.meta"
+   text-time="working"/>
+<modify-entry
+   name="Ice.meta"
+   working-size="working"/>

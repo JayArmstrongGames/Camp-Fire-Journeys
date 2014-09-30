@@ -1,0 +1,40 @@
+<modify-entry
+   name="Editor.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Editor.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Editor.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Editor.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Editor.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Editor.meta"
+   name=".svn/tmp/text-base/Editor.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Editor.meta.svn-base"
+   name=".svn/tmp/text-base/Editor.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Editor.meta.svn-base"/>
+<modify-entry
+   name="Editor.meta"
+   checksum="f671d6c7a3a2f1a0f057e9973435093d"/>
+<modify-entry
+   name="Editor.meta"
+   text-time="working"/>
+<modify-entry
+   name="Editor.meta"
+   working-size="working"/>

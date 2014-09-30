@@ -1,0 +1,1403 @@
+<add-tree-conflict
+   name=""
+   data="((conflict Light dir update added added (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Light dir) (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Light dir)))"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRays ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRays ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRays%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRays ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRays ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_AuraRays ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRays ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRays ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRays ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat"
+   checksum="03db842770b929f6dbba2aa33fd21e48"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRays ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRays ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRays%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRays ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRays ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_AuraRays ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRays ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRays ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRays ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat.meta"
+   checksum="f7558d5b741f1fd77e7400ae1d627304"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRays ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRays MULT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRays MULT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRays%20MULT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRays MULT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRays MULT.mat"
+   name=".svn/tmp/text-base/CFXM3_AuraRays MULT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRays MULT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRays MULT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRays MULT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat"
+   checksum="c64f85fb20cbf43df0a9aab4c3fdfe10"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRays MULT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRays MULT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRays%20MULT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRays MULT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRays MULT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_AuraRays MULT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRays MULT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRays MULT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRays MULT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat.meta"
+   checksum="c5cb2ccdfbe5431ad6f035fe33bc6971"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRays MULT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRays_Oval%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRays_Oval ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_AuraRays_Oval ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRays_Oval ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRays_Oval ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRays_Oval ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   checksum="85fb70b0d03da8062e01bd5b6daa6c60"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRays_Oval%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRays_Oval ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_AuraRays_Oval ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRays_Oval ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRays_Oval ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRays_Oval ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   checksum="534e7ca8438aad0890c3269d066350fc"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRays_Oval ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRunic ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRunic ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRunic%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRunic ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRunic ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRunic ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRunic ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat"
+   checksum="649b5d786230743e12f5c3f0feecaf34"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRunic%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRunic ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRunic ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRunic ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   checksum="bc23a22ac14a50749f75b445efa2762b"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRunic MULT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRunic MULT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRunic%20MULT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRunic MULT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRunic MULT.mat"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic MULT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRunic MULT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic MULT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRunic MULT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat"
+   checksum="17e2debd7c8443a921f26d3f2d99fc46"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_AuraRunic%20MULT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_AuraRunic MULT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic MULT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_AuraRunic MULT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_AuraRunic MULT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_AuraRunic MULT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   checksum="42c63155f155338ab20a691deada0fc3"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_AuraRunic MULT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_CircleSoft%20ADDSOFT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_CircleSoft ADDSOFT.mat"
+   name=".svn/tmp/text-base/CFXM3_CircleSoft ADDSOFT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_CircleSoft ADDSOFT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_CircleSoft ADDSOFT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_CircleSoft ADDSOFT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   checksum="66853aa86c2fdd517370e30c5d0deb40"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_CircleSoft%20ADDSOFT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_CircleSoft ADDSOFT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_CircleSoft ADDSOFT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_CircleSoft ADDSOFT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_CircleSoft ADDSOFT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   checksum="fb86736bcb86c3c3af53172d9b4aff1d"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_CircleSoft ADDSOFT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowDot%20ADDSOFT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowDot ADDSOFT.mat"
+   name=".svn/tmp/text-base/CFXM3_GlowDot ADDSOFT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowDot ADDSOFT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowDot ADDSOFT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowDot ADDSOFT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   checksum="90f43e8fcd8e21a0b07e95276780ac45"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowDot%20ADDSOFT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowDot ADDSOFT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_GlowDot ADDSOFT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowDot ADDSOFT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowDot ADDSOFT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowDot ADDSOFT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   checksum="d172f438e221c3770221805d2f1270cf"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowDot ADDSOFT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowDot MULT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowDot MULT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowDot%20MULT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowDot MULT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowDot MULT.mat"
+   name=".svn/tmp/text-base/CFXM3_GlowDot MULT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowDot MULT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowDot MULT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowDot MULT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat"
+   checksum="66bf05922990f445c0ed239460b5baf0"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowDot MULT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowDot MULT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowDot%20MULT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowDot MULT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowDot MULT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_GlowDot MULT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowDot MULT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowDot MULT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowDot MULT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat.meta"
+   checksum="7f9648d753bf7faafac1a7d253297e4f"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowDot MULT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowSpike ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowSpike ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowSpike%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowSpike ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowSpike ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_GlowSpike ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowSpike ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowSpike ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowSpike ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat"
+   checksum="ec4b9337ec4cbc5d52035fc9fa0b624b"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowSpike%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowSpike ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_GlowSpike ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowSpike ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowSpike ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowSpike ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   checksum="83a238fd934b3d7cb28f587d4099d8a0"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowSpike ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowStar ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowStar ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowStar%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowStar ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowStar ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_GlowStar ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowStar ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowStar ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowStar ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat"
+   checksum="f5c7c8c35f649f11425c560dae0e381e"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_GlowStar ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_GlowStar ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_GlowStar%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_GlowStar ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_GlowStar ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_GlowStar ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_GlowStar ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_GlowStar ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_GlowStar ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat.meta"
+   checksum="7ec68df1f67e5abcbe1e3b002c748ddf"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_GlowStar ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_HollowCircle ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_HollowCircle ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_HollowCircle%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_HollowCircle ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_HollowCircle ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_HollowCircle ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_HollowCircle ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat"
+   checksum="ad9f49ec60999274ae4f7d694745f230"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_HollowCircle%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_HollowCircle ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_HollowCircle ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_HollowCircle ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   checksum="be668de6ef25000a7d5fdb345d60e2d6"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_HollowCircle MULT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_HollowCircle MULT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_HollowCircle%20MULT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_HollowCircle MULT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_HollowCircle MULT.mat"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle MULT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_HollowCircle MULT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle MULT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_HollowCircle MULT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat"
+   checksum="df6c497174bc85169a6b0fa555858f34"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_HollowCircle%20MULT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_HollowCircle MULT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle MULT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_HollowCircle MULT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_HollowCircle MULT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_HollowCircle MULT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   checksum="e72f3983ef7d2b5a2b767fb0e1592b0b"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_HollowCircle MULT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_HollowOval ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_HollowOval ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_HollowOval%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_HollowOval ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_HollowOval ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_HollowOval ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_HollowOval ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_HollowOval ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_HollowOval ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat"
+   checksum="5c06ade515e4bcbd1513dd9a22151094"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_HollowOval ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_HollowOval ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_HollowOval%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_HollowOval ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_HollowOval ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_HollowOval ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_HollowOval ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_HollowOval ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_HollowOval ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat.meta"
+   checksum="df6b49e4daeb105b10d683af9a68b81a"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_HollowOval ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_RayStraight ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_RayStraight ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_RayStraight%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_RayStraight ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_RayStraight ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_RayStraight ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_RayStraight ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_RayStraight ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_RayStraight ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat"
+   checksum="54fcf08d8dbb2d62a0fe972bb3e50ed3"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_RayStraight ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_RayStraight ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_RayStraight%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_RayStraight ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_RayStraight ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_RayStraight ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_RayStraight ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_RayStraight ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_RayStraight ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat.meta"
+   checksum="a602eddc333e042b7f5b82555ed10658"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_RayStraight ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SkyRays ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SkyRays ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_SkyRays%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SkyRays ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SkyRays ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_SkyRays ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SkyRays ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SkyRays ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SkyRays ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat"
+   checksum="1370912575f1ccbca7c37020adf5c40d"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SkyRays ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SkyRays ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_SkyRays%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SkyRays ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SkyRays ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_SkyRays ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SkyRays ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SkyRays ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SkyRays ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat.meta"
+   checksum="a092bdfb0225c9f9b8122278e785b021"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SkyRays ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_SmallRay%20ADDSOFT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmallRay ADDSOFT.mat"
+   name=".svn/tmp/text-base/CFXM3_SmallRay ADDSOFT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmallRay ADDSOFT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmallRay ADDSOFT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmallRay ADDSOFT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   checksum="5234d4f15c7bbc087cac241a0802ee72"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_SmallRay%20ADDSOFT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmallRay ADDSOFT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_SmallRay ADDSOFT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmallRay ADDSOFT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmallRay ADDSOFT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmallRay ADDSOFT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   checksum="fda4f84a6cdcefd78fa4f2d025c45246"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmallRay ADDSOFT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Star4 ADDSOFT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Star4 ADDSOFT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_Star4%20ADDSOFT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Star4 ADDSOFT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Star4 ADDSOFT.mat"
+   name=".svn/tmp/text-base/CFXM3_Star4 ADDSOFT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Star4 ADDSOFT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Star4 ADDSOFT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Star4 ADDSOFT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat"
+   checksum="f5302f4c16e6ac548a23aae952578053"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Light/CFXM3_Star4%20ADDSOFT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Star4 ADDSOFT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_Star4 ADDSOFT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Star4 ADDSOFT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Star4 ADDSOFT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Star4 ADDSOFT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   checksum="40dae08dbbcb54ccd435cc588512c3e3"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Star4 ADDSOFT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Misc.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Misc.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Misc.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Misc.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Misc.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Misc.meta"
+   name=".svn/tmp/text-base/Misc.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Misc.meta.svn-base"
+   name=".svn/tmp/text-base/Misc.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Misc.meta.svn-base"/>
+<modify-entry
+   name="Misc.meta"
+   checksum="cae307cb9b03a06ec36af095f493350b"/>
+<modify-entry
+   name="Misc.meta"
+   text-time="working"/>
+<modify-entry
+   name="Misc.meta"
+   working-size="working"/>

@@ -1,0 +1,1400 @@
+<modify-entry
+   name="CFXM2_PickupClub.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupClub.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupClub.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupClub.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupClub.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupClub.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupClub.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupClub.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupClub.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupClub.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab"
+   checksum="7cd31f8c86f42967e6373939e3479d53"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupClub.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupClub.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupClub.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupClub.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupClub.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupClub.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupClub.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupClub.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupClub.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab.meta"
+   checksum="bcda1b61e46d2b1d95d84605aa139737"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupClub.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupClub2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupClub2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupClub2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupClub2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupClub2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupClub2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupClub2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupClub2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupClub2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab"
+   checksum="007e824bf49bf41b28c0ce31ab8ebecb"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupClub2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupClub2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupClub2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupClub2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupClub2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupClub2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupClub2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupClub2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupClub2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab.meta"
+   checksum="80c7c897679e9d336578a5e6b93211ea"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupClub2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupDiamond.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupDiamond.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupDiamond.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupDiamond.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupDiamond.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupDiamond.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupDiamond.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab"
+   checksum="b6cdd838b0eefaab51c6854d80445e34"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupDiamond.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupDiamond.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupDiamond.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupDiamond.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupDiamond.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupDiamond.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupDiamond.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab.meta"
+   checksum="dcaab4a9f3ecea1dac96698813576db5"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupDiamond2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupDiamond2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupDiamond2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupDiamond2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupDiamond2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupDiamond2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupDiamond2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab"
+   checksum="d7a6ee3fe04a720005335d0c58757e51"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupDiamond2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupDiamond2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupDiamond2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupDiamond2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupDiamond2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   checksum="0e52d7b42c1978f52a4ca2f9db28ab12"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupDiamond2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupFrown.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupFrown.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupFrown.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupFrown.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupFrown.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupFrown.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupFrown.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab"
+   checksum="7d29e45b05d33e9f490da0e71fc49211"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupFrown.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupFrown.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupFrown.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupFrown.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupFrown.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupFrown.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupFrown.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab.meta"
+   checksum="a1b82a8b227ff66dd2cd4bbde6133729"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupFrown2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupFrown2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupFrown2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupFrown2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupFrown2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupFrown2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupFrown2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab"
+   checksum="aecf987ddb29ea4f3a53684f75f784f1"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupFrown2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupFrown2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupFrown2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupFrown2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupFrown2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupFrown2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupFrown2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupFrown2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab.meta"
+   checksum="727d3cb0bdd02057d9199feb8b758df3"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupFrown2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupHeart.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupHeart.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupHeart.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupHeart.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupHeart.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupHeart.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupHeart.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab"
+   checksum="5c796cdbf6b739d7968f697017cbdc6d"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupHeart.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupHeart.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupHeart.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupHeart.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupHeart.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupHeart.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupHeart.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab.meta"
+   checksum="1feca33fd5ac51e8f15ff847219a91bf"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupHeart2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupHeart2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupHeart2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupHeart2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupHeart2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupHeart2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupHeart2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab"
+   checksum="080561afca6d6eeccc3ad0d6d2ded45c"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupHeart2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupHeart2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupHeart2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupHeart2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupHeart2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupHeart2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupHeart2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab.meta"
+   checksum="9a52a3ba8ae8f8122c7eac4774bc3003"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupHeart3.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupHeart3.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupHeart3.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupHeart3.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupHeart3.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart3.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupHeart3.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart3.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupHeart3.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab"
+   checksum="9cd13a23a89be775d2fa09ac779570e9"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupHeart3.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupHeart3.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupHeart3.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupHeart3.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupHeart3.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart3.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupHeart3.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupHeart3.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupHeart3.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab.meta"
+   checksum="98a43e33e71f169d5b05e6d9dd419bd7"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupHeart3.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSkull.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSkull.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSkull.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSkull.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSkull.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSkull.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSkull.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab"
+   checksum="1d5971245303f64571e4056817a3d466"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSkull.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSkull.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSkull.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSkull.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSkull.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSkull.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSkull.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab.meta"
+   checksum="18059ca6571c610006af2af5ff8bfeae"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSkull2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSkull2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSkull2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSkull2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSkull2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSkull2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSkull2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab"
+   checksum="621a66990d31f3c8c539661bff051ace"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSkull2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSkull2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSkull2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSkull2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSkull2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSkull2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSkull2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSkull2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab.meta"
+   checksum="c3543b01ae38244d50ecbd0d780d036a"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSkull2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSmiley.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSmiley.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSmiley.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSmiley.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSmiley.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSmiley.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSmiley.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab"
+   checksum="e9857a4b6eec6030da5498bd886b5ed3"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSmiley.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSmiley.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSmiley.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSmiley.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSmiley.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSmiley.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSmiley.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab.meta"
+   checksum="b80ff34d9115bae3bcdd563545fd5139"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSmiley2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSmiley2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSmiley2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSmiley2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSmiley2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSmiley2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSmiley2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab"
+   checksum="9995ec223f1e066c84d857f053f24c9c"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSmiley2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSmiley2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSmiley2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSmiley2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSmiley2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   checksum="4a2f9119bae542aaa75da14ea6a02ac0"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSmiley2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSpade.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSpade.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSpade.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSpade.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSpade.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSpade.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSpade.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab"
+   checksum="47cebe0e1608973aeea21675c686274f"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSpade.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSpade.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSpade.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSpade.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSpade.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSpade.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSpade.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab.meta"
+   checksum="48cb45d627bd25f1df6e03af2747df86"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSpade2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSpade2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSpade2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSpade2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSpade2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSpade2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSpade2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab"
+   checksum="139f54d6eb9fb5e82a084e1879c0968a"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupSpade2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupSpade2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupSpade2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupSpade2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupSpade2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupSpade2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupSpade2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupSpade2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab.meta"
+   checksum="5f94710637810a311850bedcd442e285"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupSpade2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupStar.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupStar.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupStar.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupStar.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupStar.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupStar.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupStar.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupStar.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupStar.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab"
+   checksum="472b54356e9cc0a2deaeade187366cb3"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupStar.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupStar.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupStar.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupStar.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupStar.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupStar.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupStar.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupStar.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupStar.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab.meta"
+   checksum="2fe0da7a5da5857fd528ac37b2ecb757"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupStar.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupStar2.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupStar2.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupStar2.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupStar2.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupStar2.prefab"
+   name=".svn/tmp/text-base/CFXM2_PickupStar2.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupStar2.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupStar2.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupStar2.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab"
+   checksum="901ebbfc77f40a24871884efd0147afe"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PickupStar2.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PickupStar2.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Pickup%20Items/CFXM2_PickupStar2.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PickupStar2.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PickupStar2.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PickupStar2.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PickupStar2.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PickupStar2.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PickupStar2.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab.meta"
+   checksum="6853a0412cc89c77e337b59fb84c0dd8"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PickupStar2.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Rain.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Rain.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Rain.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Rain.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Rain.meta"
+   name=".svn/tmp/text-base/Rain.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Rain.meta.svn-base"
+   name=".svn/tmp/text-base/Rain.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Rain.meta.svn-base"/>
+<modify-entry
+   name="Rain.meta"
+   checksum="cf0b0731628a32646ef7e144f71e8b90"/>
+<modify-entry
+   name="Rain.meta"
+   text-time="working"/>
+<modify-entry
+   name="Rain.meta"
+   working-size="working"/>

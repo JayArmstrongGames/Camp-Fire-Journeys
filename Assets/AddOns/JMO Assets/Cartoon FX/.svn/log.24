@@ -1,0 +1,840 @@
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab"
+   checksum="a4cb91443014b48c4c51d7bd5c735884"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   checksum="6f49af3cbeee2cf44e2ddc8ea7a88d88"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab"
+   checksum="bc6c48ee6287c07f4dbbee489ca77dd5"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab.meta"
+   checksum="ed4303f0eff483f95c130676499d655f"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit_Directional%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit_Directional Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit_Directional Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit_Directional Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   checksum="e9b4e1d1961528e86c74841af1717983"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit_Directional%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit_Directional Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit_Directional Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   checksum="c5269f2b3d59e6ceb29bb0741da6c462"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit_Directional%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit_Directional Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit_Directional Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit_Directional Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   checksum="a790496a0c9cd9f5f34b874216f176f0"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_SparksHit_Directional%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SparksHit_Directional Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SparksHit_Directional Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SparksHit_Directional Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SparksHit_Directional Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   checksum="b13d0d59606f2163d24d8465e2498672"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SparksHit_Directional Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Rain%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Rain Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Rain Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Rain Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   checksum="41adc046a3691285ddc386ab090b1e61"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Rain%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Rain Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Rain Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Rain Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   checksum="051e273547b6fc03bf9206a2a69caa31"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Rain Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Rain Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Rain%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Rain Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Rain Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Rain Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Rain Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab"
+   checksum="3ace703ae4d1647bea17d9af5e628e1a"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Rain%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Rain Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Rain Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Rain Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Rain Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   checksum="ae7534853fa79b3d0b5dd711f03a8398"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Rain Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Source Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Source Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Source%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Source Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Source Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Source Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Source Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab"
+   checksum="49b7dfc23bb63a4908b49848b300c244"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Source%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Source Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Source Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Source Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   checksum="5a2b75e6ef69257e938cf41e11c56074"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Source Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Source Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Source%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Source Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Source Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Source Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Source Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab"
+   checksum="752300ae57eb904d3274b26a84dbac8e"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Source%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Source Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Source Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Source Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Source Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   checksum="78c407a35cc3be18842e47f56f7f04ab"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Source Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Star Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Star Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Star%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Star Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Star Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Star Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Star Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab"
+   checksum="a20512b53c58b381756f9bb419f8d030"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Star%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Star Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Star Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Star Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   checksum="760b2216c246db7bfcd52b11620cf01a"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Star Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Star Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Star%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Star Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Star Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Star Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Star Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab"
+   checksum="18ba1cc25ec4cfd2deacbc9692991084"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric/Variants/CFXM2_Sparks_Star%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks_Star Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks_Star Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks_Star Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks_Star Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   checksum="fec6ee72e055c8c832f0008985825e90"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks_Star Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Explosions.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Explosions.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Explosions.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Explosions.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Explosions.meta"
+   name=".svn/tmp/text-base/Explosions.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Explosions.meta.svn-base"
+   name=".svn/tmp/text-base/Explosions.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Explosions.meta.svn-base"/>
+<modify-entry
+   name="Explosions.meta"
+   checksum="5a49f677ada0121d91d9f119d1f404a0"/>
+<modify-entry
+   name="Explosions.meta"
+   text-time="working"/>
+<modify-entry
+   name="Explosions.meta"
+   working-size="working"/>

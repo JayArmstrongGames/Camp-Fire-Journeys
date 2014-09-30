@@ -1,0 +1,440 @@
+<modify-entry
+   name="CFXM2_Sparks.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM2_Sparks.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks.mat"
+   name=".svn/tmp/text-base/CFXM2_Sparks.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks.mat"
+   checksum="67f7d6132d83d43e983a42e1d101baf9"/>
+<modify-entry
+   name="CFXM2_Sparks.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Sparks.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Sparks.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Sparks.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM2_Sparks.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Sparks.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Sparks.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Sparks.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Sparks.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Sparks.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Sparks.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Sparks.mat.meta"
+   checksum="6971134b565ab68b1ae6abe58a4b7cdd"/>
+<modify-entry
+   name="CFXM2_Sparks.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Sparks.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_ElectricBolt_Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_ElectricBolt_Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_ElectricBolt_Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_ElectricBolt_Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_ElectricBolt_Add.mat"
+   name=".svn/tmp/text-base/CFXM_ElectricBolt_Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_ElectricBolt_Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_ElectricBolt_Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_ElectricBolt_Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat"
+   checksum="55206b8d820c4b61dac4a70233897430"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_ElectricBolt_Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_ElectricBolt_Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM_ElectricBolt_Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_ElectricBolt_Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_ElectricBolt_Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_ElectricBolt_Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   checksum="75303ab7a381dcfe84a841f2b4fbc4c0"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_ElectricBolt_Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Sparkles_Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Sparkles_Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_Sparkles_Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Sparkles_Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Sparkles_Add.mat"
+   name=".svn/tmp/text-base/CFXM_Sparkles_Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Sparkles_Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Sparkles_Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Sparkles_Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat"
+   checksum="29d84bacab33a958bbf2c2b05dec470c"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Sparkles_Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Sparkles_Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_Sparkles_Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Sparkles_Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Sparkles_Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Sparkles_Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Sparkles_Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Sparkles_Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Sparkles_Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat.meta"
+   checksum="a8ade07054295dc73718980657804e51"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Sparkles_Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Thunderbolt.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Thunderbolt.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_Thunderbolt.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Thunderbolt.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Thunderbolt.mat"
+   name=".svn/tmp/text-base/CFXM_Thunderbolt.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Thunderbolt.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Thunderbolt.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Thunderbolt.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat"
+   checksum="afb060bd00192e4ba1d5748791f9fd67"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Thunderbolt.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Thunderbolt.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_Thunderbolt.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Thunderbolt.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Thunderbolt.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Thunderbolt.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Thunderbolt.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Thunderbolt.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Thunderbolt.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat.meta"
+   checksum="b5ec228945e293f858fe19d8c34d99a0"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Thunderbolt.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_YellowStar.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_YellowStar.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_YellowStar.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_YellowStar.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_YellowStar.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_YellowStar.mat"
+   name=".svn/tmp/text-base/CFXM_YellowStar.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_YellowStar.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_YellowStar.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_YellowStar.mat.svn-base"/>
+<modify-entry
+   name="CFXM_YellowStar.mat"
+   checksum="5ed5d487f0728a67ad8acc68bebfc74e"/>
+<modify-entry
+   name="CFXM_YellowStar.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_YellowStar.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_YellowStar.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_YellowStar.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_YellowStar.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric/CFXM_YellowStar.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_YellowStar.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_YellowStar.mat.meta"
+   name=".svn/tmp/text-base/CFXM_YellowStar.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_YellowStar.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_YellowStar.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_YellowStar.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_YellowStar.mat.meta"
+   checksum="546f68bc5f13ead3966a4fd619d5dcc9"/>
+<modify-entry
+   name="CFXM_YellowStar.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_YellowStar.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Fire.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Fire.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Fire.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Fire.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Fire.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Fire.meta"
+   name=".svn/tmp/text-base/Fire.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Fire.meta.svn-base"
+   name=".svn/tmp/text-base/Fire.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Fire.meta.svn-base"/>
+<modify-entry
+   name="Fire.meta"
+   checksum="c830d5fa5d3c2ded6020d247eae5c3ab"/>
+<modify-entry
+   name="Fire.meta"
+   text-time="working"/>
+<modify-entry
+   name="Fire.meta"
+   working-size="working"/>

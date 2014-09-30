@@ -1,0 +1,280 @@
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants/CFXM2_WWExplosion%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab"
+   checksum="4cc118358b75794c2d7cf906eb60e26b"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants/CFXM2_WWExplosion%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   checksum="dc1ee3d91ff65778dfe75ed9f72ce0c3"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants/CFXM2_WWExplosion%20NoTrail%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion NoTrail Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   checksum="d1fc823531c0b3f6d0e1466411da01a3"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants/CFXM2_WWExplosion%20NoTrail%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion NoTrail Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   checksum="fe62196d52802d18dda2683d96f2118d"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants/CFXM2_WWExplosion%20NoTrail.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion NoTrail.prefab"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion NoTrail.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion NoTrail.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   checksum="e85b5a68b73b0ba4991d15225c1fb629"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Explosions/Variants/CFXM2_WWExplosion%20NoTrail.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_WWExplosion NoTrail.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_WWExplosion NoTrail.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_WWExplosion NoTrail.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_WWExplosion NoTrail.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   checksum="ce180b2af5b1f0571799189b6433b365"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_WWExplosion NoTrail.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Fire.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Fire.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Fire.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Fire.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Fire.meta"
+   name=".svn/tmp/text-base/Fire.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Fire.meta.svn-base"
+   name=".svn/tmp/text-base/Fire.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Fire.meta.svn-base"/>
+<modify-entry
+   name="Fire.meta"
+   checksum="f9ba503f5fc0f1757022f684a64b96bf"/>
+<modify-entry
+   name="Fire.meta"
+   text-time="working"/>
+<modify-entry
+   name="Fire.meta"
+   working-size="working"/>

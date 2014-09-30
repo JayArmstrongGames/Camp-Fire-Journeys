@@ -1,0 +1,1000 @@
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20A%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall A Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall A Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall A Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   checksum="d27a1aadb57e756daa3be434fa42d66b"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20A%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall A Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall A Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   checksum="9bf84de284b9ec542a7471801242b89c"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20A%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall A Green.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall A Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall A Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   checksum="41ebef925bf58fed019ed6e238a9f549"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20A%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall A Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall A Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall A Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall A Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   checksum="2d6ce2975fed4ddaa31efd8c18adf42a"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall A Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20B%20Purple.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall B Purple.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Purple.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall B Purple.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Purple.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall B Purple.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   checksum="748684e45e4db9bc4de07cff40e25e65"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20B%20Purple.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Purple.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall B Purple.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Purple.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall B Purple.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   checksum="7c523929e5bfa37b26f11170a816806d"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Purple.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20B%20Yellow.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall B Yellow.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Yellow.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall B Yellow.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Yellow.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall B Yellow.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   checksum="c8f64c69581c96db8fc26109d4ddcc95"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20B%20Yellow.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Yellow.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall B Yellow.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall B Yellow.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall B Yellow.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   checksum="a190276f931c71b7a47b36ca05dbb7ae"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall B Yellow.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20C%20Black.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall C Black.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C Black.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall C Black.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C Black.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall C Black.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   checksum="178a9416e0939a1613f74a5baa1a06e7"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20C%20Black.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall C Black.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C Black.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall C Black.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C Black.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall C Black.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   checksum="268c1ea2db1cb5f1c6eb2826adc72509"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C Black.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall C White.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall C White.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20C%20White.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall C White.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall C White.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C White.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall C White.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C White.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall C White.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab"
+   checksum="00b523f2d3e4c68b96a7dbf51df32655"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireBall%20C%20White.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireBall C White.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C White.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireBall C White.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireBall C White.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireBall C White.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   checksum="d32b441066fd3ed097ecc3e37ba88eee"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireBall C White.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20A%20Black.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall A Black.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Black.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall A Black.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Black.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall A Black.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   checksum="fa4dd14a5dbc607bdb46c7d3c6b3692f"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20A%20Black.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall A Black.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Black.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall A Black.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Black.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall A Black.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   checksum="fb07357ac10a518c1c2283cd5dacbb40"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Black.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20A%20Purple.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall A Purple.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Purple.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall A Purple.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Purple.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall A Purple.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   checksum="4bc53792ff2f7cded4c9a57cfe121155"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20A%20Purple.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Purple.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall A Purple.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall A Purple.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall A Purple.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   checksum="38230d248bb541666de9321a61c0c17f"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall A Purple.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall B White.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall B White.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20B%20White.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall B White.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall B White.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B White.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall B White.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B White.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall B White.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab"
+   checksum="d20a7ba6531c94da836b510ca790f837"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20B%20White.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall B White.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B White.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall B White.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B White.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall B White.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   checksum="a5c09eaf3a606bf97a11f6289211cc39"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B White.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20B%20Yellow.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall B Yellow.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B Yellow.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall B Yellow.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B Yellow.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall B Yellow.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   checksum="106a9fe2ea013a608bc03b4f8b3d2711"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20B%20Yellow.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B Yellow.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall B Yellow.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall B Yellow.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall B Yellow.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   checksum="b3fc8faef8669da0d1a9e8833c9e074b"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall B Yellow.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20C%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall C Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall C Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall C Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   checksum="91495027f00a3ae7e4e57e51f7563337"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20C%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall C Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall C Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   checksum="2b8e56ee7183e6438004f7c3d266612b"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20C%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall C Green.prefab"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall C Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall C Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   checksum="cf988ba62fa31aec1120511cbd213724"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Fire/Color%20Variants/CFXM2_DoubleFireWall%20C%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_DoubleFireWall C Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_DoubleFireWall C Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_DoubleFireWall C Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_DoubleFireWall C Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   checksum="c80f7698a840a9916f9b4709e0383ebf"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_DoubleFireWall C Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Misc.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Misc.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Misc.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Misc.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Misc.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Misc.meta"
+   name=".svn/tmp/text-base/Misc.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Misc.meta.svn-base"
+   name=".svn/tmp/text-base/Misc.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Misc.meta.svn-base"/>
+<modify-entry
+   name="Misc.meta"
+   checksum="ab40b3064b9cb1da0cbc00342dbea5f9"/>
+<modify-entry
+   name="Misc.meta"
+   text-time="working"/>
+<modify-entry
+   name="Misc.meta"
+   working-size="working"/>

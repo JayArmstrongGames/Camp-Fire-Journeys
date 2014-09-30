@@ -1,0 +1,520 @@
+<modify-entry
+   name="CFXM_Tornado_Big.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Big.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Big.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Big.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Big.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Big.prefab"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Big.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Big.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab"
+   checksum="381a1d57f0a36c1ad41f89c4673cff9b"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Big.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Big.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Big.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Big.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Big.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Big.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Big.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab.meta"
+   checksum="d4805ce49d6e1b20909052f00a009aae"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Big_Looped.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Big_Looped.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Big_Looped.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Big_Looped.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Big_Looped.prefab"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big_Looped.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Big_Looped.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big_Looped.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Big_Looped.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab"
+   checksum="10b1b8a7f21b1c4f63e0ba00d19afa19"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Big_Looped.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Big_Looped.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big_Looped.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Big_Looped.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Big_Looped.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Big_Looped.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   checksum="b97cf181c7e4d9716d4125065270cf6c"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Big_Looped.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Looped.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Looped.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Looped.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Looped.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Looped.prefab"
+   name=".svn/tmp/text-base/CFXM_Tornado_Looped.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Looped.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Looped.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Looped.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab"
+   checksum="41f0701c9453568faa44eaa826ba79da"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Looped.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Looped.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Looped.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Looped.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Looped.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Tornado_Looped.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Looped.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Looped.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Looped.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab.meta"
+   checksum="f0af09ea6edc4198655dba5bf4f3f6ba"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Looped.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Straight_Big.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Straight_Big.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Straight_Big.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Straight_Big.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Straight_Big.prefab"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Straight_Big.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Straight_Big.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab"
+   checksum="7e5d4258bf969e9a52b94748a7231606"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Straight_Big.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Straight_Big.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Straight_Big.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Straight_Big.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   checksum="1992614a3fbefb842c91b41ece79f2ff"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Straight_Big_Looped.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Straight_Big_Looped.prefab"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   checksum="0a15c3fb37c88b021db74073078badd2"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Straight_Big_Looped.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Straight_Big_Looped.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   checksum="62ba1dcadfe12af6d0ca6215971428c2"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Big_Looped.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Straight_Looped.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Straight_Looped.prefab"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Looped.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Straight_Looped.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Looped.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Straight_Looped.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   checksum="105c13acaf8c0e2910f026718fa14ad7"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Misc/Tornado%20Variants/CFXM_Tornado_Straight_Looped.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Tornado_Straight_Looped.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Looped.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Tornado_Straight_Looped.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Tornado_Straight_Looped.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Tornado_Straight_Looped.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   checksum="7dfd5b74b0dfcffccfd7787b2094a3bb"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Tornado_Straight_Looped.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Smoke.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Smoke.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Smoke.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Smoke.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Smoke.meta"
+   name=".svn/tmp/text-base/Smoke.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Smoke.meta.svn-base"
+   name=".svn/tmp/text-base/Smoke.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Smoke.meta.svn-base"/>
+<modify-entry
+   name="Smoke.meta"
+   checksum="fe07c888954eb986f26469e0c00c30e5"/>
+<modify-entry
+   name="Smoke.meta"
+   text-time="working"/>
+<modify-entry
+   name="Smoke.meta"
+   working-size="working"/>

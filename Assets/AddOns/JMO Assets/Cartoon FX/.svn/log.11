@@ -1,0 +1,600 @@
+<modify-entry
+   name="CFXM_GasLeak.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_GasLeak.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_GasLeak.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_GasLeak.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_GasLeak.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_GasLeak.prefab"
+   name=".svn/tmp/text-base/CFXM_GasLeak.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_GasLeak.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_GasLeak.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_GasLeak.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab"
+   checksum="d92aaae7bc3f3693c3dddf81488bf9ae"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_GasLeak.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_GasLeak.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_GasLeak.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_GasLeak.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_GasLeak.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_GasLeak.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_GasLeak.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_GasLeak.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_GasLeak.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab.meta"
+   checksum="9fa7f887133fb3f15ebeca46a78748b7"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_GasLeak.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffs+Text.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffs+Text.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffs+Text.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffs+Text.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffs+Text.prefab"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs+Text.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffs+Text.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs+Text.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffs+Text.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab"
+   checksum="9ecba8e205d10e6c6b5d2a583fcb25e4"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffs+Text.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffs+Text.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs+Text.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffs+Text.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs+Text.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffs+Text.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   checksum="d9da18bcd936228122e2dd6080b0879c"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs+Text.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffs.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffs.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffs.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffs.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffs.prefab"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffs.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffs.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab"
+   checksum="a7effcae2c27d32edd07f1a1274c724c"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffs.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffs.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffs.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffs.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffs.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffs.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffs.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffs.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab.meta"
+   checksum="09a2273b8b1b58ce1c4cd796b4a40c40"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffs.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffsAlt+Text.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffsAlt+Text.prefab"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt+Text.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffsAlt+Text.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt+Text.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffsAlt+Text.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   checksum="274a7a3e1f8413217cc391db51a7d65a"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffsAlt+Text.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt+Text.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffsAlt+Text.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt+Text.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffsAlt+Text.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   checksum="72e3f913cc243255ac7327ead877d9bc"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt+Text.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffsAlt.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffsAlt.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffsAlt.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffsAlt.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffsAlt.prefab"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffsAlt.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffsAlt.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab"
+   checksum="2c8bb33f54a2cade8070c68cf4261c03"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokePuffsAlt.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokePuffsAlt.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokePuffsAlt.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokePuffsAlt.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokePuffsAlt.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   checksum="bcb8955608041ceaedc27ce7c379724d"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokePuffsAlt.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokeTrail.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokeTrail.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokeTrail.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokeTrail.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokeTrail.prefab"
+   name=".svn/tmp/text-base/CFXM_SmokeTrail.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokeTrail.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokeTrail.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokeTrail.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab"
+   checksum="1aa314c26d382169595ecf490e952b83"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmokeTrail.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmokeTrail.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_SmokeTrail.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmokeTrail.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmokeTrail.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_SmokeTrail.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmokeTrail.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmokeTrail.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmokeTrail.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab.meta"
+   checksum="76a2593f123dc2c5ce76e9510fd11352"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmokeTrail.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Sole_Smoke.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Sole_Smoke.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_Sole_Smoke.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Sole_Smoke.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Sole_Smoke.prefab"
+   name=".svn/tmp/text-base/CFXM_Sole_Smoke.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Sole_Smoke.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_Sole_Smoke.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Sole_Smoke.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab"
+   checksum="7eabdfde2161f0182a1c0968a1de8767"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Sole_Smoke.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Sole_Smoke.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/CFXM_Sole_Smoke.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Sole_Smoke.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Sole_Smoke.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_Sole_Smoke.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Sole_Smoke.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Sole_Smoke.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Sole_Smoke.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab.meta"
+   checksum="ae0d34654a3b521fa0a870999ef12a40"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Sole_Smoke.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Color Variants.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Color Variants.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Color Variants.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/Color%20Variants.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Color Variants.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Color Variants.meta"
+   name=".svn/tmp/text-base/Color Variants.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Color Variants.meta.svn-base"
+   name=".svn/tmp/text-base/Color Variants.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Color Variants.meta.svn-base"/>
+<modify-entry
+   name="Color Variants.meta"
+   checksum="d9df16a898de5540e105fbce9f2e2929"/>
+<modify-entry
+   name="Color Variants.meta"
+   text-time="working"/>
+<modify-entry
+   name="Color Variants.meta"
+   working-size="working"/>

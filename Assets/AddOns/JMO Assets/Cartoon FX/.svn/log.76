@@ -1,0 +1,40 @@
+<modify-entry
+   name="Spawn System.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Spawn System.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Spawn System.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Spawn%20System.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Spawn System.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Spawn System.meta"
+   name=".svn/tmp/text-base/Spawn System.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Spawn System.meta.svn-base"
+   name=".svn/tmp/text-base/Spawn System.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Spawn System.meta.svn-base"/>
+<modify-entry
+   name="Spawn System.meta"
+   checksum="abd568608a8f0319adc6c9642fbab617"/>
+<modify-entry
+   name="Spawn System.meta"
+   text-time="working"/>
+<modify-entry
+   name="Spawn System.meta"
+   working-size="working"/>

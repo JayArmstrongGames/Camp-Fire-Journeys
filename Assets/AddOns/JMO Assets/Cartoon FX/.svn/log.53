@@ -1,0 +1,680 @@
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_A.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_A.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_A.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_A.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_A.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_A.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_A.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_A.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_A.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab"
+   checksum="071d6cf7ad81cda4b67ab737ce2c47b8"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_A.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_A.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_A.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_A.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_A.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_A.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   checksum="9392850fccc4b825e37d5b6509460c8b"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_A.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_B.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_B.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_B.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_B.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_B.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_B.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_B.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab"
+   checksum="e5785a279732531b3953f6e6640e2b5d"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_B.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_B.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_B.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_B.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   checksum="270b9801131c12e8de5d6859235c939c"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_B_Gravity.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_B_Gravity.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   checksum="7483f0d8a5b1d45fcad8b52068027b13"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_B_Gravity.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_B_Gravity.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   checksum="fea0ce6b3612f8c5405486f178527ae9"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_B_Gravity.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_C.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_C.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_C.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_C.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_C.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_C.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_C.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_C.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_C.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab"
+   checksum="5341860170aa0d9f3434424040cd7bd9"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_C.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_C.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_C.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_C.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_C.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_C.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   checksum="197e736e1bdb94339df368e583ef4003"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_C.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_D.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_D.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_D.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_D.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_D.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_D.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_D.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_D.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_D.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab"
+   checksum="bf66f607aa3dbbd99797120ea5ea925e"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_D.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_D.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_D.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_D.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_D.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_D.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   checksum="7556ebdef1b799443412f2c23c4dcd57"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_D.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_E_Skull.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_E_Skull.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_E_Skull.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_E_Skull.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_E_Skull.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_E_Skull.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   checksum="32e42b1688fe5af31502bf00192aab65"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_E_Skull.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_E_Skull.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_E_Skull.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_E_Skull.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_E_Skull.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   checksum="2b3df644ea1c0e2f73725b45669215bc"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_E_Skull.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_F_Skull.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_F_Skull.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_F_Skull.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_F_Skull.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_F_Skull.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_F_Skull.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   checksum="94f0f82c3dad650d8356f32a44fb9cdb"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_Misc_F_Skull.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_F_Skull.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Misc_F_Skull.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Misc_F_Skull.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Misc_F_Skull.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   checksum="4761df2a67b1e2a83e618d1271c7a17b"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Misc_F_Skull.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_SmokePuff.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_SmokePuff.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_SmokePuff.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_SmokePuff.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_SmokePuff.prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_SmokePuff.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_SmokePuff.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_SmokePuff.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_SmokePuff.prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab"
+   checksum="d4d55635a29584a0eb828a67902829c6"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/CFXM3_Hit_SmokePuff.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_SmokePuff.prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_SmokePuff.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_SmokePuff.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_SmokePuff.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_SmokePuff.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   checksum="23b61a9656f87d97ffe76ea481e4fa30"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_SmokePuff.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Color Variants.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Color Variants.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Color Variants.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc/Color%20Variants.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Color Variants.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Color Variants.meta"
+   name=".svn/tmp/text-base/Color Variants.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Color Variants.meta.svn-base"
+   name=".svn/tmp/text-base/Color Variants.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Color Variants.meta.svn-base"/>
+<modify-entry
+   name="Color Variants.meta"
+   checksum="f2b63493de7062d9905d93e07b951d2f"/>
+<modify-entry
+   name="Color Variants.meta"
+   text-time="working"/>
+<modify-entry
+   name="Color Variants.meta"
+   working-size="working"/>

@@ -1,0 +1,600 @@
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_ExplosionSpike.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_ExplosionSpike.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM2_ExplosionSpike.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_ExplosionSpike.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_ExplosionSpike.mat"
+   name=".svn/tmp/text-base/CFXM2_ExplosionSpike.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_ExplosionSpike.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_ExplosionSpike.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_ExplosionSpike.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat"
+   checksum="a2c716b6facdebb5ff7b345731e86c99"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_ExplosionSpike.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_ExplosionSpike.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM2_ExplosionSpike.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_ExplosionSpike.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_ExplosionSpike.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_ExplosionSpike.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_ExplosionSpike.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_ExplosionSpike.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_ExplosionSpike.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat.meta"
+   checksum="c3c847442fa1a2044698e06237293c5d"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_ExplosionSpike.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Faded Ray.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Faded Ray.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM2_Faded%20Ray.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Faded Ray.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Faded Ray.mat"
+   name=".svn/tmp/text-base/CFXM2_Faded Ray.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Faded Ray.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Faded Ray.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Faded Ray.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat"
+   checksum="f33e15646a487348e37d2acea9a4681b"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Faded Ray.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Faded Ray.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM2_Faded%20Ray.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Faded Ray.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Faded Ray.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Faded Ray.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Faded Ray.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Faded Ray.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Faded Ray.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat.meta"
+   checksum="d7860e0c1c541c7f502a7276ec83dbe8"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Faded Ray.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Ray MULT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Ray MULT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM3_Ray%20MULT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Ray MULT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Ray MULT.mat"
+   name=".svn/tmp/text-base/CFXM3_Ray MULT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Ray MULT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Ray MULT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Ray MULT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat"
+   checksum="7155b7f7d813e56763b4e0969749ccf0"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Ray MULT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Ray MULT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM3_Ray%20MULT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Ray MULT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Ray MULT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_Ray MULT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Ray MULT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Ray MULT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Ray MULT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat.meta"
+   checksum="baba8fa043e77ad3d5c11ee866d7ca9d"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Ray MULT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Ray.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Ray.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Ray.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_Ray.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Ray.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Ray.mat"
+   name=".svn/tmp/text-base/CFXM_Ray.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Ray.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Ray.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Ray.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Ray.mat"
+   checksum="95b39b600706a4c815053be3c47a9ea0"/>
+<modify-entry
+   name="CFXM_Ray.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Ray.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Ray.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Ray.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Ray.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_Ray.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Ray.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Ray.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Ray.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Ray.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Ray.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Ray.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Ray.mat.meta"
+   checksum="30fe2bb90a13c50517c171aeab0476aa"/>
+<modify-entry
+   name="CFXM_Ray.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Ray.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_RayRounded.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_RayRounded.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_RayRounded.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_RayRounded.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_RayRounded.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_RayRounded.mat"
+   name=".svn/tmp/text-base/CFXM_RayRounded.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_RayRounded.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_RayRounded.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_RayRounded.mat.svn-base"/>
+<modify-entry
+   name="CFXM_RayRounded.mat"
+   checksum="fae39d7cb89f00100c8b870a78b69085"/>
+<modify-entry
+   name="CFXM_RayRounded.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_RayRounded.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_RayRounded.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_RayRounded.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_RayRounded.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_RayRounded.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_RayRounded.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_RayRounded.mat.meta"
+   name=".svn/tmp/text-base/CFXM_RayRounded.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_RayRounded.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_RayRounded.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_RayRounded.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_RayRounded.mat.meta"
+   checksum="2e1c8e06d2f53b0053993c88065d1fd1"/>
+<modify-entry
+   name="CFXM_RayRounded.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_RayRounded.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmallSpike_AddSoft.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmallSpike_AddSoft.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_SmallSpike_AddSoft.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmallSpike_AddSoft.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmallSpike_AddSoft.mat"
+   name=".svn/tmp/text-base/CFXM_SmallSpike_AddSoft.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmallSpike_AddSoft.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmallSpike_AddSoft.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmallSpike_AddSoft.mat.svn-base"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat"
+   checksum="98a9174583c787b15bdcc79979a0ecda"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_SmallSpike_AddSoft.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SmallSpike_AddSoft.mat.meta"
+   name=".svn/tmp/text-base/CFXM_SmallSpike_AddSoft.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SmallSpike_AddSoft.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SmallSpike_AddSoft.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SmallSpike_AddSoft.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   checksum="2324ce577f29398620d2c9f3b2b80188"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SmallSpike_AddSoft.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SpacedLine.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SpacedLine.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_SpacedLine.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SpacedLine.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SpacedLine.mat"
+   name=".svn/tmp/text-base/CFXM_SpacedLine.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SpacedLine.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_SpacedLine.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SpacedLine.mat.svn-base"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat"
+   checksum="5626cdfafef1316ac079c3aa784b3cdf"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_SpacedLine.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_SpacedLine.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Stretched/CFXM_SpacedLine.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_SpacedLine.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_SpacedLine.mat.meta"
+   name=".svn/tmp/text-base/CFXM_SpacedLine.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_SpacedLine.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_SpacedLine.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_SpacedLine.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat.meta"
+   checksum="99df2547deb4acdf3844bebff7472bd3"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_SpacedLine.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Symbols.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Symbols.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Symbols.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Symbols.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Symbols.meta"
+   name=".svn/tmp/text-base/Symbols.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Symbols.meta.svn-base"
+   name=".svn/tmp/text-base/Symbols.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Symbols.meta.svn-base"/>
+<modify-entry
+   name="Symbols.meta"
+   checksum="554570bd20cb6d4692ee24038f7960de"/>
+<modify-entry
+   name="Symbols.meta"
+   text-time="working"/>
+<modify-entry
+   name="Symbols.meta"
+   working-size="working"/>

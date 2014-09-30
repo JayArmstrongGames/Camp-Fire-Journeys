@@ -1,0 +1,120 @@
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Shaders%20(Mobile)/CFXM_MobileParticleAdd_Alpha8.shader"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_MobileParticleAdd_Alpha8.shader"
+   name=".svn/tmp/text-base/CFXM_MobileParticleAdd_Alpha8.shader.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_MobileParticleAdd_Alpha8.shader.svn-base"
+   name=".svn/tmp/text-base/CFXM_MobileParticleAdd_Alpha8.shader.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_MobileParticleAdd_Alpha8.shader.svn-base"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   checksum="084f99906b0bc24cea4e4c652a83e2ab"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Shaders%20(Mobile)/CFXM_MobileParticleAdd_Alpha8.shader.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   name=".svn/tmp/text-base/CFXM_MobileParticleAdd_Alpha8.shader.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_MobileParticleAdd_Alpha8.shader.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_MobileParticleAdd_Alpha8.shader.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_MobileParticleAdd_Alpha8.shader.meta.svn-base"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   checksum="610c3d851c6c864ccea2476ca04afaa9"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_MobileParticleAdd_Alpha8.shader.meta"
+   working-size="working"/>
+<modify-entry
+   name="Shaders.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Shaders.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Shaders.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Shaders.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Shaders.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Shaders.meta"
+   name=".svn/tmp/text-base/Shaders.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Shaders.meta.svn-base"
+   name=".svn/tmp/text-base/Shaders.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Shaders.meta.svn-base"/>
+<modify-entry
+   name="Shaders.meta"
+   checksum="c8a5bcc7988ac97600e57bfe7123015b"/>
+<modify-entry
+   name="Shaders.meta"
+   text-time="working"/>
+<modify-entry
+   name="Shaders.meta"
+   working-size="working"/>

@@ -1,0 +1,520 @@
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Air%20(Purple).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   checksum="0a04c6656222db538e5f5a78038816fa"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Air%20(Purple).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Air (Purple).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   checksum="39d96006e729a4130b45527fdd0d8758"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Purple).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Air%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   checksum="2ea91493951141b68c8bbfc9a8e1cbde"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Air%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Air (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   checksum="3cd7af7d2eef1831d85f68a2885b9745"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Air%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   checksum="aae86c10f879ff5cd43f6e4b78d24b10"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Air%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   checksum="ba40514e2f59fde136f7462870ddf151"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Air (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Ground%20(Purple).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   checksum="6daea35b4b64f111cb192187df3c0bb6"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Ground%20(Purple).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   checksum="abce1e9ab739b421f1d4469b76e3e1d2"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Purple).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Ground%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   checksum="0c29776c103bd8b8f9d47a0f8a691e63"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Ground%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   checksum="6e3e50a40b45d1c48b20430fce4b639d"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Ground%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   checksum="794d93ef1dceb7a65693215578c924cd"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Electric/Color%20Variants/CFXM3_Hit_Electric_A_Ground%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   checksum="6d3ff80bbf348ff4be6dddea1ae7cf2f"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Electric_A_Ground (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Environment.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Environment.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Environment.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Environment.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Environment.meta"
+   name=".svn/tmp/text-base/Environment.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Environment.meta.svn-base"
+   name=".svn/tmp/text-base/Environment.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Environment.meta.svn-base"/>
+<modify-entry
+   name="Environment.meta"
+   checksum="93c7c6fca188c6045a26fc4dad9daff7"/>
+<modify-entry
+   name="Environment.meta"
+   text-time="working"/>
+<modify-entry
+   name="Environment.meta"
+   working-size="working"/>

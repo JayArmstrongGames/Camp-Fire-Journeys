@@ -1,0 +1,200 @@
+<modify-entry
+   name="CFXM_GasLeak Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_GasLeak Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_GasLeak Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/Color%20Variants/CFXM_GasLeak%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_GasLeak Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_GasLeak Green.prefab"
+   name=".svn/tmp/text-base/CFXM_GasLeak Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_GasLeak Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_GasLeak Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_GasLeak Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab"
+   checksum="8f7bdd9329356ae4888ab71c17e8d2c1"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_GasLeak Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_GasLeak Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/Color%20Variants/CFXM_GasLeak%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_GasLeak Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_GasLeak Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_GasLeak Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_GasLeak Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_GasLeak Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_GasLeak Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab.meta"
+   checksum="759f59fedbbce45ced44a444249c7e9c"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_GasLeak Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_GasLeak Purple.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_GasLeak Purple.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/Color%20Variants/CFXM_GasLeak%20Purple.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_GasLeak Purple.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_GasLeak Purple.prefab"
+   name=".svn/tmp/text-base/CFXM_GasLeak Purple.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_GasLeak Purple.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM_GasLeak Purple.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_GasLeak Purple.prefab.svn-base"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab"
+   checksum="b0927b32380afe208c6d3140353386ee"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_GasLeak Purple.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_GasLeak Purple.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Smoke/Color%20Variants/CFXM_GasLeak%20Purple.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_GasLeak Purple.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_GasLeak Purple.prefab.meta"
+   name=".svn/tmp/text-base/CFXM_GasLeak Purple.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_GasLeak Purple.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_GasLeak Purple.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_GasLeak Purple.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab.meta"
+   checksum="ac47904a1688f22e474dbffe6b331cf0"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_GasLeak Purple.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Texts (drag-drop to prefabs).meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Texts (drag-drop to prefabs).meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Texts (drag-drop to prefabs).meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX%20Prefabs%20(Mobile)/Texts%20(drag-drop%20to%20prefabs).meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Texts (drag-drop to prefabs).meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Texts (drag-drop to prefabs).meta"
+   name=".svn/tmp/text-base/Texts (drag-drop to prefabs).meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Texts (drag-drop to prefabs).meta.svn-base"
+   name=".svn/tmp/text-base/Texts (drag-drop to prefabs).meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Texts (drag-drop to prefabs).meta.svn-base"/>
+<modify-entry
+   name="Texts (drag-drop to prefabs).meta"
+   checksum="0733b82f0691aae5c48f7b93dfe33523"/>
+<modify-entry
+   name="Texts (drag-drop to prefabs).meta"
+   text-time="working"/>
+<modify-entry
+   name="Texts (drag-drop to prefabs).meta"
+   working-size="working"/>
