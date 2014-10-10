@@ -1,18 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Weapon.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AddOns/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs">
     <Files>
       <File FileName="Assets/MeleeManager.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/SimpleTrigger.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PlayerControl.cs" Line="306" Column="68" />
-      <File FileName="Assets/Scripts/Movement.cs" Line="40" Column="8" />
-      <File FileName="../../Hardcore Dinosaur/DropSlam/Assets/Scripts/Explosive.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Movement.cs" Line="1" Column="1" />
       <File FileName="Assets/DamageBox.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GameScript.cs" Line="1" Column="1" />
-      <File FileName="../../Hardcore Dinosaur/DropSlam/Assets/Scripts/IsSlammable.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/IsWrappable.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Weapon.cs" Line="29" Column="28" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/AddOns/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
