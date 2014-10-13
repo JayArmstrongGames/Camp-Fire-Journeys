@@ -30,6 +30,9 @@ public class Bullet : MonoBehaviour {
 		{
 			damagebox.Damage(0.5f);
 			Destroy(gameObject);
+		} else if (col.gameObject.layer == LayerMask.NameToLayer("Bullets"))
+		{
+			Debug.Log ("Pichewww!");
 		} else {
 			Destroy(gameObject);
 		}

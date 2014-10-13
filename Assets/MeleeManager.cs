@@ -5,14 +5,19 @@ using System.Collections.Generic;
 public class MeleeManager : MonoBehaviour {
 
 	BoxCollider2D hitBox;
-	// Use this for initialization
+	float yThrust;
+	float xThrust;
+
 	void Start () {
 		hitBox = GetComponent<BoxCollider2D>();
 		hitBox.enabled = false;
 	}
 
-	public void Attack()
+	public void Attack(float xThrust, float yThrust)
 	{
+		this.yThrust = yThrust;
+		this.xThrust = xThrust;
+	
 		hitBox.enabled = true;
 		Vector3 position = hitBox.transform.localPosition;
 		position.x = hitBox.bounds.size.x / 2 * transform.parent.GetComponent<Movement>().facing.x;
@@ -38,13 +43,25 @@ public class MeleeManager : MonoBehaviour {
 		} 
 		*/
 
+		if (col.gameObject.layer == LayerMask.NameToLayer("Bullets"))
+		{
+			Vector3 bulletScale = col.transform.localScale;
+			bulletScale.x *= -1;
+			col.transform.localScale = bulletScale;
+			//Vector2 velocity = col.rigidbody2D.velocity;
+			//velocity.x *= -1;
+			//col.rigidbody2D.velocity = velocity;
+			Debug.Log("Deflect bullet");
+			return;
+		}
+
 		if (col.rigidbody2D != null)
 		{
 			Debug.Log("explosion");
 			Rigidbody2D r = col.rigidbody2D;
 			if (Vector2.Distance(r.transform.position, transform.position) < 6) {
-				float px = r.transform.position.x - transform.position.x;
-				float py = r.transform.position.y - transform.position.y;
+				float px = r.transform.position.x - transform.position.x * xThrust;
+				float py = r.transform.position.y - transform.position.y * yThrust;
 				r.AddForce(new Vector2(px, py).normalized * 500 /  Vector2.Distance(r.transform.position, transform.position));
 				
 			}
@@ -58,8 +75,6 @@ public class MeleeManager : MonoBehaviour {
 			Vector2 velocity = col.gameObject.transform.parent.rigidbody2D.velocity;
 			velocity.x = 10.0f * transform.parent.GetComponent<Movement>().facing.x;
 			col.gameObject.transform.parent.rigidbody2D.velocity = velocity;
-
-		
 				
 		} 
 

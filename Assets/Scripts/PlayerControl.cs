@@ -220,8 +220,15 @@ public class PlayerControl : MonoBehaviour {
 			Vector2 velocity = gameObject.rigidbody2D.velocity;
 			velocity.x = 10.0f * skeletonAnimation.transform.localScale.x;
 			gameObject.rigidbody2D.velocity = velocity;
-			skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+
+			float yThurst = device.GetInputMoveVector().y;
+			if (yThurst > 0){ 
+				skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+			} else {
+				skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+			}
 			skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
+
 			state = "attack";
 		}
 	}
@@ -329,11 +336,10 @@ public class PlayerControl : MonoBehaviour {
 		switch (e.ToString())
 		{
 			case "ATTACK_HIT":
-				Debug.Log ("SWING!");
-				meleemanager.Attack();
+				meleemanager.Attack(1,0);
 			break;
 			case "FIRE_GUN":
-			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("gun");
+			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("GunEnd");
 			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY);
 			weaponmanager.Fire(); gunKickBack = 20;
 			break;
