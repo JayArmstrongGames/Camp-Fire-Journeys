@@ -1,0 +1,1720 @@
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_A%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_A (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_A (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_A (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   checksum="4d7595840f72e5a4c8a72399b1b4d74c"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_A%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_A (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_A (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_A (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   checksum="460f6957a032d381eeafe63ff96a1030"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_A (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_A (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_A%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_A (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_A (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_A (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_A (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab"
+   checksum="5747d9da89ad6515c8441b374346d4c6"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_A%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_A (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_A (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_A (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   checksum="17ec231887b4cddda51141668132ef81"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_A%20(Pink).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_A (Pink).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Pink).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_A (Pink).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Pink).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_A (Pink).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   checksum="ba280ca84f993368dfbba5ec5b8d84e3"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_A%20(Pink).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_A (Pink).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Pink).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_A (Pink).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_A (Pink).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_A (Pink).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   checksum="a85e2cebf23d22e4d4b2bab532d69f41"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_A (Pink).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_B_Runic%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   checksum="50a3727c642280b06a50de7520004a95"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_B_Runic%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_B_Runic (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   checksum="7aaefcdd73f0cb6496cd7620ffa9e646"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_B_Runic%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_B_Runic (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   checksum="8d2bb7218cd251036b6e9b5317f77d13"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_B_Runic%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_B_Runic (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   checksum="33ead294b37258a01676720d972237f2"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_B_Runic%20(Orange).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   checksum="88c24e1c8f813f2a94136532685e50e1"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_B_Runic%20(Orange).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_B_Runic (Orange).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   checksum="d7a285b1c734bfd2d77213cb556c6f83"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_B_Runic (Orange).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_C%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_C (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_C (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_C (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   checksum="58223e0f641de97fe6c8ab91922fa7f2"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_C%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_C (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_C (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_C (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   checksum="150e52e645d36f09eb7d5d720d13fea0"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_C (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_C (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_C%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_C (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_C (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_C (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_C (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab"
+   checksum="79f3d811bb9968cee118178b077c2236"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_C%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_C (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_C (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_C (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   checksum="d5c0bb8c9193eee9f3009271241db4ff"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_C (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_C (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_C%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_C (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_C (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_C (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_C (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab"
+   checksum="26ea59708a5cc22e1fd2f8e1a0498f0b"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_C%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_C (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_C (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_C (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_C (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   checksum="04a1afa5dcdc0c315945ba730e8fb987"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_C (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_D_Runic%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   checksum="ff7b9e7fcd59143210b0de3d4fc88c80"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_D_Runic%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_D_Runic (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   checksum="3df610cb7432664cbe9a58775be01ef3"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_D_Runic%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_D_Runic (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   checksum="63f6a5558b0b68b45bc4f317b31ed182"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_D_Runic%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_D_Runic (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   checksum="e18741112aa17b265594dd2fe01c6b13"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_D_Runic%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   checksum="98b369371c50abce87a14c6159eec813"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_MagicAura_D_Runic%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_MagicAura_D_Runic (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   checksum="24fc7d6e2ef0187226d39631baae2a49"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_MagicAura_D_Runic (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_VortexTornado (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_VortexTornado (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_VortexTornado%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_VortexTornado (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_VortexTornado (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_VortexTornado (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_VortexTornado (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab"
+   checksum="9e6bfb8e73d5605c08700377f7b54056"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_VortexTornado%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_VortexTornado (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_VortexTornado (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_VortexTornado (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   checksum="22c41522cd1434f94c608c786e0402ee"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_VortexTornado (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_VortexTornado (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_VortexTornado%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_VortexTornado (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_VortexTornado (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_VortexTornado (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_VortexTornado (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab"
+   checksum="cbb41f74dfa9ea0f657c7ebc938429ac"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_VortexTornado%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_VortexTornado (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_VortexTornado (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_VortexTornado (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   checksum="3c939af3905ce77e6d0348afe38bcbff"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_VortexTornado (Orange).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_VortexTornado (Orange).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_VortexTornado%20(Orange).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_VortexTornado (Orange).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_VortexTornado (Orange).prefab"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Orange).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_VortexTornado (Orange).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Orange).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_VortexTornado (Orange).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab"
+   checksum="b593a5ee22a809cf4c524d5944d9e743"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_VortexTornado%20(Orange).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_VortexTornado (Orange).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Orange).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_VortexTornado (Orange).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_VortexTornado (Orange).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_VortexTornado (Orange).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   checksum="f2c4fbb2a67376177d079e6003663dc3"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_VortexTornado (Orange).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Air%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Air (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Air (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Air (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   checksum="77af8f69e38f826eba3b63d4bc399119"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Air%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Air (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Air (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Air (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   checksum="5683bf30a0651815c820ac91eef97556"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Air (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Air (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Air%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Air (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Air (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Air (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Air (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab"
+   checksum="5f4e1424e8d428e4faec9b711657fa36"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Air%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Air (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Air (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Air (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   checksum="347f94dc875676e744ba2e0d2de2bfc6"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Air%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Air (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Air (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Air (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   checksum="1cf60aad8788a6cc7efe3c0a7e09ceef"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Air%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Air (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Air (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Air (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   checksum="19fdd0b59ca4efd4edc4c48b39adb866"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Air (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Ground%20(Blue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Ground (Blue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Blue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Ground (Blue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Blue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Ground (Blue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   checksum="2ca2cd2eddd661ba7fff472fd685b4b0"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Ground%20(Blue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Blue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Ground (Blue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Blue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Ground (Blue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   checksum="5454afd09a113e499c37c0798da0d7be"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Blue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Ground%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Ground (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Ground (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Ground (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   checksum="71919374c90ecf3ee5b900fbb7ad1be1"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Ground%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Ground (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Ground (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Ground (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   checksum="692ab18ea73a4bdafac5e420088346b9"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Ground%20(Yellow).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Ground (Yellow).prefab"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Yellow).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Ground (Yellow).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Yellow).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Ground (Yellow).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   checksum="67199d8063aa8215d2f5ad6c014ac85c"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Misc/Color%20Variants/CFXM3_Vortex_Ground%20(Yellow).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Yellow).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Vortex_Ground (Yellow).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Vortex_Ground (Yellow).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Vortex_Ground (Yellow).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   checksum="139d87638522af1e714b9a515236f040"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Vortex_Ground (Yellow).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Misc.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Misc.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Misc.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Misc.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Misc.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Misc.meta"
+   name=".svn/tmp/text-base/Misc.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Misc.meta.svn-base"
+   name=".svn/tmp/text-base/Misc.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Misc.meta.svn-base"/>
+<modify-entry
+   name="Misc.meta"
+   checksum="d72f19ae725be140e79c8bc693fbb331"/>
+<modify-entry
+   name="Misc.meta"
+   text-time="working"/>
+<modify-entry
+   name="Misc.meta"
+   working-size="working"/>

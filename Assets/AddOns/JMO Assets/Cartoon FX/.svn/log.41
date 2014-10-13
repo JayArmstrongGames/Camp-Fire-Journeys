@@ -1,0 +1,840 @@
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Black%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   checksum="a4d5094ab70d398d5d0fecf60dfe8da4"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Black%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Black (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   checksum="495ec42ea6de9d3b5bea5cf7ee3a27b9"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Black (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Blue%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   checksum="aeb6fae23209163ccada724a2047aeeb"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Blue%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   checksum="dd9ce6fa012efd9d4259b4f908e15c1c"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Blue (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Green%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   checksum="c228cef806cb15f45fb2621f572b88ac"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Green%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Green (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   checksum="aa636aa27d5e824e7b22ac27219e8eea"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Green (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Red%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   checksum="34531fb683a7a3fc577fc6d06aaad536"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Red%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Red (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   checksum="d43af58eda9111369f7383782f10fcdc"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Red (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_White%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   checksum="82c4ce6bb9aac528e24ef1e2383e03be"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_White%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_White (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   checksum="3b9d10ecd2be1b2072dfb6249c61b59d"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_White (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Black%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   checksum="0333a9aceeb6248e801b16c38066da8a"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Black%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   checksum="6862d406c5dc3d7707f27400487c79f9"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Black (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Blue%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   checksum="5f28e41be1c032abb570843ffb278c7d"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Blue%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   checksum="71158253987816d893a7a44fff389d52"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Blue (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Green%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   checksum="3ea55694cb36b0401731699d605757c6"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Green%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   checksum="6bfb3f239b622860ef281b8e0c2ef931"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Green (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Red%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   checksum="2a77a462a7f6fb42210a7b63a57c018f"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_Red%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   checksum="af021a4ce817d8f694e6e6b9d79b7e72"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_Red (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_White%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   checksum="7f503db092e033d9f2201537ecebfe88"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Environment/Variants/CFXM3_SmokeColumn_Wind_White%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   checksum="4fc041b24a49e88a343d942e67a42dbf"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SmokeColumn_Wind_White (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Fire.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Fire.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Fire.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Fire.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Fire.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Fire.meta"
+   name=".svn/tmp/text-base/Fire.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Fire.meta.svn-base"
+   name=".svn/tmp/text-base/Fire.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Fire.meta.svn-base"/>
+<modify-entry
+   name="Fire.meta"
+   checksum="58a5679ba473fece2c899cd7b72eaf9b"/>
+<modify-entry
+   name="Fire.meta"
+   text-time="working"/>
+<modify-entry
+   name="Fire.meta"
+   working-size="working"/>

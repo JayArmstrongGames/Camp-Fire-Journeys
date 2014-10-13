@@ -1,0 +1,200 @@
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Light/Variants/CFXM3_SkyRaysSkewed_Loop%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   checksum="513763af31c3747cd81a8cdbe39d2310"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Light/Variants/CFXM3_SkyRaysSkewed_Loop%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   checksum="30250678b89fc84e7aff129db4da59d9"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SkyRaysSkewed_Loop (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Light/Variants/CFXM3_SkyRays_Loop%20(Prewarm).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   name=".svn/tmp/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   checksum="437f4bc34ddad710f75eea76049723d4"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Light/Variants/CFXM3_SkyRays_Loop%20(Prewarm).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_SkyRays_Loop (Prewarm).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   checksum="0b0d643dd971fc716aa303d3e496964b"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_SkyRays_Loop (Prewarm).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Magic Dark.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Magic Dark.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Magic Dark.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Magic%20Dark.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Magic Dark.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Magic Dark.meta"
+   name=".svn/tmp/text-base/Magic Dark.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Magic Dark.meta.svn-base"
+   name=".svn/tmp/text-base/Magic Dark.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Magic Dark.meta.svn-base"/>
+<modify-entry
+   name="Magic Dark.meta"
+   checksum="7d8ba1bc0f187f967e0999ddd23215c9"/>
+<modify-entry
+   name="Magic Dark.meta"
+   text-time="working"/>
+<modify-entry
+   name="Magic Dark.meta"
+   working-size="working"/>

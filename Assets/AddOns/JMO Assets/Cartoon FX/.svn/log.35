@@ -1,0 +1,203 @@
+<add-tree-conflict
+   name=""
+   data="((conflict Water dir update added added (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Water dir) (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Water dir)))"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Skim_Directional.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Skim_Directional.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Water/CFXM2_Skim_Directional.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Skim_Directional.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Skim_Directional.prefab"
+   name=".svn/tmp/text-base/CFXM2_Skim_Directional.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Skim_Directional.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Skim_Directional.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Skim_Directional.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab"
+   checksum="f05e9b3fc7d9eb4cf68612425e54d96a"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Skim_Directional.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Skim_Directional.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Water/CFXM2_Skim_Directional.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Skim_Directional.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Skim_Directional.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Skim_Directional.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Skim_Directional.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Skim_Directional.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Skim_Directional.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab.meta"
+   checksum="a5acb550e759c374bff270d240039815"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Skim_Directional.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Splash_Drops.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Splash_Drops.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Water/CFXM2_Splash_Drops.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Splash_Drops.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Splash_Drops.prefab"
+   name=".svn/tmp/text-base/CFXM2_Splash_Drops.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Splash_Drops.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Splash_Drops.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Splash_Drops.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab"
+   checksum="bf37a1943db3c99167c15d82042699c2"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Splash_Drops.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Splash_Drops.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Water/CFXM2_Splash_Drops.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Splash_Drops.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Splash_Drops.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Splash_Drops.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Splash_Drops.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Splash_Drops.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Splash_Drops.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab.meta"
+   checksum="6df74c4a47c2d0b2c15234807170f612"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Splash_Drops.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFX2 Prefabs.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFX2 Prefabs.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFX2 Prefabs.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFX2 Prefabs.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFX2 Prefabs.meta"
+   name=".svn/tmp/text-base/CFX2 Prefabs.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFX2 Prefabs.meta.svn-base"
+   name=".svn/tmp/text-base/CFX2 Prefabs.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFX2 Prefabs.meta.svn-base"/>
+<modify-entry
+   name="CFX2 Prefabs.meta"
+   checksum="74d63a92fea86f5b6731374fa5ac5b28"/>
+<modify-entry
+   name="CFX2 Prefabs.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFX2 Prefabs.meta"
+   working-size="working"/>

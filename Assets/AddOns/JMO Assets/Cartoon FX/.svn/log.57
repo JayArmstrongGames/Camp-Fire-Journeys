@@ -1,0 +1,440 @@
+<modify-entry
+   name="CartoonFX Readme.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX Readme.txt"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX Readme.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX%20Readme.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX Readme.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX Readme.txt"
+   name=".svn/tmp/text-base/CartoonFX Readme.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX Readme.txt.svn-base"
+   name=".svn/tmp/text-base/CartoonFX Readme.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX Readme.txt.svn-base"/>
+<modify-entry
+   name="CartoonFX Readme.txt"
+   checksum="d1b3c4de4d8d00b3ae1048421a993f95"/>
+<modify-entry
+   name="CartoonFX Readme.txt"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX Readme.txt"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX Readme.txt.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX Readme.txt.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX Readme.txt.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX%20Readme.txt.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX Readme.txt.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX Readme.txt.meta"
+   name=".svn/tmp/text-base/CartoonFX Readme.txt.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX Readme.txt.meta.svn-base"
+   name=".svn/tmp/text-base/CartoonFX Readme.txt.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX Readme.txt.meta.svn-base"/>
+<modify-entry
+   name="CartoonFX Readme.txt.meta"
+   checksum="86ec253ac6c45acad25fa6535e3c917b"/>
+<modify-entry
+   name="CartoonFX Readme.txt.meta"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX Readme.txt.meta"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX Releases Notes.txt"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX Releases Notes.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX%20Releases%20Notes.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX Releases Notes.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX Releases Notes.txt"
+   name=".svn/tmp/text-base/CartoonFX Releases Notes.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX Releases Notes.txt.svn-base"
+   name=".svn/tmp/text-base/CartoonFX Releases Notes.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX Releases Notes.txt.svn-base"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt"
+   checksum="7433ae91cda4c9e107e7690281f22325"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX Releases Notes.txt.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX Releases Notes.txt.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX%20Releases%20Notes.txt.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX Releases Notes.txt.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX Releases Notes.txt.meta"
+   name=".svn/tmp/text-base/CartoonFX Releases Notes.txt.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX Releases Notes.txt.meta.svn-base"
+   name=".svn/tmp/text-base/CartoonFX Releases Notes.txt.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX Releases Notes.txt.meta.svn-base"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt.meta"
+   checksum="e36b01fecd7595b7ddc522decc728aa1"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt.meta"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX Releases Notes.txt.meta"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX2 Readme.txt"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX2 Readme.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX2%20Readme.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX2 Readme.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX2 Readme.txt"
+   name=".svn/tmp/text-base/CartoonFX2 Readme.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX2 Readme.txt.svn-base"
+   name=".svn/tmp/text-base/CartoonFX2 Readme.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX2 Readme.txt.svn-base"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt"
+   checksum="5811359f72b127b64234817709887a7a"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX2 Readme.txt.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX2 Readme.txt.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX2%20Readme.txt.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX2 Readme.txt.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX2 Readme.txt.meta"
+   name=".svn/tmp/text-base/CartoonFX2 Readme.txt.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX2 Readme.txt.meta.svn-base"
+   name=".svn/tmp/text-base/CartoonFX2 Readme.txt.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX2 Readme.txt.meta.svn-base"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt.meta"
+   checksum="64cad8b77fd47cf03d70841a12dae666"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt.meta"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX2 Readme.txt.meta"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX2 Releases Notes.txt"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX2 Releases Notes.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX2%20Releases%20Notes.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX2 Releases Notes.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX2 Releases Notes.txt"
+   name=".svn/tmp/text-base/CartoonFX2 Releases Notes.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX2 Releases Notes.txt.svn-base"
+   name=".svn/tmp/text-base/CartoonFX2 Releases Notes.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX2 Releases Notes.txt.svn-base"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt"
+   checksum="5419c888dd44426bfa0357f525d38dbf"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX2 Releases Notes.txt.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX2 Releases Notes.txt.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX2%20Releases%20Notes.txt.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX2 Releases Notes.txt.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX2 Releases Notes.txt.meta"
+   name=".svn/tmp/text-base/CartoonFX2 Releases Notes.txt.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX2 Releases Notes.txt.meta.svn-base"
+   name=".svn/tmp/text-base/CartoonFX2 Releases Notes.txt.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX2 Releases Notes.txt.meta.svn-base"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt.meta"
+   checksum="c9a9762037a38e3f457c860552898b3f"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt.meta"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX2 Releases Notes.txt.meta"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX3 Readme.txt"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX3 Readme.txt"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX3%20Readme.txt"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX3 Readme.txt"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX3 Readme.txt"
+   name=".svn/tmp/text-base/CartoonFX3 Readme.txt.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX3 Readme.txt.svn-base"
+   name=".svn/tmp/text-base/CartoonFX3 Readme.txt.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX3 Readme.txt.svn-base"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt"
+   checksum="0dc6f8974e844f0e9abab7cff9b47b22"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt"
+   working-size="working"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CartoonFX3 Readme.txt.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CartoonFX3 Readme.txt.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CartoonFX3%20Readme.txt.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CartoonFX3 Readme.txt.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CartoonFX3 Readme.txt.meta"
+   name=".svn/tmp/text-base/CartoonFX3 Readme.txt.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CartoonFX3 Readme.txt.meta.svn-base"
+   name=".svn/tmp/text-base/CartoonFX3 Readme.txt.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CartoonFX3 Readme.txt.meta.svn-base"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt.meta"
+   checksum="97755b2530fcb9d5da07d0280ad28750"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt.meta"
+   text-time="working"/>
+<modify-entry
+   name="CartoonFX3 Readme.txt.meta"
+   working-size="working"/>
+<modify-entry
+   name="Demo.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Demo.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Demo.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Demo.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Demo.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Demo.meta"
+   name=".svn/tmp/text-base/Demo.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Demo.meta.svn-base"
+   name=".svn/tmp/text-base/Demo.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Demo.meta.svn-base"/>
+<modify-entry
+   name="Demo.meta"
+   checksum="81236d434d05b758fe76bdda9ee07c59"/>
+<modify-entry
+   name="Demo.meta"
+   text-time="working"/>
+<modify-entry
+   name="Demo.meta"
+   working-size="working"/>

@@ -1,0 +1,200 @@
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundRockHit.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundRockHit.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/CFXM2_GroundRockHit.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundRockHit.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundRockHit.prefab"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundRockHit.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundRockHit.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab"
+   checksum="a48445dd08ae10329319064d189d2b33"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundRockHit.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundRockHit.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/CFXM2_GroundRockHit.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundRockHit.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundRockHit.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundRockHit.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundRockHit.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab.meta"
+   checksum="6256003f8ddae4ef92f2599d0fde34bd"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundWoodHit.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundWoodHit.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/CFXM2_GroundWoodHit.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundWoodHit.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundWoodHit.prefab"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundWoodHit.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundWoodHit.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab"
+   checksum="0009b81f7abd06b939246ecae52a2a38"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/CFXM2_GroundWoodHit.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundWoodHit.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundWoodHit.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundWoodHit.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   checksum="7bd797609fa04f3f9bcdcda866e5d969"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Variants.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Variants.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Variants.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Variants.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Variants.meta"
+   name=".svn/tmp/text-base/Variants.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Variants.meta.svn-base"
+   name=".svn/tmp/text-base/Variants.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Variants.meta.svn-base"/>
+<modify-entry
+   name="Variants.meta"
+   checksum="50c3e12d0daa994ce02ae0fa6b53d2a9"/>
+<modify-entry
+   name="Variants.meta"
+   text-time="working"/>
+<modify-entry
+   name="Variants.meta"
+   working-size="working"/>

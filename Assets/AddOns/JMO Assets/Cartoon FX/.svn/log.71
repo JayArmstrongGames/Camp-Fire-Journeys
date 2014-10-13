@@ -1,0 +1,600 @@
+<modify-entry
+   name="CFXM2_RainRipple.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_RainRipple.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_RainRipple.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM2_RainRipple.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_RainRipple.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_RainRipple.mat"
+   name=".svn/tmp/text-base/CFXM2_RainRipple.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_RainRipple.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_RainRipple.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_RainRipple.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat"
+   checksum="8fe5c51c2ff9fb0e54cf44e1dffed32a"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_RainRipple.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_RainRipple.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM2_RainRipple.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_RainRipple.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_RainRipple.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_RainRipple.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_RainRipple.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_RainRipple.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_RainRipple.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat.meta"
+   checksum="71b931e050cd9ab822e5e61ed48aa87c"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_RainRipple.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBulk ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBulk ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM3_IceBulk%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBulk ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBulk ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_IceBulk ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBulk ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBulk ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBulk ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat"
+   checksum="3ad3acccd80070c93c197013b357f65e"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBulk ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBulk ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM3_IceBulk%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBulk ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBulk ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_IceBulk ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBulk ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBulk ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBulk ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat.meta"
+   checksum="dae3875db825449fa415fcc6fb4ef529"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBulk ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceSmoke ADD.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceSmoke ADD.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM3_IceSmoke%20ADD.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceSmoke ADD.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceSmoke ADD.mat"
+   name=".svn/tmp/text-base/CFXM3_IceSmoke ADD.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceSmoke ADD.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceSmoke ADD.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceSmoke ADD.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat"
+   checksum="fd45ac192cda735f5dc3319ae93236c4"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM3_IceSmoke%20ADD.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceSmoke ADD.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_IceSmoke ADD.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceSmoke ADD.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceSmoke ADD.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceSmoke ADD.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   checksum="328692d3377bfe3618aec7ff215dcd41"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceSmoke ADD.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Anim_Splash_4frms.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Anim_Splash_4frms.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Anim_Splash_4frms.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Anim_Splash_4frms.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Anim_Splash_4frms.mat"
+   name=".svn/tmp/text-base/CFXM_Anim_Splash_4frms.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Anim_Splash_4frms.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Anim_Splash_4frms.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Anim_Splash_4frms.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat"
+   checksum="f1d80a6bd0a99db8a832bf84e8918e7c"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Anim_Splash_4frms.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Anim_Splash_4frms.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Anim_Splash_4frms.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Anim_Splash_4frms.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Anim_Splash_4frms.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Anim_Splash_4frms.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   checksum="f5d02577911e4cef7f6a8efa77ec6632"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Anim_Splash_4frms.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Foam_AddSoft.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Foam_AddSoft.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Foam_AddSoft.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Foam_AddSoft.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Foam_AddSoft.mat"
+   name=".svn/tmp/text-base/CFXM_Foam_AddSoft.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Foam_AddSoft.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Foam_AddSoft.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Foam_AddSoft.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat"
+   checksum="2f5387c65ec2ed2982a31df56ba27021"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Foam_AddSoft.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Foam_AddSoft.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Foam_AddSoft.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Foam_AddSoft.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Foam_AddSoft.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Foam_AddSoft.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Foam_AddSoft.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Foam_AddSoft.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Foam_AddSoft.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat.meta"
+   checksum="3f2ffebe448076bccabb4efac949e2b8"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Foam_AddSoft.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Fountain.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Fountain.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Fountain.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Fountain.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Fountain.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Fountain.mat"
+   name=".svn/tmp/text-base/CFXM_Fountain.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Fountain.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Fountain.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Fountain.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Fountain.mat"
+   checksum="926dabc8156ba7491be872d115b8e6e9"/>
+<modify-entry
+   name="CFXM_Fountain.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Fountain.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Fountain.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Fountain.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Fountain.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Fountain.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Fountain.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Fountain.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Fountain.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Fountain.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Fountain.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Fountain.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Fountain.mat.meta"
+   checksum="ea03ea98d1d1722a89af72bc07d47793"/>
+<modify-entry
+   name="CFXM_Fountain.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Fountain.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Ripple_AddSoft.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Ripple_AddSoft.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Ripple_AddSoft.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Ripple_AddSoft.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Ripple_AddSoft.mat"
+   name=".svn/tmp/text-base/CFXM_Ripple_AddSoft.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Ripple_AddSoft.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_Ripple_AddSoft.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Ripple_AddSoft.mat.svn-base"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat"
+   checksum="60b3bb2b42c7f9693cf44134710c6a46"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Water/CFXM_Ripple_AddSoft.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_Ripple_AddSoft.mat.meta"
+   name=".svn/tmp/text-base/CFXM_Ripple_AddSoft.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_Ripple_AddSoft.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_Ripple_AddSoft.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_Ripple_AddSoft.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   checksum="bcb0db46d52b81dc09e1660f7a1017c8"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_Ripple_AddSoft.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Materials.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Materials.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Materials.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Materials.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Materials.meta"
+   name=".svn/tmp/text-base/Materials.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Materials.meta.svn-base"
+   name=".svn/tmp/text-base/Materials.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Materials.meta.svn-base"/>
+<modify-entry
+   name="Materials.meta"
+   checksum="f126f8f023e77aac65c93692b52d295d"/>
+<modify-entry
+   name="Materials.meta"
+   text-time="working"/>
+<modify-entry
+   name="Materials.meta"
+   working-size="working"/>

@@ -1,0 +1,1880 @@
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BrokenHeart Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BrokenHeart Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_BrokenHeart%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BrokenHeart Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BrokenHeart Add.mat"
+   name=".svn/tmp/text-base/CFXM2_BrokenHeart Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BrokenHeart Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BrokenHeart Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BrokenHeart Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat"
+   checksum="8cedd0187d8b8b1036322f38728628f2"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_BrokenHeart%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BrokenHeart Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_BrokenHeart Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BrokenHeart Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BrokenHeart Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BrokenHeart Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   checksum="64d9e0072a7bc3cf28d7ef85cc6f1f62"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BrokenHeart Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Club Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Club Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Club Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Club%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Club Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Club Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Club Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Club Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Club Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Club Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Club Add.mat"
+   checksum="b7e43fb3bd802d525220a6dcd4e783e1"/>
+<modify-entry
+   name="CFXM2_Club Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Club Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Club Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Club Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Club Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Club%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Club Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Club Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Club Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Club Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Club Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Club Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Club Add.mat.meta"
+   checksum="99f29532c7a628bff4e7439a7efa9870"/>
+<modify-entry
+   name="CFXM2_Club Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Club Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Club Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Club Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Club%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Club Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Club Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Club Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Club Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Club Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Club Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat"
+   checksum="258b8b888a75da660ad5ca65426f98dd"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Club Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Club Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Club%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Club Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Club Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Club Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Club Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Club Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Club Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat.meta"
+   checksum="2694d6d7dcf3e98440f8e19425296eb8"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Club Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Diamond Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Diamond Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Diamond%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Diamond Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Diamond Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Diamond Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Diamond Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Diamond Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Diamond Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat"
+   checksum="43d28f2193de5faa5d21d72ffae3b28a"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Diamond Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Diamond Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Diamond%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Diamond Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Diamond Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Diamond Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Diamond Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Diamond Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Diamond Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat.meta"
+   checksum="e92d044565d434d460865c5ad4d1e661"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Diamond Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Diamond Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Diamond Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Diamond%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Diamond Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Diamond Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Diamond Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Diamond Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Diamond Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Diamond Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat"
+   checksum="939cf600a97b0896a89dbd530eea51fa"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Diamond%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Diamond Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Diamond Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Diamond Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Diamond Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Diamond Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   checksum="e38bd2579a50734deecb1bcb61c3c765"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Diamond Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Frown Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Frown Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Frown%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Frown Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Frown Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Frown Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Frown Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Frown Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Frown Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat"
+   checksum="70101d08cae8ed8ba4933b5f2ca1b4e2"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Frown Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Frown Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Frown%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Frown Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Frown Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Frown Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Frown Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Frown Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Frown Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat.meta"
+   checksum="2e8e54f9e9e7173b4af56f14e846899d"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Frown Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Frown Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Frown Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Frown%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Frown Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Frown Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Frown Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Frown Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Frown Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Frown Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat"
+   checksum="826b9fec146cd54217c690fb725ea844"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Frown Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Frown Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Frown%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Frown Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Frown Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Frown Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Frown Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Frown Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Frown Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat.meta"
+   checksum="1f13d7bc0395bb888f3b159bdc4ca3bb"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Frown Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GhostStretch Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GhostStretch Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_GhostStretch%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GhostStretch Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GhostStretch Add.mat"
+   name=".svn/tmp/text-base/CFXM2_GhostStretch Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GhostStretch Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GhostStretch Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GhostStretch Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat"
+   checksum="5e091b0e91d46afe8ef1e54b90c058ff"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GhostStretch Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GhostStretch Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_GhostStretch%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GhostStretch Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GhostStretch Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_GhostStretch Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GhostStretch Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GhostStretch Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GhostStretch Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat.meta"
+   checksum="55f1445b5abf6dfce6e0efa8fed7f7df"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GhostStretch Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Heart Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Heart Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Heart%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Heart Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Heart Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Heart Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Heart Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Heart Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Heart Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat"
+   checksum="0f6e51151c62912282726572e8dbbdd2"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Heart Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Heart Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Heart%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Heart Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Heart Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Heart Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Heart Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Heart Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Heart Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat.meta"
+   checksum="eee8b953e5edb7f3f68f26b3cd3b6e03"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Heart Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Heart Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Heart Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Heart%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Heart Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Heart Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Heart Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Heart Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Heart Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Heart Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat"
+   checksum="999b478298f47d81293a0b5f49b004f1"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Heart Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Heart Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Heart%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Heart Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Heart Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Heart Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Heart Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Heart Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Heart Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat.meta"
+   checksum="7d6f6d36e64f432b012a4dc9ebd474b5"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Heart Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_HeartBrokenSlice.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_HeartBrokenSlice.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_HeartBrokenSlice.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_HeartBrokenSlice.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_HeartBrokenSlice.mat"
+   name=".svn/tmp/text-base/CFXM2_HeartBrokenSlice.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_HeartBrokenSlice.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_HeartBrokenSlice.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_HeartBrokenSlice.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat"
+   checksum="800a714846e6c73baf4445474fa4c553"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_HeartBrokenSlice.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_HeartBrokenSlice.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_HeartBrokenSlice.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_HeartBrokenSlice.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_HeartBrokenSlice.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_HeartBrokenSlice.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   checksum="80a130c146bd11154a50e00cdab817f0"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_HeartBrokenSlice.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Skull Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Skull Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Skull%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Skull Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Skull Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Skull Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Skull Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Skull Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Skull Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat"
+   checksum="4c0ce1c3040fb78cf0455936451dc857"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Skull Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Skull Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Skull%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Skull Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Skull Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Skull Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Skull Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Skull Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Skull Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat.meta"
+   checksum="43dded4acf84b0e017f0d9862013c1a8"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Skull Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Skull Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Skull Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Skull%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Skull Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Skull Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Skull Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Skull Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Skull Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Skull Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat"
+   checksum="85159fb1792b7fc8d929862b08b9ff2c"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Skull Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Skull Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Skull%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Skull Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Skull Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Skull Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Skull Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Skull Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Skull Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat.meta"
+   checksum="7338162714b25b77c85952ba5e8fef4f"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Skull Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_SkullEyes%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Add.mat"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat"
+   checksum="00fde018b06eee85538b5658db002006"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_SkullEyes%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat.meta"
+   checksum="583c42084333b531a1e03fa21ca31e6d"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullStretched Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullStretched Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_SkullStretched%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullStretched Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullStretched Add.mat"
+   name=".svn/tmp/text-base/CFXM2_SkullStretched Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullStretched Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullStretched Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullStretched Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat"
+   checksum="6aea0f7da0525dbaab23011dc72b143e"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullStretched Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullStretched Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_SkullStretched%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullStretched Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullStretched Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullStretched Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullStretched Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullStretched Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullStretched Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat.meta"
+   checksum="e472f850d239fef6a291ba43cf98b1f8"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullStretched Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Smiley Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Smiley Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Smiley%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Smiley Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Smiley Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Smiley Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Smiley Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Smiley Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Smiley Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat"
+   checksum="fdb774e0905c56f771154a79cdf9e417"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Smiley Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Smiley Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Smiley%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Smiley Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Smiley Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Smiley Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Smiley Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Smiley Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Smiley Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat.meta"
+   checksum="f963c795a1d0e33f96d49735921bc1eb"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Smiley Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Smiley Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Smiley Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Smiley%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Smiley Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Smiley Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Smiley Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Smiley Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Smiley Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Smiley Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat"
+   checksum="2ede8bf6552edc7a262d9fed0db25a94"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Smiley%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Smiley Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Smiley Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Smiley Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Smiley Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Smiley Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   checksum="c1ebed564dc70ecec1ae42c50986942d"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Smiley Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Spade Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Spade Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Spade%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Spade Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Spade Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Spade Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Spade Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Spade Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Spade Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat"
+   checksum="fc8660acd097b6c3f1418a0663d17db0"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Spade Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Spade Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Spade%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Spade Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Spade Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Spade Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Spade Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Spade Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Spade Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat.meta"
+   checksum="8eef65041f19f72fca03e1b9c7f94751"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Spade Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Spade Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Spade Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Spade%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Spade Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Spade Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Spade Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Spade Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Spade Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Spade Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat"
+   checksum="7193856ce86a76f1d5eeae0cc2abb8a2"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Spade Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Spade Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Spade%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Spade Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Spade Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Spade Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Spade Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Spade Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Spade Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat.meta"
+   checksum="1e916712b73fd362e5af6a53b53c37dd"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Spade Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Star Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Star Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Star Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Star%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Star Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Star Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Star Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Star Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Star Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Star Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Star Add.mat"
+   checksum="c510a40ef42a9ce849daf8dceb9b680d"/>
+<modify-entry
+   name="CFXM2_Star Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Star Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Star Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Star Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Star Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Star%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Star Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Star Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Star Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Star Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Star Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Star Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Star Add.mat.meta"
+   checksum="5f040cd8338d19f66be2756cee8b821b"/>
+<modify-entry
+   name="CFXM2_Star Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Star Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Star Outline Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Star Outline Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Star%20Outline%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Star Outline Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Star Outline Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Star Outline Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Star Outline Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Star Outline Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Star Outline Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat"
+   checksum="5ddfb3436a5d5368e7261da113e00224"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Star Outline Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Star Outline Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM2_Star%20Outline%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Star Outline Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Star Outline Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Star Outline Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Star Outline Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Star Outline Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Star Outline Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat.meta"
+   checksum="b48e78ad0051026729291f1d70b7038f"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Star Outline Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Leaf AB.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Leaf AB.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM3_Leaf%20AB.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Leaf AB.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Leaf AB.mat"
+   name=".svn/tmp/text-base/CFXM3_Leaf AB.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Leaf AB.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Leaf AB.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Leaf AB.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat"
+   checksum="3dd05f62073b7f883e9cb62661c198ab"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Leaf AB.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Leaf AB.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM3_Leaf%20AB.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Leaf AB.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Leaf AB.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_Leaf AB.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Leaf AB.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Leaf AB.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Leaf AB.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat.meta"
+   checksum="e516b1a813eb5506559b228234c3f4f1"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Leaf AB.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Skull ADDSOFT.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Skull ADDSOFT.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM3_Skull%20ADDSOFT.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Skull ADDSOFT.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Skull ADDSOFT.mat"
+   name=".svn/tmp/text-base/CFXM3_Skull ADDSOFT.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Skull ADDSOFT.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Skull ADDSOFT.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Skull ADDSOFT.mat.svn-base"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat"
+   checksum="e5686c81f797a23d587970d6d0ae62bc"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Symbols/CFXM3_Skull%20ADDSOFT.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Skull ADDSOFT.mat.meta"
+   name=".svn/tmp/text-base/CFXM3_Skull ADDSOFT.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Skull ADDSOFT.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Skull ADDSOFT.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Skull ADDSOFT.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   checksum="ccb7dd608e83dbf277e50e9f756e0452"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Skull ADDSOFT.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Texts.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Texts.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Texts.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Texts.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Texts.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Texts.meta"
+   name=".svn/tmp/text-base/Texts.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Texts.meta.svn-base"
+   name=".svn/tmp/text-base/Texts.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Texts.meta.svn-base"/>
+<modify-entry
+   name="Texts.meta"
+   checksum="536522a3fa1116620fa0b41804442633"/>
+<modify-entry
+   name="Texts.meta"
+   text-time="working"/>
+<modify-entry
+   name="Texts.meta"
+   working-size="working"/>

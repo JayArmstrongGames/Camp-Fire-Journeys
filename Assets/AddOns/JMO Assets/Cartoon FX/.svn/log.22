@@ -1,0 +1,283 @@
+<add-tree-conflict
+   name=""
+   data="((conflict Variants dir update added added (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Variants dir) (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Variants dir)))"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundRockHit Brown.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundRockHit Brown.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants/CFXM2_GroundRockHit%20Brown.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundRockHit Brown.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundRockHit Brown.prefab"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Brown.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundRockHit Brown.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Brown.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundRockHit Brown.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab"
+   checksum="dc021b743c8c6659926c0a9d43b3158a"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants/CFXM2_GroundRockHit%20Brown.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundRockHit Brown.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Brown.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundRockHit Brown.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Brown.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundRockHit Brown.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   checksum="87606f9b63fa8bf8c86ea884738b8981"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Brown.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundRockHit Gray.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundRockHit Gray.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants/CFXM2_GroundRockHit%20Gray.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundRockHit Gray.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundRockHit Gray.prefab"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Gray.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundRockHit Gray.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Gray.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundRockHit Gray.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab"
+   checksum="c695afa409ba62c31cb7f467897cc77b"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants/CFXM2_GroundRockHit%20Gray.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundRockHit Gray.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Gray.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundRockHit Gray.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundRockHit Gray.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundRockHit Gray.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   checksum="6e592890e03c1aa9862f7aeac1d46248"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundRockHit Gray.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants/CFXM2_GroundWoodHit%20Bigger%20Dark.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   checksum="68d857ea594c0e99a105d18df3a681bd"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Debris%20Hits/Variants/CFXM2_GroundWoodHit%20Bigger%20Dark.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_GroundWoodHit Bigger Dark.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   checksum="5fec22e7364629221c74e7cce6806344"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_GroundWoodHit Bigger Dark.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Electric.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Electric.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Electric.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Electric.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Electric.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Electric.meta"
+   name=".svn/tmp/text-base/Electric.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Electric.meta.svn-base"
+   name=".svn/tmp/text-base/Electric.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Electric.meta.svn-base"/>
+<modify-entry
+   name="Electric.meta"
+   checksum="11b47b7539e5d48db9f630dce08873c0"/>
+<modify-entry
+   name="Electric.meta"
+   text-time="working"/>
+<modify-entry
+   name="Electric.meta"
+   working-size="working"/>

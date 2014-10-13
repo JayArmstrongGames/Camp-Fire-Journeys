@@ -1,0 +1,1240 @@
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Air%20(Orange).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   checksum="91b41f2a0c42ff6b9ff2d6f345a3a76c"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Air%20(Orange).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Air (Orange).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   checksum="042497fc82dc86cf09a9c2454d687ffa"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Orange).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Air%20(Purple).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   checksum="66a66a37317cf3a57e3debe8046c35aa"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Air%20(Purple).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Air (Purple).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   checksum="a7458a5924560fe0bce9fb383aa766e5"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (Purple).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Air%20(White).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Air (White).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   checksum="4d0db4385b28505bd41367ef7b22d812"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Air%20(White).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Air (White).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   checksum="3ffb6a10353ad5fc3da7b08ac2f4e662"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Air (White).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Ground%20(Orange).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   checksum="f5ac6d9feace456033023d9e2603abc4"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Ground%20(Orange).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   checksum="ad49b7a45c46ec111aab9a05efdc4620"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Orange).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Ground%20(Purple).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   checksum="7a8d5b8165483a61c74746a1deb3814e"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Ground%20(Purple).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   checksum="70399ac12fa2ac20636d8281a8992746"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (Purple).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Ground%20(White).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   checksum="dc60d91283803c161f74d5fa8131fb0a"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_A_Ground%20(White).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_A_Ground (White).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   checksum="322f216c040b8901cf260c2ea3a4c9be"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_A_Ground (White).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Air%20(DarkBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   checksum="80390a7e6c7489da8e7d15486791084c"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Air%20(DarkBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   checksum="21023445d14f4fabcc59efb97286c8cf"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (DarkBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Air%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   checksum="13078e163aa319687aa496a7b51a57c0"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Air%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Air (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   checksum="1542c2ff92158281e2025d52465ec8e9"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Air%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   checksum="8ee6fbd8c0790fcf6e8820ed8e352820"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Air%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Air (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   checksum="ad1c6488d8745cbe913040850a29cd94"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Air (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Ground%20(DarkBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   checksum="7ea04448f90577da9e1068b615162021"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Ground%20(DarkBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   checksum="d46d2c0d8d1cdd12085958027fd99e03"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (DarkBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Ground%20(Green).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   checksum="203a8d26fdf05e493db3b80d0c9730a3"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Ground%20(Green).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Green).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   checksum="d066e4313c29e605c82def4cbc7e18ff"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Green).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Ground%20(Red).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   checksum="d1c278bd16cb5b0072e6733e4dcbb08b"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_Hit_Ice_B_Ground%20(Red).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Ice_B_Ground (Red).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   checksum="b39277d754ba89df9208fb153ede567b"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Ice_B_Ground (Red).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBall_A (Orange).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBall_A (Orange).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_IceBall_A%20(Orange).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBall_A (Orange).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBall_A (Orange).prefab"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Orange).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBall_A (Orange).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Orange).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBall_A (Orange).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab"
+   checksum="cc7cc86721f49a90fd8bd5084a3d47c2"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_IceBall_A%20(Orange).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBall_A (Orange).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Orange).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBall_A (Orange).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Orange).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBall_A (Orange).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   checksum="34e3110904354db784eb00380b79d2e3"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Orange).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBall_A (Purple).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBall_A (Purple).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_IceBall_A%20(Purple).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBall_A (Purple).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBall_A (Purple).prefab"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Purple).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBall_A (Purple).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Purple).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBall_A (Purple).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab"
+   checksum="86d81fa8aebad562763185f5138b390b"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_IceBall_A%20(Purple).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBall_A (Purple).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Purple).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBall_A (Purple).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (Purple).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBall_A (Purple).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   checksum="94185fc6b5ffd765891240df401e32f5"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (Purple).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBall_A (White).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBall_A (White).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_IceBall_A%20(White).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBall_A (White).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBall_A (White).prefab"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (White).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBall_A (White).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (White).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBall_A (White).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab"
+   checksum="eb62da6190b0fff69d2e1b0123ffb4bd"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Ice/Color%20Variants/CFXM3_IceBall_A%20(White).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_IceBall_A (White).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (White).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_IceBall_A (White).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_IceBall_A (White).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_IceBall_A (White).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   checksum="38c53cfdf1434722220d5e5449c35220"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_IceBall_A (White).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Light.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Light.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Light.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Light.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Light.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Light.meta"
+   name=".svn/tmp/text-base/Light.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Light.meta.svn-base"
+   name=".svn/tmp/text-base/Light.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Light.meta.svn-base"/>
+<modify-entry
+   name="Light.meta"
+   checksum="96b4917c49ca15dadaf6046778b229ca"/>
+<modify-entry
+   name="Light.meta"
+   text-time="working"/>
+<modify-entry
+   name="Light.meta"
+   working-size="working"/>

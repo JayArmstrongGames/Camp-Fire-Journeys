@@ -1,0 +1,1000 @@
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves%20(Brown).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves (Brown).prefab"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (Brown).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves (Brown).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (Brown).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves (Brown).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   checksum="dd4fe768db1e5993cc5578c12bd2f753"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves%20(Brown).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves (Brown).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (Brown).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves (Brown).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (Brown).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves (Brown).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   checksum="dbc32e373e9eb07c6579d84422e74968"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (Brown).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves%20(GreenBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves (GreenBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   checksum="5bf570d0454f8f8e1791144e8b82d359"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves%20(GreenBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves (GreenBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   checksum="2ae17b3a3b48275b29ae014555779353"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves (GreenBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves_Large%20(Brown).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves_Large (Brown).prefab"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   checksum="ab043b0cc9505e9f3fb2fcd4292f9975"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves_Large%20(Brown).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves_Large (Brown).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   checksum="95e77e4c9b7cb095ee3c663f9abdab43"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (Brown).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves_Large%20(GreenBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   checksum="0e8aa36f3521e0589cb7b3c83847002a"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_FallingLeaves_Large%20(GreenBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   checksum="575e689e815e52ff5291a07f0fb6003f"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_FallingLeaves_Large (GreenBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Air%20(Brown).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   checksum="452d4d5ede6361702c7a1ad762c97af4"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Air%20(Brown).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   checksum="91051bcb6a5873452a86e0d4216660e7"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (Brown).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Air%20(GreenBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   checksum="05c58465cd8863926861719cc948b7e7"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Air%20(GreenBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   checksum="5663837c918879cd8630c15bb6a6a88d"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Air (GreenBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Ground%20(Brown).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   checksum="c4a388be7bed4a86e64ebd59239373b8"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Ground%20(Brown).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   checksum="826b9f82476d9af5a1f1d6b4b84dab1a"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (Brown).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Ground%20(GreenBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   checksum="94a7ab9cc832e4e497d999b228acc5c3"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Hit_Leaves_A_Ground%20(GreenBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   checksum="93e5b4754f9240903f09413125adbc0c"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Hit_Leaves_A_Ground (GreenBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves%20(Brown).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves (Brown).prefab"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (Brown).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves (Brown).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (Brown).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves (Brown).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   checksum="964d9c9a028a9711847284b948b03083"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves%20(Brown).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (Brown).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves (Brown).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (Brown).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves (Brown).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   checksum="00e6471b38252fbda765e456aa6cb929"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (Brown).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves%20(GreenBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   checksum="2612d2c31bddf37bc54b568ca11732d4"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves%20(GreenBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves (GreenBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   checksum="dbbba6453e76472b12d90cd3e14f42b5"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves (GreenBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves_Raw%20(Brown).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   checksum="d3b7c369fd31f5bef2a79bf3981542fc"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves_Raw%20(Brown).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves_Raw (Brown).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   checksum="3291e12547cf9c859d2cd635179d6796"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (Brown).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves_Raw%20(GreenBlue).prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   checksum="0ad880d6ae8e90dc37d3d47e8dbdb2f7"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs%20(Mobile)/Nature/Color%20Variants/CFXM3_Shield_Leaves_Raw%20(GreenBlue).prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   checksum="0894d26b7319fe2800ecb28a448ebd1c"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM3_Shield_Leaves_Raw (GreenBlue).prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFX3 Prefabs.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFX3 Prefabs.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFX3 Prefabs.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX3%20Prefabs.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFX3 Prefabs.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFX3 Prefabs.meta"
+   name=".svn/tmp/text-base/CFX3 Prefabs.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFX3 Prefabs.meta.svn-base"
+   name=".svn/tmp/text-base/CFX3 Prefabs.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFX3 Prefabs.meta.svn-base"/>
+<modify-entry
+   name="CFX3 Prefabs.meta"
+   checksum="a4d6683e4bfbca33155d29cb6331695b"/>
+<modify-entry
+   name="CFX3 Prefabs.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFX3 Prefabs.meta"
+   working-size="working"/>

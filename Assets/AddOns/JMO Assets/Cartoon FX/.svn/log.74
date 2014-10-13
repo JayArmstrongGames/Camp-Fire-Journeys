@@ -1,0 +1,40 @@
+<modify-entry
+   name="Shaders (Mobile).meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Shaders (Mobile).meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Shaders (Mobile).meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Shaders%20(Mobile).meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Shaders (Mobile).meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Shaders (Mobile).meta"
+   name=".svn/tmp/text-base/Shaders (Mobile).meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Shaders (Mobile).meta.svn-base"
+   name=".svn/tmp/text-base/Shaders (Mobile).meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Shaders (Mobile).meta.svn-base"/>
+<modify-entry
+   name="Shaders (Mobile).meta"
+   checksum="bca90542c67fd5e3a6829e296979c7b2"/>
+<modify-entry
+   name="Shaders (Mobile).meta"
+   text-time="working"/>
+<modify-entry
+   name="Shaders (Mobile).meta"
+   working-size="working"/>

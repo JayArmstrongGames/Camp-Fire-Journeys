@@ -1,0 +1,280 @@
+<modify-entry
+   name="CFXM2_Rain.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Rain.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Rain.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain/CFXM2_Rain.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Rain.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Rain.prefab"
+   name=".svn/tmp/text-base/CFXM2_Rain.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Rain.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Rain.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Rain.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Rain.prefab"
+   checksum="7cb3949d86232190a34f5e915caab57c"/>
+<modify-entry
+   name="CFXM2_Rain.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Rain.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Rain.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Rain.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Rain.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain/CFXM2_Rain.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Rain.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Rain.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Rain.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Rain.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Rain.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Rain.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Rain.prefab.meta"
+   checksum="cd9e39809c3b3a5f85eaee32918fc070"/>
+<modify-entry
+   name="CFXM2_Rain.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Rain.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_RainHeavy.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_RainHeavy.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain/CFXM2_RainHeavy.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_RainHeavy.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_RainHeavy.prefab"
+   name=".svn/tmp/text-base/CFXM2_RainHeavy.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_RainHeavy.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_RainHeavy.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_RainHeavy.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab"
+   checksum="90da39fd7bdee5d3c3d22615b4a0df7f"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_RainHeavy.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_RainHeavy.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain/CFXM2_RainHeavy.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_RainHeavy.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_RainHeavy.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_RainHeavy.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_RainHeavy.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_RainHeavy.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_RainHeavy.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab.meta"
+   checksum="0ff16a691429066767b059d03d568ecd"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_RainHeavy.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_RainLight.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_RainLight.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain/CFXM2_RainLight.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_RainLight.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_RainLight.prefab"
+   name=".svn/tmp/text-base/CFXM2_RainLight.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_RainLight.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_RainLight.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_RainLight.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab"
+   checksum="68c0c4b4926f9a5c5cdd8aff782a02a2"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_RainLight.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_RainLight.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Rain/CFXM2_RainLight.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_RainLight.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_RainLight.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_RainLight.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_RainLight.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_RainLight.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_RainLight.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab.meta"
+   checksum="9423b53645e29ca03ee67d615022b620"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_RainLight.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Skull &amp; Ghosts Effects.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Skull &amp; Ghosts Effects.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Skull &amp; Ghosts Effects.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Skull &amp; Ghosts Effects.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Skull &amp; Ghosts Effects.meta"
+   name=".svn/tmp/text-base/Skull &amp; Ghosts Effects.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Skull &amp; Ghosts Effects.meta.svn-base"
+   name=".svn/tmp/text-base/Skull &amp; Ghosts Effects.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Skull &amp; Ghosts Effects.meta.svn-base"/>
+<modify-entry
+   name="Skull &amp; Ghosts Effects.meta"
+   checksum="5380495b95f09d560643d76a2ca6a391"/>
+<modify-entry
+   name="Skull &amp; Ghosts Effects.meta"
+   text-time="working"/>
+<modify-entry
+   name="Skull &amp; Ghosts Effects.meta"
+   working-size="working"/>

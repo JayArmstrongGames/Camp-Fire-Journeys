@@ -1,0 +1,1480 @@
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathGhost%20Orange.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathGhost Orange.prefab"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost Orange.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathGhost Orange.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost Orange.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathGhost Orange.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   checksum="8b1cc70d7fef3bd223b2190655635724"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathGhost%20Orange.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost Orange.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathGhost Orange.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost Orange.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathGhost Orange.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   checksum="ce79932f19a45b3d8d31e2e0aa08f887"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost Orange.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathGhost_Ground%20Orange.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   checksum="590cae9ed68641ac400bdf2d92a99960"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathGhost_Ground%20Orange.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   checksum="d471a7a798c545f1a8303081d17a2922"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathGhost_Ground Orange.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathSkull%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathSkull Green.prefab"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathSkull Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathSkull Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   checksum="6ca0fc8e62c4cccb4294d6939aae8c31"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathSkull%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathSkull Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathSkull Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   checksum="e20ea1a2ef6767c28709aae7ee921b4b"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathSkull_Ground%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   checksum="ccf5d90435982be5135e227457184407"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_EnemyDeathSkull_Ground%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_EnemyDeathSkull_Ground Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   checksum="10d594b8477026c46ba1c7b1298fc811"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_EnemyDeathSkull_Ground Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PoisonCloud Orange.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PoisonCloud Orange.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_PoisonCloud%20Orange.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PoisonCloud Orange.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PoisonCloud Orange.prefab"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Orange.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PoisonCloud Orange.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Orange.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PoisonCloud Orange.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab"
+   checksum="951d54a0dc180ffae1a3b893ade3254f"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_PoisonCloud%20Orange.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PoisonCloud Orange.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Orange.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PoisonCloud Orange.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Orange.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PoisonCloud Orange.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   checksum="579b8cfb3ea976ea1aa818b81948f6bf"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Orange.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PoisonCloud Purple.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PoisonCloud Purple.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_PoisonCloud%20Purple.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PoisonCloud Purple.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PoisonCloud Purple.prefab"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Purple.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PoisonCloud Purple.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Purple.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PoisonCloud Purple.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab"
+   checksum="91794c0aebf58571d8722ed6f35088e9"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_PoisonCloud%20Purple.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_PoisonCloud Purple.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Purple.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_PoisonCloud Purple.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_PoisonCloud Purple.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_PoisonCloud Purple.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   checksum="aa389dec30e0dd25ff80020baa0cfef9"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_PoisonCloud Purple.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullEyes%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab"
+   checksum="2692588cb7a08c690e46d9518cf9fa4f"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullEyes%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   checksum="0d9282a8986dcb6b89b014b1826466c1"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Purple.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Purple.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullEyes%20Purple.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Purple.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Purple.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Purple.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Purple.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Purple.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Purple.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab"
+   checksum="c67bc3fa179ef730a356a32e36972500"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullEyes%20Purple.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Purple.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Purple.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Purple.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Purple.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Purple.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   checksum="ba0eefd59ae1757d3481c939d6fda58b"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Purple.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Yellow.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Yellow.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullEyes%20Yellow.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Yellow.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Yellow.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Yellow.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Yellow.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Yellow.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Yellow.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab"
+   checksum="e4e91c9b7828e118becdb017aae31d21"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullEyes%20Yellow.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullEyes Yellow.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Yellow.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullEyes Yellow.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullEyes Yellow.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullEyes Yellow.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   checksum="898f3463e82b5c1eb8fad2b132a6d312"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullEyes Yellow.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullResonance Blue.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullResonance Blue.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullResonance%20Blue.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullResonance Blue.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullResonance Blue.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Blue.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullResonance Blue.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Blue.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullResonance Blue.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab"
+   checksum="09857007769b1c715c0dd3b2da264472"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullResonance%20Blue.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullResonance Blue.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Blue.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullResonance Blue.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Blue.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullResonance Blue.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   checksum="81d695401a84e8121a50a7f283db2c24"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Blue.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullResonance Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullResonance Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullResonance%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullResonance Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullResonance Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullResonance Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullResonance Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab"
+   checksum="fb67ad4ccdb111427f2e984da37c3bba"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullResonance%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullResonance Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullResonance Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullResonance Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullResonance Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   checksum="c71d5397b3315f6965346645eb93e32a"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullResonance Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullRotate Cyan.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullRotate Cyan.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullRotate%20Cyan.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullRotate Cyan.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullRotate Cyan.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Cyan.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullRotate Cyan.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Cyan.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullRotate Cyan.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab"
+   checksum="433f0e4b19e036d5ba88b01c82cf99bd"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullRotate%20Cyan.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullRotate Cyan.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Cyan.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullRotate Cyan.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Cyan.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullRotate Cyan.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   checksum="add21abd080dd566f7a38d8e9939e711"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Cyan.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullRotate Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullRotate Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullRotate%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullRotate Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullRotate Green.prefab"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullRotate Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullRotate Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab"
+   checksum="2780a8b94a377fd512c9b6fdedee0a5d"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SkullRotate%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SkullRotate Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SkullRotate Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SkullRotate Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SkullRotate Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   checksum="40da2efec1220eb9072dbf522ab5b418"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SkullRotate Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Soul Green.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Soul Green.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_Soul%20Green.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Soul Green.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Soul Green.prefab"
+   name=".svn/tmp/text-base/CFXM2_Soul Green.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Soul Green.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Soul Green.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Soul Green.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab"
+   checksum="91a3ce41772e614554bf2bdbbf618aac"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Soul Green.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Soul Green.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_Soul%20Green.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Soul Green.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Soul Green.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Soul Green.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Soul Green.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Soul Green.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Soul Green.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab.meta"
+   checksum="4953eeeab18bc873562c45868c14a7f9"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Soul Green.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Soul Red.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Soul Red.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_Soul%20Red.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Soul Red.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Soul Red.prefab"
+   name=".svn/tmp/text-base/CFXM2_Soul Red.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Soul Red.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Soul Red.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Soul Red.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab"
+   checksum="126ee7e15f55062b00f5af772b80092e"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Soul Red.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Soul Red.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_Soul%20Red.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Soul Red.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Soul Red.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Soul Red.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Soul Red.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Soul Red.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Soul Red.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab.meta"
+   checksum="89a9fe8b1de7ed04ac5a6b755ea58329"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Soul Red.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Soul White.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Soul White.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_Soul%20White.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Soul White.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Soul White.prefab"
+   name=".svn/tmp/text-base/CFXM2_Soul White.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Soul White.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Soul White.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Soul White.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab"
+   checksum="ce2c24b6b6e9ae47e27cd0c27fc7c529"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Soul White.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Soul White.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_Soul%20White.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Soul White.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Soul White.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_Soul White.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Soul White.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Soul White.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Soul White.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab.meta"
+   checksum="ea7d30fdec842d33133ab7e668245495"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Soul White.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SoulsEscape Orange.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SoulsEscape Orange.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SoulsEscape%20Orange.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SoulsEscape Orange.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SoulsEscape Orange.prefab"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Orange.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SoulsEscape Orange.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Orange.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SoulsEscape Orange.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab"
+   checksum="0b1ab6c4e1ed07b0d52b109e941aaa3c"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SoulsEscape%20Orange.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SoulsEscape Orange.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Orange.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SoulsEscape Orange.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Orange.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SoulsEscape Orange.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   checksum="f8b91600f80a1d467303347eee63f648"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Orange.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SoulsEscape%20Rainbow.prefab"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SoulsEscape Rainbow.prefab"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Rainbow.prefab.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SoulsEscape Rainbow.prefab.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Rainbow.prefab.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SoulsEscape Rainbow.prefab.svn-base"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   checksum="4e7fd3ea0b6db20c7c946da6aed62661"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Skull%20&amp;%20Ghosts%20Effects/Color%20Variants/CFXM2_SoulsEscape%20Rainbow.prefab.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Rainbow.prefab.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_SoulsEscape Rainbow.prefab.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_SoulsEscape Rainbow.prefab.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_SoulsEscape Rainbow.prefab.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   checksum="6cca80718b0cd6f45858a4574050ea3c"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_SoulsEscape Rainbow.prefab.meta"
+   working-size="working"/>
+<modify-entry
+   name="Water.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Water.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Water.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Water.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Water.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Water.meta"
+   name=".svn/tmp/text-base/Water.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Water.meta.svn-base"
+   name=".svn/tmp/text-base/Water.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Water.meta.svn-base"/>
+<modify-entry
+   name="Water.meta"
+   checksum="6430e3455dd72c7d606b52d8ef6409bb"/>
+<modify-entry
+   name="Water.meta"
+   text-time="working"/>
+<modify-entry
+   name="Water.meta"
+   working-size="working"/>

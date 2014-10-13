@@ -1,0 +1,280 @@
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_ShatteredGround1.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_ShatteredGround1.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals/CFXM2_ShatteredGround1.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_ShatteredGround1.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_ShatteredGround1.mat"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround1.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_ShatteredGround1.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround1.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_ShatteredGround1.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat"
+   checksum="1ce6ccf5395b638e27c3e6634c570d64"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_ShatteredGround1.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_ShatteredGround1.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals/CFXM2_ShatteredGround1.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_ShatteredGround1.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_ShatteredGround1.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround1.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_ShatteredGround1.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround1.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_ShatteredGround1.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat.meta"
+   checksum="9994a870022176f027c38670357ef8a5"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround1.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_ShatteredGround2.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_ShatteredGround2.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals/CFXM2_ShatteredGround2.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_ShatteredGround2.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_ShatteredGround2.mat"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround2.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_ShatteredGround2.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround2.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_ShatteredGround2.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat"
+   checksum="df78ecf9c7c87cd26dd5621741217edc"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_ShatteredGround2.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_ShatteredGround2.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals/CFXM2_ShatteredGround2.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_ShatteredGround2.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_ShatteredGround2.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround2.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_ShatteredGround2.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_ShatteredGround2.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_ShatteredGround2.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat.meta"
+   checksum="14de4b4aa5f6c7f46cef79e168527d7b"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_ShatteredGround2.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_BurntGround.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_BurntGround.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_BurntGround.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals/CFXM_BurntGround.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_BurntGround.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_BurntGround.mat"
+   name=".svn/tmp/text-base/CFXM_BurntGround.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_BurntGround.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM_BurntGround.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_BurntGround.mat.svn-base"/>
+<modify-entry
+   name="CFXM_BurntGround.mat"
+   checksum="291dc4cde02eb5725857040eb51e978c"/>
+<modify-entry
+   name="CFXM_BurntGround.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_BurntGround.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM_BurntGround.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM_BurntGround.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM_BurntGround.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals/CFXM_BurntGround.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM_BurntGround.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM_BurntGround.mat.meta"
+   name=".svn/tmp/text-base/CFXM_BurntGround.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM_BurntGround.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM_BurntGround.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM_BurntGround.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM_BurntGround.mat.meta"
+   checksum="0303d31cd2467f9657d021c98d9c8e89"/>
+<modify-entry
+   name="CFXM_BurntGround.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM_BurntGround.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Electric.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Electric.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Electric.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Electric.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Electric.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Electric.meta"
+   name=".svn/tmp/text-base/Electric.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Electric.meta.svn-base"
+   name=".svn/tmp/text-base/Electric.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Electric.meta.svn-base"/>
+<modify-entry
+   name="Electric.meta"
+   checksum="07aebda5ff6546eaed3948351b81bcb1"/>
+<modify-entry
+   name="Electric.meta"
+   text-time="working"/>
+<modify-entry
+   name="Electric.meta"
+   working-size="working"/>

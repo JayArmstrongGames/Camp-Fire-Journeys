@@ -1,0 +1,40 @@
+<modify-entry
+   name="Blood.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Blood.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Blood.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/CFX2%20Prefabs%20(Mobile)/Blood.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Blood.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Blood.meta"
+   name=".svn/tmp/text-base/Blood.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Blood.meta.svn-base"
+   name=".svn/tmp/text-base/Blood.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Blood.meta.svn-base"/>
+<modify-entry
+   name="Blood.meta"
+   checksum="62704d727b1084cfe8fc9b10456dbc80"/>
+<modify-entry
+   name="Blood.meta"
+   text-time="working"/>
+<modify-entry
+   name="Blood.meta"
+   working-size="working"/>

@@ -1,0 +1,443 @@
+<add-tree-conflict
+   name=""
+   data="((conflict Blood dir update added added (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Blood dir) (version https://ArtJimp@github.com/HardcoreDinosaur/DropSlam 3 120 branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Blood dir)))"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood AB.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood AB.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_Blood%20AB.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood AB.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood AB.mat"
+   name=".svn/tmp/text-base/CFXM2_Blood AB.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood AB.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood AB.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood AB.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat"
+   checksum="e5b7105417d50bb379b2d165e9092789"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood AB.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood AB.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_Blood%20AB.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood AB.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood AB.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Blood AB.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood AB.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood AB.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood AB.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat.meta"
+   checksum="73ef99e727bbcd7dbd7a48881625259e"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood AB.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_Blood%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood Add.mat"
+   name=".svn/tmp/text-base/CFXM2_Blood Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat"
+   checksum="a10d9a28299d8f34e800acf4a439a8bc"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_Blood Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_Blood Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_Blood%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_Blood Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_Blood Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_Blood Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_Blood Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_Blood Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_Blood Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat.meta"
+   checksum="6aed389a42ec74b7762a2345f765b797"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_Blood Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle AB.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle AB.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_BloodPuddle%20AB.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle AB.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle AB.mat"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle AB.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle AB.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle AB.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle AB.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat"
+   checksum="449db9a35e84541fe272bbbed067debf"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_BloodPuddle%20AB.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle AB.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle AB.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle AB.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle AB.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle AB.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   checksum="2bff5c326030d0bf054bc9461654a033"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle AB.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle Add.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle Add.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_BloodPuddle%20Add.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle Add.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle Add.mat"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Add.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle Add.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Add.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle Add.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat"
+   checksum="f7d53dbd24d9f770408a030debb55a31"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_BloodPuddle%20Add.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle Add.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Add.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle Add.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Add.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle Add.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   checksum="58b12496ff46b50bd18eaafb97a218ed"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Add.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle Multiply.mat"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle Multiply.mat"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_BloodPuddle%20Multiply.mat"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle Multiply.mat"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle Multiply.mat"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Multiply.mat.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle Multiply.mat.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Multiply.mat.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle Multiply.mat.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat"
+   checksum="fe7a5260b24f2508f91b83fea886234a"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat"
+   working-size="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Blood/CFXM2_BloodPuddle%20Multiply.mat.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="CFXM2_BloodPuddle Multiply.mat.meta"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Multiply.mat.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/CFXM2_BloodPuddle Multiply.mat.meta.svn-base"
+   name=".svn/tmp/text-base/CFXM2_BloodPuddle Multiply.mat.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/CFXM2_BloodPuddle Multiply.mat.meta.svn-base"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   checksum="2d8d882dea9d361d1bcfac20adbfda98"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   text-time="working"/>
+<modify-entry
+   name="CFXM2_BloodPuddle Multiply.mat.meta"
+   working-size="working"/>
+<modify-entry
+   name="Decals.meta"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="112"
+   committed-date="2014-04-27T23:41:01.000000Z"
+   name="Decals.meta"
+   last-author="joey.betz"
+   uuid="b65d266c-9699-e622-cf4b-ce57b7db7bff"/>
+<modify-wcprop
+   name="Decals.meta"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/HardcoreDinosaur/DropSlam/!svn/ver/112/branches/joey/Assets/AddOns/JMO%20Assets/Cartoon%20FX/Materials%20(Mobile)/Decals.meta"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Decals.meta"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="120"/>
+<cp-and-translate
+   dest="Decals.meta"
+   name=".svn/tmp/text-base/Decals.meta.svn-base"/>
+<mv
+   dest=".svn/text-base/Decals.meta.svn-base"
+   name=".svn/tmp/text-base/Decals.meta.svn-base"/>
+<readonly
+   name=".svn/text-base/Decals.meta.svn-base"/>
+<modify-entry
+   name="Decals.meta"
+   checksum="3e7063b7522e30c6b14bc82f2a259971"/>
+<modify-entry
+   name="Decals.meta"
+   text-time="working"/>
+<modify-entry
+   name="Decals.meta"
+   working-size="working"/>
