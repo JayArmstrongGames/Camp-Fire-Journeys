@@ -150,6 +150,9 @@ public class PlayerControl : MonoBehaviour {
 					clingDelay();
 				}
 			break;
+			case "chargeAttack":
+				canAttack();
+			break;
 		}
 
 		if (canRegainMove && !moving)
@@ -211,11 +214,38 @@ public class PlayerControl : MonoBehaviour {
 		}
 	}
 
+	float attackCharge = 0;
 	void canAttack()
 	{
-		//ATTACK
 		if (device.GetAction3DownOnce())
 		{
+			attackCharge = Time.time;
+		}
+
+		if (device.GetAction3Down())
+		{
+			if (Time.time - attackCharge > 0.3f && state != "chargetAttack")
+			{
+				state = "chargeAttack";
+			}
+		}
+
+		if (device.GetAction3UpOnce())
+		{
+			Debug.Log("Time:   " + (attackCharge - Time.time));
+			if (Time.time - attackCharge > 0.5f)
+			{
+				doChargeAttack();
+			} else {
+				doAttack();
+			}
+			attackCharge = 0;
+		}
+	}
+
+	void doAttack(){
+		Debug.Log("Standard attack");
+		//ATTACK
 			combo++; if (combo > 3)combo = 1;
 			Vector2 velocity = gameObject.rigidbody2D.velocity;
 			velocity.x = 10.0f * skeletonAnimation.transform.localScale.x;
@@ -230,7 +260,18 @@ public class PlayerControl : MonoBehaviour {
 			skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
 
 			state = "attack";
-		}
+	}
+
+	void doChargeAttack(){
+		Debug.Log("Charge attack");
+		//ATTACK
+		combo++; if (combo > 3)combo = 1;
+		Vector2 velocity = gameObject.rigidbody2D.velocity;
+		velocity.x = 20.0f * skeletonAnimation.transform.localScale.x;
+		gameObject.rigidbody2D.velocity = velocity;
+		skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+		skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
+		state = "attack";
 	}
 
 	bool canJump()
@@ -340,7 +381,10 @@ public class PlayerControl : MonoBehaviour {
 			break;
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("GunEnd");
-			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY -+ 0.5f);
+			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY - 0.7f);
+			Debug.Log("wpnmanager facing1 " + weaponmanager.transform.localScale);
+			Vector3 gunFacing = weaponmanager.transform.localScale;gunFacing.x = skeletonAnimation.transform.localScale.x;weaponmanager.transform.localScale = gunFacing;
+			Debug.Log("wpnmanager facing2 " + weaponmanager.transform.localScale);
 			weaponmanager.Fire(); gunKickBack = 20;
 			break;
 		}

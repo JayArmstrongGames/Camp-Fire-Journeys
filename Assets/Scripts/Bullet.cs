@@ -31,8 +31,11 @@ public class Bullet : MonoBehaviour {
 		DamageBox damagebox = col.gameObject.GetComponent<DamageBox>();
 		if (damagebox != null)
 		{
-			damagebox.Damage(0.5f);
-			Destroy(gameObject);
+			if (damagebox.Team != Team)
+			{
+				damagebox.Damage(0.5f);
+				Destroy(gameObject);
+			}
 		} else if (col.gameObject.layer == LayerMask.NameToLayer("Bullets"))
 		{
 			Debug.Log ("Pichewww!");

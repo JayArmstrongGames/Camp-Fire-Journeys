@@ -16,7 +16,7 @@ public class Weapon : MonoBehaviour {
 	void Start()
 	{
 		spriteparticlemanager = GameObject.FindGameObjectWithTag("SpriteParticle Manager").GetComponent<SpriteParticleManager>();
-		transform.localScale = transform.parent.parent.GetComponentInChildren<SpriteRenderer>().transform.localScale;
+		//transform.localScale = transform.parent.parent.GetComponentInChildren<SpriteRenderer>().transform.localScale;
 	}
 
 	public virtual void Fire()

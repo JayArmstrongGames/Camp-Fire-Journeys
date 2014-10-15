@@ -20,6 +20,7 @@ public class WeaponManager : MonoBehaviour {
 
 	public void Fire()
 	{
+		CurrentWeapon.transform.localScale = transform.localScale;
 		CurrentWeapon.Fire();
 	}
 
