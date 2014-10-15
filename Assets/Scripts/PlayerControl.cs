@@ -40,7 +40,7 @@ public class PlayerControl : MonoBehaviour {
 		head = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("head");
 		hip = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("body");
 		weaponmanager = gameObject.GetComponentInChildren<WeaponManager>();
-		meleemanager = gameObject.GetComponentInChildren<MeleeManager>();
+		meleemanager = gameObject.GetComponentInChildren<MeleeManager>(); 
 		GameObject gameGameObject = GameObject.FindGameObjectWithTag( "Level" );
 		level = gameGameObject.GetComponent<LevelInfo>(); 
 	}
@@ -291,7 +291,7 @@ public class PlayerControl : MonoBehaviour {
 		Vector2 velocity = gameObject.rigidbody2D.velocity;
 		if (device.GetInputMoveVector().y != 0f)
 		{
-			velocity.y = 30f;
+			velocity.y = 26f;
 			velocity.x = 0f;
 		} else {
 			velocity.x = 20.0f * skeletonAnimation.transform.localScale.x;
@@ -406,7 +406,13 @@ public class PlayerControl : MonoBehaviour {
 		switch (e.ToString())
 		{
 			case "ATTACK_HIT":
-				meleemanager.Attack(1,0);
+				if (device.GetInputMoveVector().y > 0f)
+				{
+				Debug.Log("UP ATTACK");
+					meleemanager.Attack("UP");
+				} else {
+					meleemanager.Attack();
+				}
 			break;
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("GunEnd");

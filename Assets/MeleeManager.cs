@@ -5,19 +5,16 @@ using System.Collections.Generic;
 public class MeleeManager : MonoBehaviour {
 
 	BoxCollider2D hitBox;
-	float yThrust;
-	float xThrust;
+	string thrustDirection;
 
 	void Start () {
 		hitBox = GetComponent<BoxCollider2D>();
 		hitBox.enabled = false;
 	}
 
-	public void Attack(float xThrust, float yThrust)
+	public void Attack(string thrustDirection = "")
 	{
-		this.yThrust = yThrust;
-		this.xThrust = xThrust;
-	
+		this.thrustDirection = thrustDirection;
 		hitBox.enabled = true;
 		Vector3 position = hitBox.transform.localPosition;
 		position.x = hitBox.bounds.size.x / 2 * transform.parent.GetComponent<Movement>().facing.x;
@@ -34,14 +31,6 @@ public class MeleeManager : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D col)
 	{
-		/*
-		if (col.rigidbody2D != null)
-		{
-			Vector2 knockBack = col.rigidbody2D.velocity;
-			knockBack.x += 10f * GetComponentInParent<Movement>().facing.x;
-			col.rigidbody2D.velocity = knockBack;
-		} 
-		*/
 
 		if (col.gameObject.layer == LayerMask.NameToLayer("Bullets"))
 		{
@@ -62,14 +51,19 @@ public class MeleeManager : MonoBehaviour {
 
 		if (col.rigidbody2D != null)
 		{
-			Debug.Log("explosion");
-			Rigidbody2D r = col.rigidbody2D;
-			if (Vector2.Distance(r.transform.position, transform.position) < 6) {
-				float px = r.transform.position.x - transform.position.x * xThrust;
-				float py = r.transform.position.y - transform.position.y * yThrust;
-				r.AddForce(new Vector2(px, py).normalized * 500 /  Vector2.Distance(r.transform.position, transform.position));
-				
+			switch (thrustDirection)
+			{
+				case "UP":
+					col.rigidbody2D.velocity.Set(0f, 400f);
+				break;
+				default:
+				//	Vector2 direction = 400f * (col.transform.position - transform.position);
+				//	direction.y = 0f;
+					col.rigidbody2D.velocity.Set(400f *transform.parent.GetComponent<Movement>().facing.x, 0f);
+					//col.rigidbody2D.AddForce(Vector2.right * 400f * transform.parent.GetComponent<Movement>().facing.x);
+				break;
 			}
+
 		}                         
 		
 		DamageBox damagebox = col.gameObject.GetComponent<DamageBox>();
