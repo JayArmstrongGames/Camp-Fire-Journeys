@@ -45,12 +45,17 @@ public class MeleeManager : MonoBehaviour {
 
 		if (col.gameObject.layer == LayerMask.NameToLayer("Bullets"))
 		{
-			Vector3 bulletScale = col.transform.localScale;
-			bulletScale.x *= -1;
-			col.transform.localScale = bulletScale;
-			//Vector2 velocity = col.rigidbody2D.velocity;
-			//velocity.x *= -1;
-			//col.rigidbody2D.velocity = velocity;
+		
+			Quaternion reflectAngle = col.transform.rotation;
+
+			if (col.transform.rotation.z == 0)
+			{
+				reflectAngle.z = 180f;
+			} else {
+				reflectAngle.z = 0f;
+			}
+			col.transform.rotation = reflectAngle;
+		
 			Debug.Log("Deflect bullet");
 			return;
 		}

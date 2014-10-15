@@ -1,3 +1,11 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Pipe name: \\.\pipe\UnityShaderCompiler-1--1598713432
 Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=0 insize=861 outsize=488 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=861 outsize=237 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=956 outsize=397 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=956 outsize=143 kw= ok=1

@@ -24,7 +24,15 @@ public class Weapon : MonoBehaviour {
 		if (Time.time > wait){
 		wait = Time.time + RateOfFire;
 		Bullet newbullet = Instantiate(bullet, transform.position, transform.rotation) as Bullet;
-		newbullet.transform.localScale = transform.localScale;
+		//newbullet.transform.localScale = transform.localScale;
+			if (transform.localScale.x < 0)
+			{
+				Quaternion bulletRotation = newbullet.transform.rotation;
+				bulletRotation.z = 180f;
+				newbullet.transform.rotation = bulletRotation;
+			}
+			
+
 		UnitStats unitinfo = gameObject.transform.parent.GetComponentInParent<UnitStats>();
 		newbullet.Team = unitinfo.Team;
 		if (spriteparticlemanager == null)return;

@@ -13,9 +13,12 @@ public class Bullet : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		Vector2 velocity = rigidbody2D.velocity;
-		velocity.x = Speed * transform.localScale.x;
-		rigidbody2D.velocity = velocity;
+		//Vector2 velocity = rigidbody2D.velocity;
+		//velocity.x = Speed * transform.localScale.x;
+		//rigidbody2D.velocity = velocity;
+
+		Vector3 velocity = this.transform.rotation * Vector3.right * Speed;
+		gameObject.rigidbody2D.velocity = velocity;
 	}
 
 	void OnTriggerEnter2D(Collider2D col)
