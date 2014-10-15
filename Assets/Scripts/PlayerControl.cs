@@ -93,9 +93,33 @@ public class PlayerControl : MonoBehaviour {
 			//	if (skeletonAnimation.state.ToString() != "Land")skeletonAnimation.state.SetAnimation(0, "Land", false);
 				//wait until animation has played
 			break;
+			case "chargingAttack":
+				if (device.GetInputMoveVector().x < 0)
+				{
+					Vector3 turnAround = movement.facing; turnAround.x = -1; movement.facing = turnAround;
+					skeletonAnimation.transform.localScale = movement.facing;
+				} else if (device.GetInputMoveVector().x > 0)
+				{
+					Vector3 turnAround = movement.facing; turnAround.x = 1; movement.facing = turnAround;
+					skeletonAnimation.transform.localScale = movement.facing;
+				}
+				canAttack();
+			break;
 			case "attack":
 				Vector2 velocity = gameObject.rigidbody2D.velocity;
 				velocity.x += (0f - velocity.x)/8;
+				gameObject.rigidbody2D.velocity = velocity;
+			break;
+			case "chargeAttack":
+				velocity = gameObject.rigidbody2D.velocity;
+				if (Mathf.Abs(velocity.x) > Mathf.Abs(velocity.y))
+				{
+					velocity.x += (0f - velocity.x)/15;
+					velocity.y = 0f;
+				} else {
+					velocity.x = 0f;
+					velocity.y += (0f - velocity.y)/15;
+				}
 				gameObject.rigidbody2D.velocity = velocity;
 			break;
 			case "wallslide":
@@ -150,6 +174,7 @@ public class PlayerControl : MonoBehaviour {
 					clingDelay();
 				}
 			break;
+	
 		}
 
 		if (canRegainMove && !moving)
@@ -159,7 +184,7 @@ public class PlayerControl : MonoBehaviour {
 				moving = true;
 			}
 		}
-		if (!movement.onGround && state != "wallslide" && state != "cling")
+		if (!movement.onGround && state != "wallslide" && state != "cling" && state != "chargeAttack")
 		{
 			state = "jump";
 		}
@@ -211,11 +236,38 @@ public class PlayerControl : MonoBehaviour {
 		}
 	}
 
+	float attackCharge = 0;
 	void canAttack()
 	{
-		//ATTACK
 		if (device.GetAction3DownOnce())
 		{
+			attackCharge = Time.time;
+		}
+
+		if (device.GetAction3Down())
+		{
+			if (Time.time - attackCharge > 0.2f && state != "chargetAttack")
+			{
+				state = "chargingAttack";
+			}
+		}
+
+		if (device.GetAction3UpOnce())
+		{
+			Debug.Log("Time:   " + (attackCharge - Time.time));
+			if (Time.time - attackCharge > 0.5f)
+			{
+				doChargeAttack();
+			} else {
+				doAttack();
+			}
+			attackCharge = 0;
+		}
+	}
+
+	void doAttack(){
+		Debug.Log("Standard attack");
+		//ATTACK
 			combo++; if (combo > 3)combo = 1;
 			Vector2 velocity = gameObject.rigidbody2D.velocity;
 			velocity.x = 10.0f * skeletonAnimation.transform.localScale.x;
@@ -230,7 +282,25 @@ public class PlayerControl : MonoBehaviour {
 			skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
 
 			state = "attack";
+	}
+
+	void doChargeAttack(){
+		Debug.Log("Charge attack");
+		//ATTACK
+		combo++; if (combo > 3)combo = 1;
+		Vector2 velocity = gameObject.rigidbody2D.velocity;
+		if (device.GetInputMoveVector().y != 0f)
+		{
+			velocity.y = 30f;
+			velocity.x = 0f;
+		} else {
+			velocity.x = 20.0f * skeletonAnimation.transform.localScale.x;
+			velocity.y = 0f;
 		}
+		gameObject.rigidbody2D.velocity = velocity;
+		skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+		skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
+		state = "chargeAttack";
 	}
 
 	bool canJump()
@@ -340,7 +410,10 @@ public class PlayerControl : MonoBehaviour {
 			break;
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("GunEnd");
-			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY);
+			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY - 0.7f);
+			Debug.Log("wpnmanager facing1 " + weaponmanager.transform.localScale);
+			Vector3 gunFacing = weaponmanager.transform.localScale;gunFacing.x = skeletonAnimation.transform.localScale.x;weaponmanager.transform.localScale = gunFacing;
+			Debug.Log("wpnmanager facing2 " + weaponmanager.transform.localScale);
 			weaponmanager.Fire(); gunKickBack = 20;
 			break;
 		}
@@ -363,7 +436,7 @@ public class PlayerControl : MonoBehaviour {
 		case "attack1":
 		case "attack2": 
 		case "attack3":
-				if (state == "attack")
+			if (state == "attack" || state == "chargeAttack")
 				{
 					if (device.GetInputMoveVector().x != 0f)
 					{
