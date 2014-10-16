@@ -111,7 +111,7 @@ public class PlayerControl : MonoBehaviour {
 				Vector2 velocity = gameObject.rigidbody2D.velocity;
 				velocity.x += (0f - velocity.x)/8;
 				gameObject.rigidbody2D.velocity = velocity;
-				if (Time.time - attackDelay > 0.1f)canAttack();
+				if (Time.time - attackDelay > 0.4f)canAttack();
 
 			break;
 			case "chargeAttack":
@@ -194,6 +194,11 @@ public class PlayerControl : MonoBehaviour {
 		{
 			state = "jump";
 		}
+
+		if (!device.GetAction3Down() && !device.GetAction3UpOnce())
+		{
+			attackCharge = Time.time;
+		}
 	}
 
 	void moveDelay(float delay = 0.4f)
@@ -242,23 +247,11 @@ public class PlayerControl : MonoBehaviour {
 		}
 	}
 
-	float attackCharge = 0f;
+	float attackCharge;
 	void canAttack()
 	{
-		Debug.Log(attackCharge);
-		if (device.GetAction3DownOnce())
-		{
-			attackCharge = Time.time;
-		}
 
-		if (device.GetAction3Down())
-		{
-			if (Time.time - attackCharge > 0.2f && state != "chargingAttack")
-			{
-				state = "chargingAttack";
-				skeletonAnimation.state.SetAnimation(0, "Charging", true);
-			}
-		}
+
 
 		if (device.GetAction3UpOnce())
 		{
@@ -270,15 +263,22 @@ public class PlayerControl : MonoBehaviour {
 				attackDelay = Time.time;
 				doAttack();
 			}
-			attackCharge = 0f;
 		}
+
+		if (device.GetAction3Down())
+		{
+			if (Time.time - attackCharge > 0.2f && state != "chargingAttack")
+			{
+				state = "chargingAttack";
+				skeletonAnimation.state.SetAnimation(0, "Charging", true);
+			}
+		} 
 	}
 
 	void doAttack(){
 		Debug.Log("Standard attack");
 		//ATTACK
-			float yThrust = device.GetInputMoveVector().y; Debug.Log ("Y THURST " + yThrust);
-			if (yThrust > 0){ 
+			if (device.GetInputMoveVector().y > 0){ 
 				skeletonAnimation.state.SetAnimation(0, "attackUp", false);
 			} else {
 				combo++; if (combo > 3)combo = 1;
