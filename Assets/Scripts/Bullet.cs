@@ -23,7 +23,7 @@ public class Bullet : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D col)
 	{
-		if (col.rigidbody2D != null)
+		if (col.rigidbody2D != null && col.gameObject.layer != LayerMask.NameToLayer("Bullets"))
 		{
 			col.rigidbody2D.AddForceAtPosition(rigidbody2D.velocity * 25, transform.position);
 		}                              

@@ -71,6 +71,7 @@ public class PlayerControl : MonoBehaviour {
 			case "jump":
 				canMove();
 				canShoot();
+				canAttack();
 				if (canSlide()){return;}
 				if (gameObject.rigidbody2D.velocity.y > 0)
 				{
@@ -265,7 +266,7 @@ public class PlayerControl : MonoBehaviour {
 			}
 		}
 
-		if (device.GetAction3Down())
+		if (device.GetAction3Down() && movement.onGround)
 		{
 			if (Time.time - attackCharge > 0.2f && state != "chargingAttack")
 			{
@@ -295,7 +296,7 @@ public class PlayerControl : MonoBehaviour {
 		//ATTACK
 		combo++; if (combo > 3)combo = 1;
 		Vector2 velocity = gameObject.rigidbody2D.velocity;
-		if (device.GetInputMoveVector().y != 0f)
+		if (device.GetInputMoveVector().y > 0.3f)
 		{
 			velocity.y = 26f;
 			velocity.x = 0f;
