@@ -16,8 +16,17 @@ public class MeleeManager : MonoBehaviour {
 	{
 		this.thrustDirection = thrustDirection;
 		hitBox.enabled = true;
+	
 		Vector3 position = hitBox.transform.localPosition;
-		position.x = hitBox.bounds.size.x / 2 * transform.parent.GetComponent<Movement>().facing.x;
+		switch(thrustDirection)
+		{
+		case "CHARGEUP":
+			position.y = hitBox.bounds.size.y / 2;
+			break;
+		default:
+			position.x = hitBox.bounds.size.x / 2 * transform.parent.GetComponent<Movement>().facing.x;
+			break;
+		}
 		hitBox.transform.localPosition = position;
 		Invoke("endAttack", 0.1f);
 	}
@@ -51,15 +60,17 @@ public class MeleeManager : MonoBehaviour {
 
 		if (col.rigidbody2D != null)
 		{
+
+			Debug.Log (col + "   " + thrustDirection);
 			switch (thrustDirection)
 			{
 				case "UP":
-					col.rigidbody2D.velocity.Set(0f, 400f);
+					col.rigidbody2D.velocity = new Vector2(0f, 10f);
+					Debug.Log(col.rigidbody2D.velocity);
 				break;
 				default:
-				//	Vector2 direction = 400f * (col.transform.position - transform.position);
-				//	direction.y = 0f;
-					col.rigidbody2D.velocity.Set(400f *transform.parent.GetComponent<Movement>().facing.x, 0f);
+		
+					col.rigidbody2D.velocity = new Vector2(15f *transform.parent.GetComponent<Movement>().facing.x, 3f);
 					//col.rigidbody2D.AddForce(Vector2.right * 400f * transform.parent.GetComponent<Movement>().facing.x);
 				break;
 			}

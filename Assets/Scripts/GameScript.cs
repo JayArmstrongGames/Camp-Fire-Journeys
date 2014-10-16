@@ -12,14 +12,11 @@ public class GameScript : MonoBehaviour {
 	void Start () {
 		main = Main.GetInstance();
 		InitPlayers();
-
-
-
-
 	}
 
 	void InitPlayers()
 	{
+
 		for ( int i = 0; i < main.playerDevices.Count; i++ )
 		{
 			GameObject player = Instantiate( playerPrefab, GetNextSpawnPoint(), transform.rotation ) as GameObject;
@@ -28,6 +25,7 @@ public class GameScript : MonoBehaviour {
 			PlayerControl playercontrol = player.GetComponent<PlayerControl>();
 			playercontrol.SetDevice( main.playerDevices[i] );
 			player.SetActive( true );
+
 		}
 
 	}

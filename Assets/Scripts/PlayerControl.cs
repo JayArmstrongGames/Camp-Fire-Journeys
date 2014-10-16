@@ -116,10 +116,12 @@ public class PlayerControl : MonoBehaviour {
 				{
 					velocity.x += (0f - velocity.x)/15;
 					velocity.y = 0f;
+					if (Mathf.Abs(velocity.x) < 3f)state = "idle";
 				} else {
 					velocity.x = 0f;
 					velocity.y += (0f - velocity.y)/15;
-				}
+					if (velocity.y < 1f)state = "idle";
+			}
 				gameObject.rigidbody2D.velocity = velocity;
 			break;
 			case "wallslide":
@@ -236,7 +238,7 @@ public class PlayerControl : MonoBehaviour {
 		}
 	}
 
-	float attackCharge = 0;
+	float attackCharge = 0f;
 	void canAttack()
 	{
 		if (device.GetAction3DownOnce())
@@ -246,37 +248,34 @@ public class PlayerControl : MonoBehaviour {
 
 		if (device.GetAction3Down())
 		{
-			if (Time.time - attackCharge > 0.2f && state != "chargetAttack")
+			if (Time.time - attackCharge > 0.2f && state != "chargingAttack")
 			{
 				state = "chargingAttack";
+				skeletonAnimation.state.SetAnimation(0, "Charging", true);
 			}
 		}
 
 		if (device.GetAction3UpOnce())
 		{
-			Debug.Log("Time:   " + (attackCharge - Time.time));
-			if (Time.time - attackCharge > 0.5f)
+			if (Time.time - attackCharge > 0.3f)
 			{
 				doChargeAttack();
 			} else {
 				doAttack();
 			}
-			attackCharge = 0;
+			attackCharge = 0f;
 		}
 	}
 
 	void doAttack(){
 		Debug.Log("Standard attack");
 		//ATTACK
-			combo++; if (combo > 3)combo = 1;
-			Vector2 velocity = gameObject.rigidbody2D.velocity;
-			velocity.x = 10.0f * skeletonAnimation.transform.localScale.x;
-			gameObject.rigidbody2D.velocity = velocity;
-
-			float yThurst = device.GetInputMoveVector().y;
-			if (yThurst > 0){ 
-				skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+			float yThrust = device.GetInputMoveVector().y; Debug.Log ("Y THURST " + yThrust);
+			if (yThrust > 0){ 
+				skeletonAnimation.state.SetAnimation(0, "attackUp", false);
 			} else {
+				combo++; if (combo > 3)combo = 1;
+				gameObject.rigidbody2D.velocity = new Vector2(10f * skeletonAnimation.transform.localScale.x, gameObject.rigidbody2D.velocity.y);
 				skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
 			}
 			skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
@@ -293,12 +292,14 @@ public class PlayerControl : MonoBehaviour {
 		{
 			velocity.y = 26f;
 			velocity.x = 0f;
+			skeletonAnimation.state.SetAnimation(0, "Charge_vertical", false);
 		} else {
 			velocity.x = 20.0f * skeletonAnimation.transform.localScale.x;
 			velocity.y = 0f;
+			skeletonAnimation.state.SetAnimation(0, "Charge_horizontal", false);
 		}
 		gameObject.rigidbody2D.velocity = velocity;
-		skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
+
 		skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
 		state = "chargeAttack";
 	}
@@ -403,16 +404,22 @@ public class PlayerControl : MonoBehaviour {
 
 	void Event(Spine.AnimationState state, int trackIndex, Spine.Event e)
 	{
+		Debug.Log("EVENT: " +e.ToString());
 		switch (e.ToString())
 		{
 			case "ATTACK_HIT":
-				if (device.GetInputMoveVector().y > 0f)
-				{
-				Debug.Log("UP ATTACK");
-					meleemanager.Attack("UP");
-				} else {
-					meleemanager.Attack();
-				}
+			if (device.GetInputMoveVector().y > 0)
+			{
+				meleemanager.Attack("UP");
+			} else {
+				meleemanager.Attack();
+			}
+			break;
+			case "CHARGE_VERTICAL_HIT":
+				meleemanager.Attack();
+			break;
+			case "CHARGE_HORIZONTAL_HIT":
+				meleemanager.Attack("CHARGEUP");
 			break;
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("GunEnd");
@@ -437,11 +444,12 @@ public class PlayerControl : MonoBehaviour {
 
 		switch (animState.ToString())
 		{
-
-
 		case "attack1":
 		case "attack2": 
 		case "attack3":
+		case "Charge_horizontal":
+		case "Charge_vertical":
+		case "attackUp":
 			if (state == "attack" || state == "chargeAttack")
 				{
 					if (device.GetInputMoveVector().x != 0f)

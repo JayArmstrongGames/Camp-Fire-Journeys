@@ -59,7 +59,7 @@ public class Main
 
 	private void HandleDeviceAttached( InputDevice device )
 	{
-		Debug.Log( "Attached: " + device.Name + " " + device.Meta );
+		Debug.Log( "Attached: " + device.Name + " " + device.Meta + "   ");
 	}
 
 	private void HandlDeviceDetached( InputDevice device )
