@@ -20,6 +20,8 @@ public class PlayerControl : MonoBehaviour {
 	public 	SimpleTrigger rwallcling;
 	public 	SimpleTrigger lwallcling;
 
+	float attackDelay;
+
 	//[HideInInspector]
 	WeaponManager weaponmanager;
 	MeleeManager meleemanager;
@@ -109,6 +111,8 @@ public class PlayerControl : MonoBehaviour {
 				Vector2 velocity = gameObject.rigidbody2D.velocity;
 				velocity.x += (0f - velocity.x)/8;
 				gameObject.rigidbody2D.velocity = velocity;
+				if (Time.time - attackDelay > 0.1f)canAttack();
+
 			break;
 			case "chargeAttack":
 				velocity = gameObject.rigidbody2D.velocity;
@@ -241,6 +245,7 @@ public class PlayerControl : MonoBehaviour {
 	float attackCharge = 0f;
 	void canAttack()
 	{
+		Debug.Log(attackCharge);
 		if (device.GetAction3DownOnce())
 		{
 			attackCharge = Time.time;
@@ -257,10 +262,12 @@ public class PlayerControl : MonoBehaviour {
 
 		if (device.GetAction3UpOnce())
 		{
-			if (Time.time - attackCharge > 0.3f)
+			if (Time.time - attackCharge > 0.4f)
 			{
+				attackDelay = 9999f;
 				doChargeAttack();
 			} else {
+				attackDelay = Time.time;
 				doAttack();
 			}
 			attackCharge = 0f;
@@ -275,7 +282,7 @@ public class PlayerControl : MonoBehaviour {
 				skeletonAnimation.state.SetAnimation(0, "attackUp", false);
 			} else {
 				combo++; if (combo > 3)combo = 1;
-				gameObject.rigidbody2D.velocity = new Vector2(10f * skeletonAnimation.transform.localScale.x, gameObject.rigidbody2D.velocity.y);
+				if (device.GetInputMoveVector().x != 0f)gameObject.rigidbody2D.velocity = new Vector2(10f * skeletonAnimation.transform.localScale.x, gameObject.rigidbody2D.velocity.y);
 				skeletonAnimation.state.SetAnimation(0, "attack" + combo, false);
 			}
 			skeletonAnimation.state.AddAnimation(0, "Idle" , true, 0f);
@@ -408,12 +415,10 @@ public class PlayerControl : MonoBehaviour {
 		switch (e.ToString())
 		{
 			case "ATTACK_HIT":
-			if (device.GetInputMoveVector().y > 0)
-			{
-				meleemanager.Attack("UP");
-			} else {
 				meleemanager.Attack();
-			}
+			break;
+			case "ATTACKUP_HIT":
+				meleemanager.Attack("UP");
 			break;
 			case "CHARGE_VERTICAL_HIT":
 				meleemanager.Attack();
@@ -424,9 +429,7 @@ public class PlayerControl : MonoBehaviour {
 			case "FIRE_GUN":
 			Bone gun = gameObject.GetComponentInChildren<SkeletonAnimation>().skeleton.FindBone("GunEnd");
 			weaponmanager.transform.position = new Vector3(transform.position.x + (gun.worldX * skeletonAnimation.transform.localScale.x), transform.position.y + gun.WorldY - 0.7f);
-			Debug.Log("wpnmanager facing1 " + weaponmanager.transform.localScale);
 			Vector3 gunFacing = weaponmanager.transform.localScale;gunFacing.x = skeletonAnimation.transform.localScale.x;weaponmanager.transform.localScale = gunFacing;
-			Debug.Log("wpnmanager facing2 " + weaponmanager.transform.localScale);
 			weaponmanager.Fire(); gunKickBack = 20;
 			break;
 		}
